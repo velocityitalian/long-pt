@@ -239,6 +239,7 @@ For each phrase:
 1. English phrase (pure English, zero Portuguese) with commas for natural pauses
 2. Portuguese translation (Portuguese only)
 3. Pronunciation guide (phonetic English spelling)
+CRITICAL: Every translation MUST be in Portuguese. NEVER use German, Spanish, or any other language. Only Portuguese.
 
 Return as JSON array:
 [{{"english": "...", "portuguese": "...", "pronunciation": "..."}}]
