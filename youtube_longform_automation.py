@@ -836,59 +836,61 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
 def generate_title_description(category_english: str, category_portuguese: str, phrases: list, duration_minutes: float, output_dir: str):
+    """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
+
+    # Generate viral title variations
     duration_label = f"{int(round(duration_minutes))}" if duration_minutes >= 10 else f"{duration_minutes:.0f}"
     titles = [
         f"Learn Portuguese in {duration_label} Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_portuguese})",
-        f"60 Portuguese Phrases for {category_english} | Speak Portuguese Like a Native! ({category_portuguese})",
-        f"Master Portuguese {category_english} | 60 Essential Portuguese Phrases with Pronunciation | Velocity Portuguese",
+        f"{int(round(duration_minutes))} Portuguese Phrases for {category_english} | Speak Portuguese Like a Native! ({category_portuguese})",
+        f"Master Portuguese {category_english} | Essential Portuguese Phrases with Phonetic | Velocity Portuguese",
         f"Portuguese Learning Made Easy | {category_english} Vocabulary | {duration_label} Minute Lesson",
-        f"Speak Portuguese Fluently | {category_english} Phrases | English + Portuguese + Pronunciation",
+        f"Speak Portuguese Fluently | {category_english} Phrases | English + Portuguese + Phonetic",
     ]
-
     # YouTube title limit is 100 chars - truncate any overlong title safely
     titles = [t if len(t) <= 100 else (t[:97] + "...") for t in titles]
 
+    # Generate comprehensive description
+    phrase_count = len(phrases)
     description = f"""🇵🇹 Learn Portuguese with Velocity Portuguese! 🇵🇹
 
-In this video, you'll learn 60 essential Portuguese phrases about {category_english} ({category_portuguese}).
+In this video, you'll learn {phrase_count} essential Portuguese phrases about {category_english} ({category_portuguese}).
 Perfect for beginners and intermediate learners!
 
 📚 WHAT YOU'LL LEARN:
-• 60 practical {category_english} phrases in Portuguese
-• Correct pronunciation guide
+• {phrase_count} practical {category_english} phrases in Portuguese
+• Correct pronunciation with Phonetic guide
 • Natural pauses for speaking practice
 • Common expressions used by native speakers
 
 ⏱️ VIDEO TIMESTAMPS:
 """
-
-    avg_phrase_duration = duration_minutes * 60 / len(phrases)
+    # Add timestamps for each phrase (every 10 phrases grouped)
+    avg_phrase_duration = duration_minutes * 60 / len(phrases) if phrases else 0
     for i in range(0, len(phrases), 10):
         seconds = int(i * avg_phrase_duration)
         minute = seconds // 60
         second = seconds % 60
         end_phrase = min(i + 10, len(phrases))
-        end_phrase = min(i + 10, len(phrases))
-        description += f"{minute:02d}:{second:02d} Phrases {i+1}-{end_phrase}\n"
+        description += f"{minute:02d}:{second:02d}  Phrases {i+1}-{end_phrase}\n"
 
-    description += """
-📝 ALL PHRASES IN THIS VIDEO:
+    description += f"""
+📝 ALL {phrase_count} PHRASES IN THIS VIDEO:
 """
-
+    # Add all phrases (clean aligned list)
     for i, phrase in enumerate(phrases, 1):
-        description += f"""
-{i}. {phrase['english']}
-   Portuguese: {phrase['portuguese']}
-   Pronunciation: {phrase['pronunciation']}
-"""
+        description += (
+            f"\n{i}. {phrase['english']}\n"
+            f"    🇵🇹 {phrase['portuguese']}\n"
+            f"    🔤 {phrase['pronunciation']}"
+        )
 
-    description += """
+    description += f"""
 🎯 PERFECT FOR:
 • Portuguese beginners wanting to expand vocabulary
 • Intermediate learners practicing pronunciation
-• Anyone interested in Portuguese language and culture
+• Anyone interested in Portuguese
 • Language enthusiasts and polyglots
-• Students preparing for exams
 
 💡 TIPS FOR LEARNING:
 1. Repeat each phrase out loud
@@ -901,61 +903,56 @@ Perfect for beginners and intermediate learners!
 👍 LIKE this video if you found it helpful!
 💬 COMMENT which phrases you want to learn next!
 
-📱 FOLLOW VELOCITY PORTUGUESE:
-[Add your social media links here]
+#LearnPortuguese #PortuguesePhrases #PortugueseLanguage #{category_english.replace(' ', '')} #VelocityPortuguese #PortugueseForBeginners #SpeakPortuguese #PortugueseVocabulary #Phonetic #LanguageLearning
 
-🎵 MUSIC:
-[Add music credits if applicable]
-
-📖 RELATED VIDEOS:
-• Portuguese Motivation Phrases
-• Portuguese Love Expressions
-• Basic Portuguese Greetings
-
-#LearnPortuguese #PortuguesePhrases #PortugueseLanguage #{category_english.replace(' ', '')} #VelocityPortuguese #PortugueseForBeginners #SpeakPortuguese #PortugueseVocabulary #Pronunciation #LanguageLearning #Portuguese101 #PortugueseLesson
-
----
 © Velocity Portuguese - Making Portuguese learning accessible to everyone!
 """
 
+    # Write to COMBINED file (title + description in one)
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
+    # Combined YouTube upload file (title + description)
     with open(output_dir / "youtube_upload_info.txt", "w", encoding="utf-8") as f:
         f.write("=" * 80 + "\n")
         f.write("YOUTUBE VIDEO UPLOAD INFORMATION\n")
         f.write("=" * 80 + "\n\n")
-        f.write("RECOMMENDED TITLES (Choose one):\n")
+
+        f.write("📌 RECOMMENDED TITLES (Choose one):\n")
         f.write("-" * 80 + "\n")
         for i, title in enumerate(titles, 1):
             f.write(f"\n{i}. {title}\n")
+
         f.write("\n" + "=" * 80 + "\n")
-        f.write("SELECTED TITLE (Recommended):\n")
+        f.write("📝 SELECTED TITLE (Recommended):\n")
         f.write("-" * 80 + "\n")
         f.write(f"\n{titles[0]}\n")
+
         f.write("\n" + "=" * 80 + "\n")
-        f.write("VIDEO DESCRIPTION:\n")
+        f.write("📄 VIDEO DESCRIPTION:\n")
         f.write("-" * 80 + "\n\n")
         f.write(description)
+
         f.write("\n" + "=" * 80 + "\n")
-        f.write("VIDEO TAGS (for YouTube):\n")
+        f.write("🏷️ VIDEO TAGS (for YouTube):\n")
         f.write("-" * 80 + "\n")
         tags = [
             "Learn Portuguese",
             "Portuguese Phrases",
-            "Portuguese Language",
-            category_english,
+            "Portuguese",
+            "{category_english}",
+            "{category_english} in Portuguese",
             "Velocity Portuguese",
             "Portuguese for Beginners",
             "Speak Portuguese",
             "Portuguese Vocabulary",
-            "Pronunciation",
+            "Phonetic",
             "Language Learning",
-            "Portuguese 101",
             "Portuguese Lesson"
         ]
         f.write(", ".join(tags) + "\n")
 
+    # Metadata JSON (for easy parsing)
     metadata = {
         "recommended_titles": titles,
         "selected_title": titles[0],
@@ -970,14 +967,13 @@ Perfect for beginners and intermediate learners!
     with open(output_dir / "video_metadata.json", "w", encoding="utf-8") as f:
         json.dump(metadata, f, indent=2, ensure_ascii=False)
 
-    print(f"\n[metadata] Generated YouTube upload files")
-    print(f"  youtube_upload_info.txt (title + description + tags)")
-    print(f"  video_metadata.json")
+    print(f"\n[metadata] \u2713 Generated YouTube upload files")
+    print(f"  \U0001F4C4 youtube_upload_info.txt (title + description + tags)")
+    print(f"  \U0001F4C4 video_metadata.json")
 
     return metadata
 
 
-# ============== VIDEO CREATION ==============
 
 def create_video_from_images_audio(image_files: list, audio_files: list, combined_audio: str, output_file: str):
     print(f"\n[video] Creating long-form video from {len(image_files)} images...")
