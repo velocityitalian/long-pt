@@ -3,6 +3,7 @@ YouTube Upload Script for Velocity Portuguese
 """
 
 import os, sys, json, time
+import time
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -36,7 +37,7 @@ def get_latest_video():
 
 
 
-def ensure_playlist(youtube, title="Velocity Portuguese - Portuguese Phrases", description="All Portuguese phrases videos in one playlist. Learn Portuguese with Velocity Portuguese!"):
+def ensure_playlist(youtube, title="Learn Portuguese Phrases for Beginners | Velocity Portuguese", description="All portuguese phrases videos in one playlist. 🇵🇹 Learn Portuguese with Velocity Portuguese!"):
     """Find an existing playlist by title or create a new one. Returns playlist_id."""
     try:
         req = youtube.playlists().list(part="snippet", mine=True, maxResults=50)
