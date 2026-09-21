@@ -78,7 +78,7 @@ CATEGORIES_PORTUGUESE = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 LANG_VOICE = "pt-PT-RaquelNeural"
 
 # Phrase history file
