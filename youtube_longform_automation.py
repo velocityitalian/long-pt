@@ -40,13 +40,7 @@ TARGET_DURATION_MINUTES = 20  # Target ~20-minute videos (120 unique phrases wit
 TARGET_PHRASES = 120  # Number of unique phrases to generate
 
 # English category names
-CATEGORIES_ENGLISH = [
-    "Motivation", "Love", "Success", "Wisdom", "Happiness",
-    "Self Improvement", "Gratitude", "Friendship", "Hope", "Creativity",
-    "Inner Peace", "Confidence", "Perseverance", "Inspiration", "Positive Life",
-    "Courage", "Kindness", "Patience", "Forgiveness", "Strength",
-    "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
-]
+CATEGORIES_ENGLISH = list(CATEGORIES_PORTUGUESE.keys())
 
 # Portuguese translations
 CATEGORIES_PORTUGUESE = {
@@ -75,6 +69,33 @@ CATEGORIES_PORTUGUESE = {
     "Growth": "Crescimento",
     "Purpose": "Propósito",
     "Mindfulness": "Atenção Plena",
+
+    # 26-50: Practical Conversational & Real-World Life Scenarios
+    "Travel & Airport": "Viagem e Aeroporto",
+    "Ordering Food & Dining": "Pedir Comida e Refeições",
+    "Shopping & Prices": "Compras e Preços",
+    "Asking for Directions": "Pedir Informações de Direção",
+    "Hotel & Accommodation": "Hotel e Acomodação",
+    "Daily Routine": "Rotina Diária",
+    "Meeting People & Greetings": "Conhecer Pessoas e Cumprimentos",
+    "Emergency & Health": "Emergência e Saúde",
+    "Public Transportation": "Transporte Público",
+    "Work & Office": "Trabalho e Escritório",
+    "Weather & Small Talk": "Tempo e Conversa Fiada",
+    "Coffee Shop & Bakery": "Cafeteria e Padaria",
+    "Family & Home": "Família e Casa",
+    "Hobbies & Free Time": "Hobbies e Tempo Livre",
+    "Dating & Romance": "Namoro e Romance",
+    "Phone Calls & Messages": "Chamadas Telefônicas e Mensagens",
+    "Banking & Money": "Banca e Dinheiro",
+    "Doctor & Pharmacy": "Médico e Farmácia",
+    "Sports & Fitness": "Esportes e Fitness",
+    "Celebrations & Parties": "Celebrações e Festas",
+    "Feelings & Emotions": "Sentimentos e Emoções",
+    "Agreeing & Disagreeing": "Concordar e Discordar",
+    "Making Plans": "Fazer Planos",
+    "Common Native Slang": "Gírias Nativas Comuns",
+    "Cultural Traditions": "Tradições Culturais",
 }
 
 # Edge TTS voices
@@ -247,6 +268,37 @@ SUBTHEMES = [
     ("Reflections & Emotional Honesty", "Focus on expressing personal feelings, sincere reflections, patience, and deeper thoughts"),
     ("Practical Life Situations & Tips", "Focus on daily habits, real-world social scenarios, practical problem-solving, and actionable advice")
 ]
+
+
+def get_next_category(categories_dict: dict) -> str:
+    """Select the least recently used category to guarantee a smooth, non-repeating cycle"""
+    recent_file = HISTORY_DIR / "recent_categories.json"
+    recent = []
+    if recent_file.exists():
+        try:
+            with open(recent_file, "r", encoding="utf-8") as f:
+                recent = json.load(f)
+        except Exception:
+            recent = []
+
+    all_cats = list(categories_dict.keys())
+    cooldown = max(1, len(all_cats) - 10)
+    available = [c for c in all_cats if c not in recent[-cooldown:]]
+    if not available:
+        available = all_cats
+
+    chosen = random.choice(available)
+    recent.append(chosen)
+    if len(recent) > 100:
+        recent = recent[-100:]
+
+    try:
+        with open(recent_file, "w", encoding="utf-8") as f:
+            json.dump(recent, f, indent=2, ensure_ascii=False)
+    except Exception:
+        pass
+
+    return chosen
 
 
 def generate_phrases_for_longform(category_english: str, num_phrases: int = TARGET_PHRASES) -> list:
@@ -788,6 +840,25 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         anchor="mm"
     )
 
+    # Top Right Lesson Progress Indicator
+    prog_text = "120 ESSENTIAL PHRASES"
+    prog_bbox = draw.textbbox((0, 0), prog_text, font=font_branding)
+    prog_w = prog_bbox[2] - prog_bbox[0]
+    prog_pad_x = 30
+    prog_container_w = prog_w + (prog_pad_x * 2)
+    prog_x = VIDEO_WIDTH - prog_container_w - 60
+    draw.rounded_rectangle(
+        [(prog_x, container_y), (prog_x + prog_container_w, container_y + badge_h)],
+        radius=15, fill=(255, 210, 160, 255)
+    )
+    draw.text(
+        (prog_x + prog_container_w // 2, container_y + badge_h // 2 + 2),
+        prog_text,
+        fill=(70, 45, 25, 255),
+        font=font_branding,
+        anchor="mm"
+    )
+
     CONTENT_Y_CENTER = VIDEO_HEIGHT // 2
     GAP = 60
 
@@ -1155,7 +1226,7 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
 
 def generate_longform_video(category_english: str = None, target_phrases: int = None):
     if not category_english:
-        category_english = random.choice(CATEGORIES_ENGLISH)
+        category_english = get_next_category(CATEGORIES_PORTUGUESE)
 
     phrases_count = target_phrases if target_phrases else TARGET_PHRASES
 
