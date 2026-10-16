@@ -36,8 +36,8 @@ for d in [OUTPUT_DIR, IMAGES_DIR, AUDIO_DIR, VIDEO_DIR, HISTORY_DIR, LONGFORM_DI
 VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
-TARGET_DURATION_MINUTES = 5
-TARGET_PHRASES = 120
+TARGET_DURATION_MINUTES = 20  # Target ~20-minute videos (120 unique phrases with natural pedagogical pauses)
+TARGET_PHRASES = 120  # Number of unique phrases to generate
 
 # English category names
 CATEGORIES_ENGLISH = [
@@ -99,86 +99,95 @@ VIRAL_STYLES = [
 ]
 
 # AI Model
-AI_MODEL = os.getenv("AI_MODEL")
-
-if not AI_MODEL:
-    raise ValueError(
-        "AI_MODEL not set! Please add 'AI_MODEL=gemini-fast' to your .env file."
-    )
+AI_MODEL = os.getenv("AI_MODEL") or "gemini-fast"
 
 
-# ============== PHRASE HISTORY MANAGEMENT ==============
+# ============== PHRASE HISTORY MANAGEMENT & DEDUPLICATION ==============
+
+def normalize_phrase_text(text: str) -> str:
+    """Normalize phrase text for strict duplicate detection (lowercase, alphanumeric only)."""
+    import re
+    return re.sub(r'[^a-z0-9\s]', '', text.lower()).strip()
+
+
+def get_phrase_words(text: str) -> set:
+    """Extract set of words for similarity check, ignoring trivial single-letter words."""
+    import re
+    words = set(re.findall(r'\b[a-z0-9]+\b', text.lower()))
+    return {w for w in words if len(w) > 1}
+
+
+def is_phrase_similar_fast(cand_words: set, reference_words_list: list, threshold: float = 0.65) -> bool:
+    """Fast similarity check using Jaccard word overlap to prevent rephrased duplicates."""
+    if not cand_words:
+        return False
+    cand_len = len(cand_words)
+    for ref_words in reference_words_list:
+        if not ref_words:
+            continue
+        intersection_len = len(cand_words.intersection(ref_words))
+        if intersection_len == 0:
+            continue
+        union_len = cand_len + len(ref_words) - intersection_len
+        if union_len > 0 and (intersection_len / union_len) >= threshold:
+            return True
+    return False
+
 
 def load_phrase_history():
+    """Load all previously generated phrases"""
     if PHRASE_HISTORY_FILE.exists():
-        with open(PHRASE_HISTORY_FILE, "r", encoding="utf-8-sig") as f:
-            return json.load(f)
+        try:
+            with open(PHRASE_HISTORY_FILE, "r", encoding="utf-8-sig") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"[history] Warning: Could not read history file ({e}), initializing fresh.")
     return {"phrases": [], "last_updated": None}
 
 
 def save_phrase_history(data):
+    """Save phrase history"""
     data["last_updated"] = datetime.now().isoformat()
     with open(PHRASE_HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
-def is_phrase_used(english_phrase):
-    history = load_phrase_history()
-    english_lower = english_phrase.lower().strip()
-    for p in history.get("phrases", []):
-        if p.get("english", "").lower().strip() == english_lower:
-            return True
-    return False
-
-
-def is_phrase_similar(new_phrase, used_phrases, similarity_threshold=0.6):
-    new_words = set(new_phrase.lower().split())
-    if len(new_words) < 3:
-        for used in used_phrases:
-            if new_phrase.lower() in used.lower() or used.lower() in new_phrase.lower():
-                return True
-        return False
-    for used in used_phrases:
-        used_words = set(used.lower().split())
-        if len(new_words) == 0 or len(used_words) == 0:
-            continue
-        intersection = len(new_words.intersection(used_words))
-        union = len(new_words.union(used_words))
-        similarity = intersection / union if union > 0 else 0
-        if similarity >= similarity_threshold:
-            return True
-    return False
-
-
-def filter_similar_phrases(phrases, history, similarity_threshold=0.6):
-    used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
-    unique_phrases = []
-    for phrase in phrases:
-        english_text = phrase.get("english", "")
-        if not is_phrase_similar(english_text, used_phrases, similarity_threshold):
-            unique_phrases.append(phrase)
-        else:
-            print(f"[filter] Skipping similar: {english_text[:50]}...")
-    return unique_phrases
-
-
 def add_phrases_to_history(phrases, category):
+    """Add new unique phrases to permanent history"""
     history = load_phrase_history()
+    existing_normalized = {
+        normalize_phrase_text(p.get("english", ""))
+        for p in history.get("phrases", [])
+        if p.get("english")
+    }
+    
+    added_count = 0
     for phrase in phrases:
-        history["phrases"].append({
-            "english": phrase["english"],
-            "portuguese": phrase["portuguese"],
-            "category": category,
-            "generated_at": datetime.now().isoformat()
-        })
+        norm = normalize_phrase_text(phrase.get("english", ""))
+        if norm and norm not in existing_normalized:
+            existing_normalized.add(norm)
+            foreign_val = phrase.get("portuguese") or phrase.get("target") or phrase.get("foreign") or ""
+            history["phrases"].append({
+                "english": phrase["english"],
+                "portuguese": foreign_val,
+                "category": category,
+                "generated_at": datetime.now().isoformat()
+            })
+            added_count += 1
+            
     save_phrase_history(history)
-    print(f"[history] Added {len(phrases)} phrases to history (total: {len(history['phrases'])})")
+    print(f"[history] Added {added_count} unique phrases to permanent history (total: {len(history['phrases'])})")
 
 
 # ============== CONTENT GENERATION ==============
 
 def calculate_phrases_needed(target_minutes: int) -> int:
-    avg_phrase_duration = 5.0
+    """
+    Calculate how many phrases needed for target video duration.
+    With pedagogical pauses (English ~2.5s + 1.2s pause + Foreign ~3.0s + 2.0s pause = ~8.7-10.0s per phrase):
+    For 20 minutes (1200 seconds): 1200 / 10 = ~120 phrases.
+    """
+    avg_phrase_duration = 10.0  # seconds
     total_seconds = target_minutes * 60
     return int(total_seconds / avg_phrase_duration)
 
@@ -214,7 +223,7 @@ def repair_and_parse_json(content: str):
             except Exception:
                 pass
 
-    matches = re.findall(r'\{[^{}]*\"english\"[^{}]*\}', cleaned)
+    matches = re.findall(r'\{[^{}]*"english"[^{}]*\}', cleaned)
     results = []
     for m in matches:
         try:
@@ -229,75 +238,124 @@ def repair_and_parse_json(content: str):
     raise ValueError("Could not parse or repair JSON from content")
 
 
-def generate_phrases_for_longform(category_english: str, num_phrases: int) -> list:
-    category_portuguese = CATEGORIES_PORTUGUESE[category_english]
-    history = load_phrase_history()
-    used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
-    viral_style = random.choice(VIRAL_STYLES)
-    all_phrases = []
-    batch_size = 20
-    max_attempts = 5
+# Sub-themes to guarantee rich vocabulary variety and completely prevent repetitive phrasing
+SUBTHEMES = [
+    ("Everyday Essentials & Reactions", "Focus on high-frequency everyday expressions, quick reactions, and essential conversational starters"),
+    ("Questions & Interactive Dialogue", "Focus on asking questions, polite inquiries, seeking advice, and two-way conversations"),
+    ("Mindset & Encouragement", "Focus on motivating thoughts, affirmations, giving praise, and positive mindset"),
+    ("Native Idioms & Cultural Sayings", "Focus on natural idioms, colloquial expressions, common sayings, and local phrasing"),
+    ("Reflections & Emotional Honesty", "Focus on expressing personal feelings, sincere reflections, patience, and deeper thoughts"),
+    ("Practical Life Situations & Tips", "Focus on daily habits, real-world social scenarios, practical problem-solving, and actionable advice")
+]
 
-    for batch_num in range((num_phrases + batch_size - 1) // batch_size):
-        remaining = num_phrases - len(all_phrases)
-        current_batch_size = min(batch_size, remaining)
-        if current_batch_size <= 0:
+
+def generate_phrases_for_longform(category_english: str, num_phrases: int = TARGET_PHRASES) -> list:
+    """
+    Generate 100% unique bilingual phrases for a ~20-minute long-form video.
+    Guarantees NO repetition within the video and NO repetition across past videos.
+    """
+    import requests
+    import time
+
+    category_foreign = CATEGORIES_PORTUGUESE[category_english]
+    history = load_phrase_history()
+    
+    # Pre-index all past phrases in history
+    history_phrases = history.get("phrases", [])
+    history_norm_set = {
+        normalize_phrase_text(p.get("english", ""))
+        for p in history_phrases
+        if p.get("english")
+    }
+    history_words_list = [
+        get_phrase_words(p.get("english", ""))
+        for p in history_phrases
+        if p.get("english")
+    ]
+    
+    # Category-specific past phrases (to feed directly into LLM exclusion prompts)
+    category_past_english = [
+        p.get("english", "")
+        for p in history_phrases
+        if p.get("category") == category_english and p.get("english")
+    ]
+
+    all_phrases = []
+    current_video_norm_set = set()
+    current_video_words_list = []
+
+    num_batches = len(SUBTHEMES)
+    target_per_batch = (num_phrases + num_batches - 1) // num_batches
+    max_batch_attempts = 4
+
+    print(f"[content] Starting generation of {num_phrases} UNIQUE phrases for '{category_english}' ({category_foreign})...")
+
+    for batch_idx, (theme_name, theme_guidance) in enumerate(SUBTHEMES):
+        remaining_needed = num_phrases - len(all_phrases)
+        if remaining_needed <= 0:
             break
-        for attempt in range(max_attempts):
+
+        batch_target = min(target_per_batch, remaining_needed)
+        request_count = min(30, batch_target + 10)
+        temp = round(0.85 + (batch_idx * 0.05), 2)
+        viral_style = random.choice(VIRAL_STYLES)
+
+        for attempt in range(max_batch_attempts):
+            remaining_for_batch = batch_target - (len(all_phrases) - (batch_idx * target_per_batch))
+            if remaining_for_batch <= 0 and len(all_phrases) >= (batch_idx + 1) * target_per_batch:
+                break
+
             try:
-                import requests
+                # Dynamic exclusion list:
+                # 1. Phrases generated in THIS video run (prevents repeating across batches!)
+                # 2. Recent phrases from past history for this category
+                current_generated_en = [p["english"] for p in all_phrases[-40:]]
+                recent_cat_past = category_past_english[-25:] if category_past_english else []
+                combined_exclusions = list(dict.fromkeys(current_generated_en + recent_cat_past))
+                
+                exclusion_note = ""
+                if combined_exclusions:
+                    exclusion_note = (
+                        f"\n\nCRITICAL: DO NOT use, repeat, or slightly rephrase any of these phrases:\n"
+                        + "\n".join(f"- {p}" for p in combined_exclusions[:40])
+                    )
+
+                prompt = f"""Create {request_count} UNIQUE {category_english} phrases for English speakers learning Portuguese.
+
+Thematic Section {batch_idx + 1}/{num_batches}: {theme_name}
+Focus: {theme_guidance} related to {category_english}.
+Style: Natural, authentic {viral_style} format - phrasing real native speakers use.
+
+RULES FOR CLEAR, NATURAL SPEECH:
+1. Length: Short and clear (4 to 12 words per phrase).
+2. Natural pauses: Use commas (,) to indicate natural pauses for speaking practice (e.g. "Dream big, start small").
+3. Everyday vocabulary: Practical, high-frequency, modern conversational vocabulary.
+4. Variety: Varied grammatical forms (imperatives, questions, observations, short idioms).
+5. NO REPETITION: Every phrase must express a distinct idea.{exclusion_note}
+
+For each phrase provide:
+1. "english": English phrase with commas for natural pauses
+2. "portuguese": Natural Portuguese translation
+3. "pronunciation": Pronunciation guide (phonetic spelling for English speakers, e.g. "Hej, hur mår du?")
+
+Return STRICTLY a JSON array:
+[{"english": "...", "portuguese": "...", "pronunciation": "..."}]"""
+
                 url = "https://gen.pollinations.ai/v1/chat/completions"
                 headers = {
                     "Authorization": f"Bearer {POLLINATIONS_API_KEY}",
                     "Content-Type": "application/json"
                 }
-                exclusion_note = ""
-                if used_phrases:
-                    recent = used_phrases[-30:] if len(used_phrases) > 30 else used_phrases
-                    exclusion_note = f"\n\nAVOID these phrases (already used): {recent}"
-
-                prompt = f"""Create {current_batch_size * 2} unique {category_english} phrases for English speakers learning Portuguese.
-
-Style: Make each phrase feel like a {viral_style} - something people would want to share!
-
-CRITICAL RULE - STRICTLY ENFORCE:
-The "english" field must contain PURE ENGLISH words only. ZERO Portuguese/Special Characters.
-The "portuguese" field contains the Portuguese translation in Portuguese.
-The "pronunciation" field is phonetic English spelling.
-
-WRONG (mixed language): {{"english": "Acredite em yourself, believe in yourself", ...}}
-WRONG (Portuguese in english): {{"english": "Follow your sonhos and success will come", ...}}
-CORRECT: {{"english": "Make your dreams come true, believe in yourself.", "portuguese": "Realize seus sonhos, acredite em si mesmo.", "pronunciation": "re-a-lee-ze se-oos so-nhos, a-cre-dee-te em see meys-mo."}}
-
-The english field MUST be 100% English words only. NO Portuguese words allowed.
-
-IMPORTANT RULES FOR NATURAL SPEECH:
-1. Keep phrases SHORT (5-12 words max per language)
-2. Add NATURAL PAUSES using commas (e.g., "Dream big, start small")
-3. Use punctuation for breathing room in TTS
-4. Avoid long run-on sentences
-5. Each phrase should be speakable in 3-5 seconds
-6. Use everyday vocabulary - avoid exotic or rare words
-7. Avoid complex grammar - keep it simple and practical
-8. Vary sentence structure for natural flow
-
-For each phrase:
-1. English phrase (pure English, zero Portuguese) with commas for natural pauses
-2. Portuguese translation (Portuguese only)
-3. Pronunciation guide (phonetic English spelling)
-
-Return as JSON array:
-[{{"english": "...", "portuguese": "...", "pronunciation": "..."}}]
-
-IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion_note}"""
-
                 payload = {
                     "model": AI_MODEL,
                     "messages": [
-                        {"role": "system", "content": "You are a viral Portuguese teacher. CRITICAL: The 'english' field must contain PURE ENGLISH words ONLY. NO Portuguese in english field. Portuguese goes in the 'portuguese' field. This is strictly enforced."},
+                        {
+                            "role": "system",
+                            "content": f"You are an expert native Portuguese language instructor creating viral, high-retention educational lessons for YouTube. Always return clean, valid JSON with fresh, non-repeating phrases."
+                        },
                         {"role": "user", "content": prompt}
                     ],
-                    "temperature": 1.0
+                    "temperature": temp
                 }
 
                 response = requests.post(url, headers=headers, json=payload, timeout=90)
@@ -305,208 +363,133 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
 
                 data = response.json()
                 content = data["choices"][0]["message"]["content"].strip()
+                candidates = repair_and_parse_json(content)
 
-                if "```json" in content:
-                    content = content.split("```json")[1].split("```")[0].strip()
-                elif "```" in content:
-                    content = content.split("```")[1].split("```")[0].strip()
+                accepted_in_batch = 0
+                for cand in candidates:
+                    if len(all_phrases) >= num_phrases:
+                        break
 
-                phrases = repair_and_parse_json(content)
-                filtered_phrases = filter_similar_phrases(phrases, history)
-                unique_phrases = []
-                for phrase in filtered_phrases:
-                    if len(phrase["english"].split()) > 15:
+                    en_text = cand.get("english", "").strip()
+                    foreign_text = (cand.get("portuguese") or cand.get("target") or cand.get("foreign") or "").strip()
+                    pron_text = (cand.get("pronunciation") or cand.get("pronunciation") or cand.get("pinyin") or cand.get("romaji") or cand.get("phonetic") or "").strip()
+
+                    if not en_text or not foreign_text:
                         continue
-                    if not is_phrase_used(phrase["english"]):
-                        unique_phrases.append(phrase)
-                for phrase in unique_phrases:
-                    if len(all_phrases) < num_phrases:
-                        all_phrases.append(phrase)
+
+                    # Word count constraints (avoid single words or long run-ons)
+                    words_count = len(en_text.split())
+                    if words_count < 2 or words_count > 15:
+                        continue
+
+                    norm_en = normalize_phrase_text(en_text)
+                    if not norm_en:
+                        continue
+
+                    # 1. Check exact match in current video (STRICT ZERO DUPLICATES in same video!)
+                    if norm_en in current_video_norm_set:
+                        continue
+
+                    # 2. Check exact match in past history
+                    if norm_en in history_norm_set:
+                        continue
+
+                    # 3. Check similarity against phrases already accepted in THIS video (prevents rephrasing)
+                    cand_words = get_phrase_words(en_text)
+                    if is_phrase_similar_fast(cand_words, current_video_words_list, threshold=0.65):
+                        continue
+
+                    # 4. Check similarity against past history
+                    if is_phrase_similar_fast(cand_words, history_words_list, threshold=0.70):
+                        continue
+
+                    # Candidate is verified 100% unique!
+                    valid_phrase = {
+                        "english": en_text,
+                        "portuguese": foreign_text,
+                        "pronunciation": pron_text
+                    }
+                    current_video_norm_set.add(norm_en)
+                    current_video_words_list.append(cand_words)
+                    history_norm_set.add(norm_en)
+                    history_words_list.append(cand_words)
+                    all_phrases.append(valid_phrase)
+                    accepted_in_batch += 1
+
+                print(f"  [batch {batch_idx + 1}/{num_batches} '{theme_name}'] Added {accepted_in_batch} unique phrases (progress: {len(all_phrases)}/{num_phrases})")
+
+                if len(all_phrases) >= (batch_idx + 1) * target_per_batch or len(all_phrases) >= num_phrases:
+                    break
+
+            except Exception as e:
+                print(f"  [batch {batch_idx + 1}, attempt {attempt + 1}] Notice: {e}")
+                time.sleep(2)
+
+        time.sleep(0.5)
+
+    # Secondary booster pass: if any slots remain to reach num_phrases, generate fresh conversational phrases
+    attempts_booster = 0
+    while len(all_phrases) < num_phrases and attempts_booster < 4:
+        attempts_booster += 1
+        needed = num_phrases - len(all_phrases)
+        print(f"[content] Booster pass {attempts_booster}: Generating {needed} additional unique phrases...")
+        try:
+            current_generated_en = [p["english"] for p in all_phrases[-40:]]
+            prompt = f"""Generate {needed + 8} FRESH, UNIQUE conversational phrases for English speakers learning Portuguese.
+Theme: Practical life, emotional intelligence, and interpersonal communication related to {category_english}.
+
+RULES:
+1. 3 to 12 words per phrase. Natural commas for pauses.
+2. DO NOT REPEAT ANY OF THESE:\n""" + "\n".join(f"- {p}" for p in current_generated_en) + f"""
+
+Return STRICTLY a JSON array:
+[{"english": "...", "portuguese": "...", "pronunciation": "..."}]"""
+
+            url = "https://gen.pollinations.ai/v1/chat/completions"
+            headers = {"Authorization": f"Bearer {POLLINATIONS_API_KEY}", "Content-Type": "application/json"}
+            payload = {
+                "model": AI_MODEL,
+                "messages": [
+                    {"role": "system", "content": f"You are a native Portuguese tutor. Return only valid JSON array of unique phrases."},
+                    {"role": "user", "content": prompt}
+                ],
+                "temperature": 1.05
+            }
+            resp = requests.post(url, headers=headers, json=payload, timeout=90)
+            resp.raise_for_status()
+            candidates = repair_and_parse_json(resp.json()["choices"][0]["message"]["content"])
+            
+            for cand in candidates:
                 if len(all_phrases) >= num_phrases:
                     break
-            except Exception as e:
-                print(f"[content] Batch {batch_num + 1}, Attempt {attempt + 1} failed: {e}")
-        if len(all_phrases) < num_phrases:
-            import time
-            time.sleep(1)
-
-    if not all_phrases:
-        print(f"[content] AI generation produced 0 phrases. Loading fresh fallback phrases for '{category_english}'...")
-        all_phrases = get_fresh_fallback_phrases(category_english, num_phrases)
-    elif len(all_phrases) < num_phrases:
-        print(f"[content] Only {len(all_phrases)} phrases generated. Padding with fresh fallback phrases...")
-        extras = get_fresh_fallback_phrases(category_english, num_phrases - len(all_phrases))
-        for ex in extras:
-            if ex not in all_phrases:
-                all_phrases.append(ex)
+                en_text = cand.get("english", "").strip()
+                foreign_text = (cand.get("portuguese") or cand.get("target") or cand.get("foreign") or "").strip()
+                pron_text = (cand.get("pronunciation") or cand.get("pronunciation") or cand.get("pinyin") or cand.get("romaji") or cand.get("phonetic") or "").strip()
+                if not en_text or not foreign_text:
+                    continue
+                norm_en = normalize_phrase_text(en_text)
+                if not norm_en or norm_en in current_video_norm_set or norm_en in history_norm_set:
+                    continue
+                cand_words = get_phrase_words(en_text)
+                if is_phrase_similar_fast(cand_words, current_video_words_list, threshold=0.65):
+                    continue
+                
+                valid_phrase = {"english": en_text, "portuguese": foreign_text, "pronunciation": pron_text}
+                current_video_norm_set.add(norm_en)
+                current_video_words_list.append(cand_words)
+                history_norm_set.add(norm_en)
+                history_words_list.append(cand_words)
+                all_phrases.append(valid_phrase)
+        except Exception as e:
+            print(f"  [booster attempt {attempts_booster}] Error: {e}")
+            time.sleep(2)
 
     final_phrases = all_phrases[:num_phrases]
     if final_phrases:
         add_phrases_to_history(final_phrases, category_english)
-    print(f"[content] Generated {len(final_phrases)} phrases for long-form video")
+
+    print(f"\n[content] Successfully generated {len(final_phrases)} 100% UNIQUE phrases for '{category_english}'")
     return final_phrases
-
-
-def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
-    all_fallbacks = {
-        "Motivation": [
-            {"english": "Believe in yourself.", "portuguese": "Acredite em si mesmo.", "pronunciation": "ah-cre-djee-tche em see meys-mo."},
-            {"english": "You are capable of amazing things.", "portuguese": "Você é capaz de coisas incríveis.", "pronunciation": "vo-seh eh ka-paz de koy-zas in-cree-veys."},
-            {"english": "Dream big, start small.", "portuguese": "Sonhe grande, comece pequeno.", "pronunciation": "so-nye gran-de, ko-me-se pe-ke-no."},
-            {"english": "Your future is created by your actions.", "portuguese": "Seu futuro é criado pelas suas ações.", "pronunciation": "sew fu-tu-ro eh cree-a-do pe-las su-as a-soys."},
-            {"english": "Never give up on your dreams.", "portuguese": "Nunca desista dos seus sonhos.", "pronunciation": "noon-ka de-zee-sta do sews so-nyohs."},
-            {"english": "Small steps lead to big changes.", "portuguese": "Pequenos passos levam a grandes mudanças.", "pronunciation": "pe-ke-nos pa-sos le-vam a gran-des mu-dan-sas."},
-            {"english": "You are stronger than you think.", "portuguese": "Você é mais forte do que pensa.", "pronunciation": "vo-seh eh meys for-te do ke pen-sa."},
-        ],
-        "Love": [
-            {"english": "Love yourself first.", "portuguese": "Ame-se primeiro.", "pronunciation": "ah-me-se pree-mei-ro."},
-            {"english": "Love makes everything possible.", "portuguese": "O amor torna tudo possível.", "pronunciation": "o a-mor tor-na tu-do po-see-vel."},
-            {"english": "My heart beats for you.", "portuguese": "Meu coração bate por você.", "pronunciation": "mew ko-ra-sao ba-te por vo-se."},
-            {"english": "You are my everything.", "portuguese": "Você é meu tudo.", "pronunciation": "vo-seh eh mew tu-do."},
-            {"english": "Together forever, hand in hand.", "portuguese": "Juntos para sempre, de mãos dadas.", "pronunciation": "joon-tos pa-ra sem-pre, de mows da-das."},
-        ],
-        "Success": [
-            {"english": "Success comes from hard work.", "portuguese": "O sucesso vem do trabalho duro.", "pronunciation": "o su-se-so vem do tra-ba-lyo du-ro."},
-            {"english": "Keep going, you're getting there.", "portuguese": "Continue, você está chegando lá.", "pronunciation": "kon-ti-nu-e, vo-seh es-ta she-gan-do la."},
-            {"english": "Winners never quit.", "portuguese": "Vencedores nunca desistem.", "pronunciation": "ven-se-do-res noon-ka dee-zes-tem."},
-            {"english": "Your effort will pay off.", "portuguese": "Seu esforço vai valer a pena.", "pronunciation": "sew es-for-so vai va-ler a pe-na."},
-        ],
-        "Wisdom": [
-            {"english": "Knowledge is power.", "portuguese": "Conhecimento é poder.", "pronunciation": "ko-nye-se-men-to eh po-der."},
-            {"english": "Learn from yesterday, live for today.", "portuguese": "Aprenda com ontem, viva para hoje.", "pronunciation": "a-pren-da com on-tem, vee-va pa-ra o-je."},
-            {"english": "Think before you act.", "portuguese": "Pense antes de agir.", "pronunciation": "pen-se an-tes de a-jeer."},
-            {"english": "Experience is the best teacher.", "portuguese": "A experiência é a melhor professora.", "pronunciation": "a ex-pe-ree-en-see-a eh a me-lyor pro-fe-so-ra."},
-        ],
-        "Happiness": [
-            {"english": "Happiness is a choice.", "portuguese": "Felicidade é uma escolha.", "pronunciation": "fe-lee-see-da-de eh oo-ma es-ko-lya."},
-            {"english": "Find joy in the little things.", "portuguese": "Encontre alegria nas pequenas coisas.", "pronunciation": "en-con-tre a-le-gree-a nas pe-ke-nas koy-zas."},
-            {"english": "Smile, it makes others happy.", "portuguese": "Sorria, isso faz os outros felizes.", "pronunciation": "so-ree-a, ee-so faz os ow-tros fe-lee-zes."},
-            {"english": "Today is a gift.", "portuguese": "Hoje é um presente.", "pronunciation": "o-je eh oom pre-sen-te."},
-        ],
-        "Self Improvement": [
-            {"english": "Be better than yesterday.", "portuguese": "Seja melhor do que ontem.", "pronunciation": "se-ja me-lyor do ke on-tem."},
-            {"english": "Grow through what you go through.", "portuguese": "Cresça através do que você passa.", "pronunciation": "cres-sa a-tra-ves do ke vo-se pa-sa."},
-            {"english": "Invest in yourself daily.", "portuguese": "Invista em si mesmo diariamente.", "pronunciation": "in-vees-ta em see meys-mo dee-a-ree-a-men-te."},
-        ],
-        "Gratitude": [
-            {"english": "Thank you for everything.", "portuguese": "Obrigado por tudo.", "pronunciation": "o-bree-ga-do por tu-do."},
-            {"english": "I appreciate your help.", "portuguese": "Agradeço pela sua ajuda.", "pronunciation": "a-gra-de-so pe-la su-a a-ju-da."},
-            {"english": "Grateful for this moment.", "portuguese": "Grato por este momento.", "pronunciation": "gra-to por es-te mo-men-to."},
-        ],
-        "Friendship": [
-            {"english": "Friends forever, no matter what.", "portuguese": "Amigos para sempre, não importa o quê.", "pronunciation": "a-mee-gos pa-ra sem-pre, nao im-por-ta o keh."},
-            {"english": "You are my best friend.", "portuguese": "Você é meu melhor amigo.", "pronunciation": "vo-seh eh mew me-lyor a-mee-go."},
-            {"english": "True friends stick together.", "portuguese": "Verdadeiros amigos ficam juntos.", "pronunciation": "ver-da-dey-ros a-mee-gos fee-cam joon-tos."},
-        ],
-        "Hope": [
-            {"english": "There is always hope.", "portuguese": "Sempre há esperança.", "pronunciation": "sem-pre a es-pe-ran-sa."},
-            {"english": "Better days are coming.", "portuguese": "Dias melhores estão chegando.", "pronunciation": "dee-as me-lyo-res es-tao she-gan-do."},
-            {"english": "Keep faith, keep going.", "portuguese": "Mantenha a fé, continue.", "pronunciation": "man-ten-ya a feh, kon-ti-nu-e."},
-        ],
-        "Creativity": [
-            {"english": "Create something beautiful today.", "portuguese": "Crie algo bonito hoje.", "pronunciation": "cree-e al-go bo-nee-to o-je."},
-            {"english": "Your imagination is unlimited.", "portuguese": "Sua imaginação é ilimitada.", "pronunciation": "su-a e-ma-gee-na-sao eh ee-lee-mee-ta-da."},
-            {"english": "Art comes from the heart.", "portuguese": "A arte vem do coração.", "pronunciation": "a ar-te vem do ko-ra-sao."},
-            {"english": "Express yourself freely.", "portuguese": "Expresse-se livremente.", "pronunciation": "es-pres-se lee-vre-men-te."},
-            {"english": "Innovation starts with curiosity.", "portuguese": "A inovação começa com a curiosidade.", "pronunciation": "a ee-no-va-sao ko-me-sa com a ku-ree-o-zi-da-de."},
-        ],
-        "Inner Peace": [
-            {"english": "Find peace within yourself.", "portuguese": "Encontre paz dentro de si.", "pronunciation": "en-con-tre paz den-tro de see."},
-            {"english": "Breathe, relax, let go.", "portuguese": "Respire, relaxe, deixe ir.", "pronunciation": "res-pee-re, re-la-xe, day-she eer."},
-            {"english": "Calm mind, happy heart.", "portuguese": "Mente calma, coração feliz.", "pronunciation": "men-te kal-ma, ko-ra-sao fe-leez."},
-        ],
-        "Confidence": [
-            {"english": "You are enough, just as you are.", "portuguese": "Você é suficiente, exatamente como é.", "pronunciation": "vo-seh eh su-fee-see-en-te, e-za-ta-men-te ko-mo eh."},
-            {"english": "Stand tall, speak up.", "portuguese": "Fique ereto, fale alto.", "pronunciation": "fee-ke e-re-to, fa-le al-to."},
-            {"english": "Believe in your abilities.", "portuguese": "Acredite em suas habilidades.", "pronunciation": "ah-cre-djee-te em su-as a-bee-li-da-des."},
-        ],
-        "Perseverance": [
-            {"english": "Never give up, keep pushing.", "portuguese": "Nunca desista, continue avançando.", "pronunciation": "noon-ka de-zeez-ta, kon-ti-nu-e a-van-san-do."},
-            {"english": "Storms make trees take deeper roots.", "portuguese": "As tempestades fazem as árvores criarem raízes mais profundas.", "pronunciation": "as tem-pes-ta-des fa-zem as ar-vo-res cree-a-rem ra-ee-zes meys pro-fun-das."},
-            {"english": "Patience and persistence win.", "portuguese": "Paciência e persistência vencem.", "pronunciation": "pa-see-en-see-a e per-sis-ten-see-a ven-sem."},
-        ],
-        "Inspiration": [
-            {"english": "Let your light shine bright.", "portuguese": "Deixe sua luz brilhar intensamente.", "pronunciation": "day-she su-a luz bree-lyar in-ten-sa-men-te."},
-            {"english": "Inspire others by your actions.", "portuguese": "Inspire outros com suas ações.", "pronunciation": "ins-pee-re ow-tros com su-as a-soys."},
-            {"english": "Be the change you want to see.", "portuguese": "Seja a mudança que você quer ver.", "pronunciation": "se-ja a mu-dan-sa ke vo-se kehr vehr."},
-        ],
-        "Positive Life": [
-            {"english": "Choose positivity every day.", "portuguese": "Escolha a positividade todos os dias.", "pronunciation": "es-ko-lya a po-zee-tee-vee-da-de to-dos os dee-as."},
-            {"english": "Good vibes only.", "portuguese": "Boas vibrações apenas.", "pronunciation": "bo-as vee-bra-soys a-pe-nas."},
-            {"english": "Life is what you make it.", "portuguese": "A vida é o que você faz dela.", "pronunciation": "a vee-da eh o ke vo-se faz de-la."},
-        ],
-        "Courage": [
-            {"english": "Be brave, take the first step.", "portuguese": "Seja corajoso, dê o primeiro passo.", "pronunciation": "se-ja ko-ra-jo-zo, de o pree-mei-ro pa-so."},
-            {"english": "Courage is not the absence of fear.", "portuguese": "Coragem não é ausência de medo.", "pronunciation": "ko-ra-jem nao eh aw-sen-see-a de me-do."},
-            {"english": "Face your fears head on.", "portuguese": "Enfrente seus medos de frente.", "pronunciation": "en-fren-te sews me-dos de fren-te."},
-        ],
-        "Kindness": [
-            {"english": "Be kind to everyone you meet.", "portuguese": "Seja gentil com todos que encontrar.", "pronunciation": "se-ja jen-teel com to-dos ke en-kon-trar."},
-            {"english": "Kindness costs nothing, means everything.", "portuguese": "Gentileza não custa nada, significa tudo.", "pronunciation": "jen-tee-le-za nao cus-ta na-da, sig-nee-fee-ca tu-do."},
-            {"english": "Spread kindness wherever you go.", "portuguese": "Espalhe gentileza onde quer que vá.", "pronunciation": "es-pa-lye jen-tee-le-za on-de kehr ke va."},
-        ],
-        "Patience": [
-            {"english": "Good things take time.", "portuguese": "Boas coisas levam tempo.", "pronunciation": "bo-as koy-zas le-vam tem-po."},
-            {"english": "Wait patiently, trust the process.", "portuguese": "Espere pacientemente, confie no processo.", "pronunciation": "es-pe-re pa-see-en-te-men-te, con-fee-e no pro-se-so."},
-            {"english": "Rome wasn't built in a day.", "portuguese": "Roma não foi construída em um dia.", "pronunciation": "ro-ma nao foy con-stru-ee-da em oom dee-a."},
-        ],
-        "Forgiveness": [
-            {"english": "Forgive and set yourself free.", "portuguese": "Perdoe e se liberte.", "pronunciation": "per-do-e e se lee-ber-te."},
-            {"english": "Let go of grudges, find peace.", "portuguese": "Deixe os rancores de lado, encontre paz.", "pronunciation": "day-she os ran-ko-res de la-do, en-con-tre paz."},
-            {"english": "Forgiveness is a gift to yourself.", "portuguese": "O perdão é um presente para si mesmo.", "pronunciation": "o per-dao eh oom pre-sen-te pa-ra see meys-mo."},
-        ],
-        "Strength": [
-            {"english": "You are stronger than you know.", "portuguese": "Você é mais forte do que imagina.", "pronunciation": "vo-seh eh meys for-te do ke e-ma-zhee-na."},
-            {"english": "Inner strength comes from within.", "portuguese": "A força interior vem de dentro.", "pronunciation": "a for-sa in-te-ree-or vem de den-tro."},
-            {"english": "Challenges make you stronger.", "portuguese": "Desafios te tornam mais forte.", "pronunciation": "de-za-fee-os te tor-nam meys for-te."},
-        ],
-        "Joy": [
-            {"english": "Find joy in every moment.", "portuguese": "Encontre alegria em cada momento.", "pronunciation": "en-con-tre a-le-gree-a em ca-da mo-men-to."},
-            {"english": "Joy is contagious, spread it.", "portuguese": "A alegria é contagiante, espalhe-a.", "pronunciation": "a a-le-gree-a eh kon-ta-zhee-an-te, es-pa-lye-a."},
-            {"english": "Dance like nobody's watching.", "portuguese": "Dance como se ninguém estivesse olhando.", "pronunciation": "dan-se ko-mo se neen-gem es-tee-ve-se o-lyan-do."},
-        ],
-        "Balance": [
-            {"english": "Find balance in your life.", "portuguese": "Encontre equilíbrio na sua vida.", "pronunciation": "en-con-tre e-kwee-lee-bree-o na su-a vee-da."},
-            {"english": "Work hard, rest well.", "portuguese": "Trabalhe duro, descanse bem.", "pronunciation": "tra-ba-lye du-ro, des-kan-se bem."},
-            {"english": "Too much of anything is not good.", "portuguese": "O excesso de qualquer coisa não é bom.", "pronunciation": "o e-se-so de kwal-ker koy-za nao eh bom."},
-        ],
-        "Growth": [
-            {"english": "Growth happens outside your comfort zone.", "portuguese": "O crescimento acontece fora da sua zona de conforto.", "pronunciation": "o cres-cee-men-to a-con-te-ce fo-ra da su-a zo-na de con-for-to."},
-            {"english": "Embrace change, grow stronger.", "portuguese": "Abrace a mudança, cresça mais forte.", "pronunciation": "a-bra-se a mu-dan-sa, cres-sa meys for-te."},
-            {"english": "Every challenge is a chance to grow.", "portuguese": "Cada desafio é uma chance de crescer.", "pronunciation": "ca-da de-za-fee-o eh oo-ma shan-ce de cres-ser."},
-        ],
-        "Purpose": [
-            {"english": "Find your purpose, follow it.", "portuguese": "Encontre seu propósito, siga-o.", "pronunciation": "en-con-tre sew pro-po-zi-to, see-ga-o."},
-            {"english": "Your life has meaning.", "portuguese": "Sua vida tem significado.", "pronunciation": "su-a vee-da tem sig-nee-fee-ca-do."},
-            {"english": "Live with intention, not accident.", "portuguese": "Viva com intenção, não por acaso.", "pronunciation": "vee-va com in-ten-sao, nao por a-ca-zo."},
-        ],
-        "Mindfulness": [
-            {"english": "Be present in this moment.", "portuguese": "Esteja presente neste momento.", "pronunciation": "es-te-ja pre-sen-te nes-te mo-men-to."},
-            {"english": "Breathe deeply, stay grounded.", "portuguese": "Respire fundo, mantenha-se firme.", "pronunciation": "res-pee-re fun-do, man-ten-ya se feer-me."},
-            {"english": "Notice the little things around you.", "portuguese": "Observe as pequenas coisas ao seu redor.", "pronunciation": "ob-ser-ve as pe-ke-nas koy-zas ao sew re-dor."},
-        ],
-    }
-
-    fallbacks = all_fallbacks.get(category, all_fallbacks["Motivation"])
-    history = load_phrase_history()
-    fresh_phrases = []
-    for p in fallbacks:
-        if not is_phrase_used(p["english"]) and not is_phrase_similar(p["english"], [h.get("english", "") for h in history.get("phrases", [])]):
-            fresh_phrases.append(p)
-
-    if len(fresh_phrases) < num_phrases:
-        for cat, cat_fallbacks in all_fallbacks.items():
-            if cat != category:
-                for p in cat_fallbacks:
-                    if not is_phrase_used(p["english"]) and not is_phrase_similar(p["english"], [h.get("english", "") for h in history.get("phrases", [])]):
-                        fresh_phrases.append(p)
-                    if len(fresh_phrases) >= num_phrases:
-                        break
-            if len(fresh_phrases) >= num_phrases:
-                break
-
-    return fresh_phrases[:num_phrases]
-
 
 # ============== AUDIO GENERATION ==============
 
@@ -595,39 +578,49 @@ async def generate_single_audio(text: str, voice: str, output_path: str, retries
 
 
 def generate_all_audio(phrases: list, output_dir: str):
+    """Generate audio for all phrases with proper timing for a ~20-minute video"""
+
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
     audio_files = []
 
     for i, phrase in enumerate(phrases):
-        english_file = output_dir / f"english_{i}.mp3"
-        lang_file = output_dir / f"lang_{i}.mp3"
-        combined_file = output_dir / f"combined_{i}.mp3"
+        english_file = output_dir / f"english_{i:04d}.mp3"
+        foreign_file = output_dir / f"portuguese_{i:04d}.mp3"
+        combined_file = output_dir / f"combined_{i:04d}.mp3"
 
-        if (i + 1) % 20 == 0:
+        if (i + 1) % 20 == 0 or (i + 1) == len(phrases):
             print(f"  Generating audio {i+1}/{len(phrases)}...")
 
+        # Generate English audio
         en_success = asyncio.run(generate_single_audio(phrase["english"], ENGLISH_VOICE, str(english_file)))
         if not en_success:
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(english_file)]
             subprocess.run(cmd, capture_output=True)
 
-        lang_success = asyncio.run(generate_single_audio(phrase["portuguese"], LANG_VOICE, str(lang_file)))
-        if not lang_success:
-            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(lang_file)]
+        # Generate Foreign audio
+        foreign_text = phrase.get("portuguese") or phrase.get("target") or phrase.get("foreign") or ""
+        foreign_success = asyncio.run(generate_single_audio(foreign_text, LANG_VOICE, str(foreign_file)))
+        if not foreign_success:
+            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(foreign_file)]
             subprocess.run(cmd, capture_output=True)
 
+        # Get ACTUAL durations
         en_duration = get_audio_duration(str(english_file))
-        lang_duration = get_audio_duration(str(lang_file))
+        foreign_duration = get_audio_duration(str(foreign_file))
 
-        pause_between = 0.5
-        total_duration = en_duration + pause_between + lang_duration
+        # Pedagogical pauses for optimal learning:
+        # 1.2s pause after English: allows learner to process English meaning and anticipate translation
+        # 2.0s pause after foreign phrase: allows learner to repeat aloud and study pronunciation
+        pause_mid = 1.2
+        pause_end = 2.0
 
+        # Combine audio files with precise ffmpeg apad
         cmd = [
             "ffmpeg", "-y",
             "-i", str(english_file),
-            "-i", str(lang_file),
-            "-filter_complex", f"[0:a]apad=pad_dur=0.5[a0];[a0][1:a]concat=n=2:v=0:a=1[out]",
+            "-i", str(foreign_file),
+            "-filter_complex", f"[0:a]apad=pad_dur={pause_mid}[a0];[1:a]apad=pad_dur={pause_end}[a1];[a0][a1]concat=n=2:v=0:a=1[out]",
             "-map", "[out]",
             str(combined_file)
         ]
@@ -635,10 +628,11 @@ def generate_all_audio(phrases: list, output_dir: str):
         result = subprocess.run(cmd, capture_output=True, text=True)
 
         if result.returncode != 0:
-            concat_file = output_dir / f"concat_{i}.txt"
+            concat_file = output_dir / f"concat_{i:04d}.txt"
             with open(concat_file, "w", encoding="utf-8") as f:
                 f.write(f"file '{english_file.as_posix()}'\n")
-                f.write(f"file '{lang_file.as_posix()}'\n")
+                f.write(f"file '{foreign_file.as_posix()}'\n")
+
             cmd = [
                 "ffmpeg", "-y",
                 "-f", "concat", "-safe", "0",
@@ -655,16 +649,15 @@ def generate_all_audio(phrases: list, output_dir: str):
         audio_files.append({
             "index": i,
             "english": str(english_file),
-            "lang": str(lang_file),
+            "portuguese": str(foreign_file),
             "combined": str(combined_file),
             "duration": actual_duration,
             "en_duration": en_duration,
-            "lang_duration": lang_duration
+            "foreign_duration": foreign_duration
         })
 
     print(f"\n[audio] Generated {len(audio_files)} phrase audios")
     return audio_files
-
 
 def get_audio_duration(audio_file: str) -> float:
     if not Path(audio_file).exists():
@@ -756,8 +749,8 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     font_branding = load_font(english_font_paths, 38)
 
     english = phrase_data.get("english", "")
-    portuguese = phrase_data.get("portuguese", "")
-    pronunciation = phrase_data.get("pronunciation", "")
+    portuguese = phrase_data.get("portuguese") or phrase_data.get("target") or phrase_data.get("foreign") or ""
+    pronunciation = phrase_data.get("pronunciation") or phrase_data.get("pronunciation") or phrase_data.get("pinyin") or phrase_data.get("romaji") or phrase_data.get("phonetic") or ""
 
     def wrap_text(text, font, max_width):
         words = text.split()
@@ -953,30 +946,38 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
-def generate_title_description(category_english: str, category_portuguese: str, phrases: list, duration_minutes: float, output_dir: str):
+def generate_title_description(category_english: str, category_foreign: str, phrases: list, duration_minutes: float, output_dir: str):
+    """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
+    
+    count = len(phrases)
+    est_mins = int(round(duration_minutes)) if duration_minutes > 0 else 20
+    
+    # Generate viral title variations
     titles = [
-        f"Learn Portuguese in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_portuguese})",
-        f"60 Portuguese Phrases for {category_english} | Speak Portuguese Like a Native! ({category_portuguese})",
-        f"Master Portuguese {category_english} | 60 Essential Portuguese Phrases with Pronunciation | Velocity Portuguese",
-        f"Portuguese Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
+        f"Learn Portuguese in {est_mins} Minutes | {count} {category_english} Phrases Every Beginner NEEDS to Know! ({category_foreign})",
+        f"{count} Portuguese Phrases for {category_english} | Speak Portuguese Like a Native! ({category_foreign})",
+        f"Master Portuguese {category_english} | {count} Essential Portuguese Phrases with Pronunciation | VELOCITY PORTUGUESE",
+        f"Portuguese Learning Made Easy | {category_english} Vocabulary | {est_mins} Minute Lesson",
         f"Speak Portuguese Fluently | {category_english} Phrases | English + Portuguese + Pronunciation",
     ]
 
-    description = f"""🇵🇹 Learn Portuguese with Velocity Portuguese! 🇵🇹
+    # Generate comprehensive description
+    description = f"""🇵🇹 Learn Portuguese with VELOCITY PORTUGUESE! 🇵🇹
 
-In this video, you'll learn 60 essential Portuguese phrases about {category_english} ({category_portuguese}).
+In this video, you'll learn {count} essential Portuguese phrases about {category_english} ({category_foreign}).
 Perfect for beginners and intermediate learners!
 
 📚 WHAT YOU'LL LEARN:
-• 60 practical {category_english} phrases in Portuguese
-• Correct pronunciation guide
-• Natural pauses for speaking practice
+• {count} practical {category_english} phrases in Portuguese
+• Correct pronunciation with phonetics
+• Natural pedagogical pauses for speaking practice
 • Common expressions used by native speakers
 
 ⏱️ VIDEO TIMESTAMPS:
 """
 
-    avg_phrase_duration = duration_minutes * 60 / len(phrases)
+    # Add timestamps for each phrase (every 10 phrases grouped)
+    avg_phrase_duration = (duration_minutes * 60) / max(len(phrases), 1)
     for i in range(0, len(phrases), 10):
         timestamp = int(i * avg_phrase_duration / 60)
         minute = timestamp
@@ -984,27 +985,30 @@ Perfect for beginners and intermediate learners!
         end_phrase = min(i + 10, len(phrases))
         description += f"{minute:02d}:{second:02d} Phrases {i+1}-{end_phrase}\n"
 
-    description += """
+    description += f"""
 📝 ALL PHRASES IN THIS VIDEO:
 """
 
+    # Add all phrases
     for i, phrase in enumerate(phrases, 1):
+        foreign_phrase_text = phrase.get("portuguese") or phrase.get("target") or phrase.get("foreign") or ""
+        pron_phrase_text = phrase.get("pronunciation") or phrase.get("pronunciation") or phrase.get("pinyin") or phrase.get("romaji") or phrase.get("phonetic") or ""
         description += f"""
 {i}. {phrase['english']}
-   Portuguese: {phrase['portuguese']}
-   Pronunciation: {phrase['pronunciation']}
+   Portuguese: {foreign_phrase_text}
+   Pronunciation: {pron_phrase_text}
 """
 
-    description += """
+    description += f"""
 🎯 PERFECT FOR:
 • Portuguese beginners wanting to expand vocabulary
 • Intermediate learners practicing pronunciation
-• Anyone interested in Portuguese language and culture
+• Anyone interested in Portuguese culture
 • Language enthusiasts and polyglots
-• Students preparing for exams
+• Students preparing for Portuguese language exams
 
 💡 TIPS FOR LEARNING:
-1. Repeat each phrase out loud
+1. Repeat each phrase out loud during the pause
 2. Practice daily for best results
 3. Use the pauses to speak along
 4. Write down phrases you find difficult
@@ -1023,14 +1027,16 @@ Perfect for beginners and intermediate learners!
 📖 RELATED VIDEOS:
 • Portuguese Motivation Phrases
 • Portuguese Love Expressions
+• Portuguese Basics
 • Basic Portuguese Greetings
 
-#LearnPortuguese #PortuguesePhrases #PortugueseLanguage #{category_english.replace(' ', '')} #VelocityPortuguese #PortugueseForBeginners #SpeakPortuguese #PortugueseVocabulary #Pronunciation #LanguageLearning #Portuguese101 #PortugueseLesson
+#Portuguese #PortuguesePhrases #PortugueseLanguage #{category_english.replace(' ', '')} #VELOCITYPORTUGUESE #PortugueseForBeginners #SpeakPortuguese #PortugueseVocabulary #LanguageLearning #Portuguese101 #PortugueseLesson
 
 ---
-© Velocity Portuguese - Making Portuguese learning accessible to everyone!
+© VELOCITY PORTUGUESE - Making Portuguese learning accessible to everyone!
 """
 
+    # Write to COMBINED file (title + description in one)
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -1038,43 +1044,48 @@ Perfect for beginners and intermediate learners!
         f.write("=" * 80 + "\n")
         f.write("YOUTUBE VIDEO UPLOAD INFORMATION\n")
         f.write("=" * 80 + "\n\n")
-        f.write("RECOMMENDED TITLES (Choose one):\n")
+        
+        f.write("📌 RECOMMENDED TITLES (Choose one):\n")
         f.write("-" * 80 + "\n")
         for i, title in enumerate(titles, 1):
             f.write(f"\n{i}. {title}\n")
+        
         f.write("\n" + "=" * 80 + "\n")
-        f.write("SELECTED TITLE (Recommended):\n")
+        f.write("📝 SELECTED TITLE (Recommended):\n")
         f.write("-" * 80 + "\n")
         f.write(f"\n{titles[0]}\n")
+        
         f.write("\n" + "=" * 80 + "\n")
-        f.write("VIDEO DESCRIPTION:\n")
+        f.write("📄 VIDEO DESCRIPTION:\n")
         f.write("-" * 80 + "\n\n")
         f.write(description)
+        
         f.write("\n" + "=" * 80 + "\n")
-        f.write("VIDEO TAGS (for YouTube):\n")
+        f.write("🏷️ VIDEO TAGS (for YouTube):\n")
         f.write("-" * 80 + "\n")
         tags = [
-            "Learn Portuguese",
-            "Portuguese Phrases",
-            "Portuguese Language",
+            f"Learn Portuguese",
+            f"Portuguese Phrases",
+            f"Portuguese",
             category_english,
-            "Velocity Portuguese",
-            "Portuguese for Beginners",
-            "Speak Portuguese",
-            "Portuguese Vocabulary",
+            brand_text,
+            f"Portuguese for Beginners",
+            f"Speak Portuguese",
+            f"Portuguese Vocabulary",
             "Pronunciation",
             "Language Learning",
-            "Portuguese 101",
-            "Portuguese Lesson"
+            f"Portuguese 101",
+            f"Portuguese Lesson"
         ]
         f.write(", ".join(tags) + "\n")
 
+    # Metadata JSON (for easy parsing)
     metadata = {
         "recommended_titles": titles,
         "selected_title": titles[0],
         "description": description,
         "category_english": category_english,
-        "category_portuguese": category_portuguese,
+        "category_portuguese": category_foreign,
         "phrases_count": len(phrases),
         "duration_minutes": round(duration_minutes, 2),
         "tags": tags
@@ -1089,9 +1100,6 @@ Perfect for beginners and intermediate learners!
 
     return metadata
 
-
-# ============== VIDEO CREATION ==============
-
 def create_video_from_images_audio(image_files: list, audio_files: list, combined_audio: str, output_file: str):
     print(f"\n[video] Creating long-form video from {len(image_files)} images...")
 
@@ -1101,7 +1109,7 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
         duration = audio_info['duration']
         print(f"  Image {i+1}/{len(image_files)}: {duration:.2f}s")
 
-        temp_clip = Path(output_file).parent / f"temp_clip_{i:02d}.mp4"
+        temp_clip = Path(output_file).parent / f"temp_clip_{i:04d}.mp4"
         temp_clips.append(temp_clip)
 
         cmd = [
@@ -1114,7 +1122,7 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
             "-c:a", "aac",
             "-b:a", "128k",
             "-pix_fmt", "yuv420p",
-            "-preset", "medium",
+            "-preset", "ultrafast",
             "-shortest",
             "-vsync", "cfr",
             str(temp_clip)
