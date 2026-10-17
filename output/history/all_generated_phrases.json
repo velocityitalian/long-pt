@@ -1,1 +1,725 @@
-﻿{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "I'm so sorry, really.",
+      "portuguese": "Desculpa mesmo, de verdade.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202246"
+    },
+    {
+      "english": "Please forgive me, okay?",
+      "portuguese": "Me perdoa, tá?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202260"
+    },
+    {
+      "english": "Can you let it go?",
+      "portuguese": "Dá pra esquecer isso?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202265"
+    },
+    {
+      "english": "I didn't mean to.",
+      "portuguese": "Não foi por mal.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202269"
+    },
+    {
+      "english": "It was a mistake, sorry.",
+      "portuguese": "Foi um erro, desculpa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202273"
+    },
+    {
+      "english": "I hope you can forgive me.",
+      "portuguese": "Espero que me perdoe.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202277"
+    },
+    {
+      "english": "Don't be mad at me.",
+      "portuguese": "Não fica bravo comigo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202281"
+    },
+    {
+      "english": "It won't happen again.",
+      "portuguese": "Não vai se repetir.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202288"
+    },
+    {
+      "english": "I really messed up.",
+      "portuguese": "Eu estraguei tudo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202293"
+    },
+    {
+      "english": "Can we move past this?",
+      "portuguese": "Podemos superar isso?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202297"
+    },
+    {
+      "english": "I take full responsibility.",
+      "portuguese": "Assumo toda a culpa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202300"
+    },
+    {
+      "english": "Please accept my apology.",
+      "portuguese": "Aceita minhas desculpas.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202303"
+    },
+    {
+      "english": "I feel terrible about it.",
+      "portuguese": "Me sinto péssimo por isso.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202307"
+    },
+    {
+      "english": "Let's just forget it.",
+      "portuguese": "Vamos só esquecer.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202311"
+    },
+    {
+      "english": "I owe you an apology.",
+      "portuguese": "Devo uma desculpa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202314"
+    },
+    {
+      "english": "Are we good now?",
+      "portuguese": "Ficamos bem agora?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202317"
+    },
+    {
+      "english": "It was unintentional, honestly.",
+      "portuguese": "Foi sem querer, juro.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202320"
+    },
+    {
+      "english": "I hope you're not too upset.",
+      "portuguese": "Espero que não esteja chateado(a).",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202324"
+    },
+    {
+      "english": "My bad, totally.",
+      "portuguese": "Foi mal, total.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202329"
+    },
+    {
+      "english": "Can we start over?",
+      "portuguese": "Podemos recomeçar?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202332"
+    },
+    {
+      "english": "I'm truly sorry, friend.",
+      "portuguese": "Desculpa de amigo(a).",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202336"
+    },
+    {
+      "english": "Please, don't hold a grudge.",
+      "portuguese": "Por favor, não guarde rancor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202340"
+    },
+    {
+      "english": "I regret what I did.",
+      "portuguese": "Me arrependo do que fiz.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202343"
+    },
+    {
+      "english": "I was out of line.",
+      "portuguese": "Eu passei dos limites.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202346"
+    },
+    {
+      "english": "Please forgive my outburst.",
+      "portuguese": "Perdoa a minha explosão.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202349"
+    },
+    {
+      "english": "Can you find it in your heart?",
+      "portuguese": "Consegue perdoar?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202353"
+    },
+    {
+      "english": "I promise it won't happen.",
+      "portuguese": "Prometo que não acontece.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202356"
+    },
+    {
+      "english": "Let's bury the hatchet.",
+      "portuguese": "Vamos fazer as pazes.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202360"
+    },
+    {
+      "english": "I value our friendship.",
+      "portuguese": "Valorizo nossa amizade.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202363"
+    },
+    {
+      "english": "Can you just forgive me now?",
+      "portuguese": "Pode me perdoar logo?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202366"
+    },
+    {
+      "english": "What can I do, to make things right?",
+      "portuguese": "O que posso fazer, para consertar as coisas?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202369"
+    },
+    {
+      "english": "How do you feel, about what happened?",
+      "portuguese": "Como você se sente, sobre o que aconteceu?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202373"
+    },
+    {
+      "english": "Is there anything I can say, to help?",
+      "portuguese": "Há algo que eu possa dizer, para ajudar?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202377"
+    },
+    {
+      "english": "Can we talk, about this calmly?",
+      "portuguese": "Podemos conversar, sobre isso com calma?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202381"
+    },
+    {
+      "english": "What's on your mind, really?",
+      "portuguese": "O que está passando pela sua cabeça, de verdade?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202385"
+    },
+    {
+      "english": "Are you willing, to hear me out?",
+      "portuguese": "Você está disposto, a me ouvir?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202388"
+    },
+    {
+      "english": "What would help, you feel better?",
+      "portuguese": "O que ajudaria, você a se sentir melhor?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202392"
+    },
+    {
+      "english": "Can I explain, my actions now?",
+      "portuguese": "Posso explicar, minhas ações agora?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202395"
+    },
+    {
+      "english": "Should we take a break, from this?",
+      "portuguese": "Devemos dar um tempo, nisso?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202399"
+    },
+    {
+      "english": "How can we avoid, this next time?",
+      "portuguese": "Como podemos evitar, isso da próxima vez?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202402"
+    },
+    {
+      "english": "What do you suggest, we do?",
+      "portuguese": "O que você sugere, que façamos?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202406"
+    },
+    {
+      "english": "Can we discuss, this later?",
+      "portuguese": "Podemos discutir, isso mais tarde?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202409"
+    },
+    {
+      "english": "What did I misunderstand, exactly?",
+      "portuguese": "O que eu entendi errado, exatamente?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202413"
+    },
+    {
+      "english": "Are you open, to reconciliation?",
+      "portuguese": "Você está aberto, à reconciliação?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202416"
+    },
+    {
+      "english": "What is needed, for healing?",
+      "portuguese": "O que é necessário, para a cura?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202420"
+    },
+    {
+      "english": "Can we find, common ground?",
+      "portuguese": "Podemos encontrar, um terreno comum?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202423"
+    },
+    {
+      "english": "What's the best way, forward?",
+      "portuguese": "Qual é o melhor caminho, a seguir?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202428"
+    },
+    {
+      "english": "Can you tell me, what bothers you?",
+      "portuguese": "Você pode me dizer, o que te incomoda?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202432"
+    },
+    {
+      "english": "How can I show, I care?",
+      "portuguese": "Como posso mostrar, que me importo?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202435"
+    },
+    {
+      "english": "What does forgiveness mean, to you?",
+      "portuguese": "O que o perdão significa, para você?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202439"
+    },
+    {
+      "english": "Can we agree, to disagree?",
+      "portuguese": "Podemos concordar, em discordar?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202443"
+    },
+    {
+      "english": "What should I learn, from this?",
+      "portuguese": "O que devo aprender, com isso?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202446"
+    },
+    {
+      "english": "Are you ready, to move on?",
+      "portuguese": "Você está pronto, para seguir em frente?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202450"
+    },
+    {
+      "english": "What is the path, to peace?",
+      "portuguese": "Qual é o caminho, para a paz?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202454"
+    },
+    {
+      "english": "Can I offer, a gesture of goodwill?",
+      "portuguese": "Posso oferecer, um gesto de boa vontade?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202457"
+    },
+    {
+      "english": "How do we rebuild, trust?",
+      "portuguese": "Como reconstruímos, a confiança?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202459"
+    },
+    {
+      "english": "What if we started, fresh?",
+      "portuguese": "E se começássemos, do zero?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202462"
+    },
+    {
+      "english": "Can you give me, some advice?",
+      "portuguese": "Você pode me dar, um conselho?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202465"
+    },
+    {
+      "english": "What's the next step, for us?",
+      "portuguese": "Qual é o próximo passo, para nós?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202468"
+    },
+    {
+      "english": "You're stronger than you think.",
+      "portuguese": "Você é mais forte do que pensa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202479"
+    },
+    {
+      "english": "Let go, feel the relief.",
+      "portuguese": "Solte, sinta o alívio.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202482"
+    },
+    {
+      "english": "Your inner peace matters most.",
+      "portuguese": "Sua paz interior importa mais.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202485"
+    },
+    {
+      "english": "Be kind, to yourself too.",
+      "portuguese": "Seja gentil, consigo mesmo também.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202487"
+    },
+    {
+      "english": "This is a chance, to grow.",
+      "portuguese": "Esta é uma chance, para crescer.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202491"
+    },
+    {
+      "english": "You have a forgiving heart.",
+      "portuguese": "Você tem um coração que perdoa.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202493"
+    },
+    {
+      "english": "Embrace this new beginning.",
+      "portuguese": "Abrace este novo começo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202496"
+    },
+    {
+      "english": "You are capable, of much good.",
+      "portuguese": "Você é capaz, de muito bem.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202499"
+    },
+    {
+      "english": "Focus on healing, and peace.",
+      "portuguese": "Concentre-se em curar, e paz.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202502"
+    },
+    {
+      "english": "Your strength, is inspiring.",
+      "portuguese": "Sua força, é inspiradora.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202505"
+    },
+    {
+      "english": "Choose understanding, over anger.",
+      "portuguese": "Escolha o entendimento, sobre a raiva.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202508"
+    },
+    {
+      "english": "You deserve, serenity.",
+      "portuguese": "Você merece, serenidade.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202511"
+    },
+    {
+      "english": "Let compassion, guide you.",
+      "portuguese": "Deixe a compaixão, te guiar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202513"
+    },
+    {
+      "english": "It's okay, to feel better.",
+      "portuguese": "Está tudo bem, se sentir melhor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202517"
+    },
+    {
+      "english": "You are a kind soul.",
+      "portuguese": "Você é uma alma gentil.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202522"
+    },
+    {
+      "english": "Clarity comes, after the storm.",
+      "portuguese": "A clareza vem, depois da tempestade.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202524"
+    },
+    {
+      "english": "Give yourself, grace.",
+      "portuguese": "Dê a si mesmo, graça.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202527"
+    },
+    {
+      "english": "You're learning, and evolving.",
+      "portuguese": "Você está aprendendo, e evoluindo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202532"
+    },
+    {
+      "english": "Positive thoughts, lead to peace.",
+      "portuguese": "Pensamentos positivos, levam à paz.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202536"
+    },
+    {
+      "english": "You're doing great, truly.",
+      "portuguese": "Você está indo bem, de verdade.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202539"
+    },
+    {
+      "english": "Acceptance brings, inner calm.",
+      "portuguese": "Aceitação traz, calma interior.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202541"
+    },
+    {
+      "english": "This difficulty, will pass.",
+      "portuguese": "Esta dificuldade, vai passar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202544"
+    },
+    {
+      "english": "You are resilient, and brave.",
+      "portuguese": "Você é resiliente, e corajoso.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202547"
+    },
+    {
+      "english": "Look for the good, always.",
+      "portuguese": "Procure o bem, sempre.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202550"
+    },
+    {
+      "english": "Your heart, can heal.",
+      "portuguese": "Seu coração, pode curar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202553"
+    },
+    {
+      "english": "Breathe deep, find your center.",
+      "portuguese": "Respire fundo, ache seu centro.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202555"
+    },
+    {
+      "english": "You possess, inner wisdom.",
+      "portuguese": "Você possui, sabedoria interior.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202558"
+    },
+    {
+      "english": "This is a learning moment.",
+      "portuguese": "Este é um momento de aprendizado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202561"
+    },
+    {
+      "english": "Cultivate positivity, within you.",
+      "portuguese": "Cultive a positividade, dentro de você.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202563"
+    },
+    {
+      "english": "Your journey, is valid.",
+      "portuguese": "Sua jornada, é válida.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202566"
+    },
+    {
+      "english": "I need time, to process this.",
+      "portuguese": "Preciso de tempo, para processar isto.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202569"
+    },
+    {
+      "english": "My feelings are complicated, right now.",
+      "portuguese": "Meus sentimentos estão complicados, agora.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202574"
+    },
+    {
+      "english": "I'm trying, to understand your side.",
+      "portuguese": "Estou tentando, entender seu lado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202577"
+    },
+    {
+      "english": "This is a moment, for reflection.",
+      "portuguese": "Este é um momento, para reflexão.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202580"
+    },
+    {
+      "english": "I'm choosing, peace over anger.",
+      "portuguese": "Escolho a paz, em vez de raiva.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202583"
+    },
+    {
+      "english": "Let's take it, one step at a time.",
+      "portuguese": "Vamos seguir, um passo de cada vez.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202587"
+    },
+    {
+      "english": "My heart needs, to heal slowly.",
+      "portuguese": "Meu coração precisa, curar devagar.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202589"
+    },
+    {
+      "english": "I'm working, on my own healing.",
+      "portuguese": "Estou trabalhando, na minha cura.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202592"
+    },
+    {
+      "english": "Can we be honest, about our feelings?",
+      "portuguese": "Podemos ser honestos, sobre nossos sentimentos?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202595"
+    },
+    {
+      "english": "I value, our connection deeply.",
+      "portuguese": "Valorizo, nossa conexão profundamente.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202598"
+    },
+    {
+      "english": "Patience is key, for both of us.",
+      "portuguese": "Paciência é a chave, para nós dois.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202601"
+    },
+    {
+      "english": "I'm learning, to forgive myself too.",
+      "portuguese": "Estou aprendendo, a me perdoar também.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202605"
+    },
+    {
+      "english": "This situation, requires compassion.",
+      "portuguese": "Esta situação, exige compaixão.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202608"
+    },
+    {
+      "english": "I want to find, resolution here.",
+      "portuguese": "Quero encontrar, resolução aqui.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202611"
+    },
+    {
+      "english": "Letting go, feels like freedom.",
+      "portuguese": "Soltar vai, parecer liberdade.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202614"
+    },
+    {
+      "english": "My intention, is to move forward.",
+      "portuguese": "Minha intenção, é seguir em frente.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202617"
+    },
+    {
+      "english": "We can build, something stronger now.",
+      "portuguese": "Podemos construir, algo mais forte agora.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202619"
+    },
+    {
+      "english": "I'm open, to healing this wound.",
+      "portuguese": "Estou aberto, para curar esta ferida.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202622"
+    },
+    {
+      "english": "True forgiveness, takes genuine effort.",
+      "portuguese": "Perdão verdadeiro, exige esforço real.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202625"
+    },
+    {
+      "english": "Can we speak, from the heart?",
+      "portuguese": "Podemos falar, do coração?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202628"
+    },
+    {
+      "english": "I acknowledge, my part in this.",
+      "portuguese": "Reconheço, minha parte nisto.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202632"
+    },
+    {
+      "english": "This needs, careful consideration.",
+      "portuguese": "Isto precisa, de cuidado.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202635"
+    },
+    {
+      "english": "I am choosing, understanding today.",
+      "portuguese": "Escolho o entendimento, hoje.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202637"
+    },
+    {
+      "english": "Let's find, common ground together.",
+      "portuguese": "Vamos achar, um ponto em comum.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202640"
+    },
+    {
+      "english": "My emotional honesty, is important.",
+      "portuguese": "Minha honestidade emocional, é importante.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202643"
+    },
+    {
+      "english": "We can grow, from difficult times.",
+      "portuguese": "Podemos crescer, de tempos difíceis.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202646"
+    },
+    {
+      "english": "I'm offering, sincere apology now.",
+      "portuguese": "Ofereço, sinceras desculpas agora.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202649"
+    },
+    {
+      "english": "My journey, involves self-forgiveness.",
+      "portuguese": "Minha jornada, envolve autoperdão.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202652"
+    },
+    {
+      "english": "Let's honor, our shared humanity.",
+      "portuguese": "Vamos honrar, nossa humanidade.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202654"
+    },
+    {
+      "english": "Let's talk, when things cool down.",
+      "portuguese": "Vamos conversar, quando as coisas esfriarem.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202657"
+    },
+    {
+      "english": "I forgive you, and myself.",
+      "portuguese": "Eu te perdoo, e a mim mesmo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-17T07:19:29.202660"
+    }
+  ],
+  "last_updated": "2026-10-17T07:19:29.202662"
+}
