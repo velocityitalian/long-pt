@@ -719,7 +719,727 @@
       "portuguese": "Eu te perdoo, e a mim mesmo.",
       "category": "Forgiveness",
       "generated_at": "2026-10-17T07:19:29.202660"
+    },
+    {
+      "english": "I need to see a doctor, urgently.",
+      "portuguese": "Preciso ver um médico, com urgência.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859312"
+    },
+    {
+      "english": "Where is the nearest pharmacy?",
+      "portuguese": "Onde fica a farmácia mais próxima?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859329"
+    },
+    {
+      "english": "I don't feel well, today.",
+      "portuguese": "Não me sinto bem, hoje.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859333"
+    },
+    {
+      "english": "I have a terrible headache.",
+      "portuguese": "Tenho uma dor de cabeça terrível.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859336"
+    },
+    {
+      "english": "Do you have this medicine?",
+      "portuguese": "Você tem este remédio?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859338"
+    },
+    {
+      "english": "My throat hurts, a lot.",
+      "portuguese": "Minha garganta dói, bastante.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859341"
+    },
+    {
+      "english": "I need a prescription, please.",
+      "portuguese": "Preciso de uma receita, por favor.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859347"
+    },
+    {
+      "english": "When does the pharmacy close?",
+      "portuguese": "Quando a farmácia fecha?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859352"
+    },
+    {
+      "english": "I think I have a fever.",
+      "portuguese": "Acho que estou com febre.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859356"
+    },
+    {
+      "english": "Can you recommend something?",
+      "portuguese": "Pode recomendar algo?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859360"
+    },
+    {
+      "english": "I have an appointment, tomorrow.",
+      "portuguese": "Tenho uma consulta, amanhã.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859363"
+    },
+    {
+      "english": "Is it an emergency, doctor?",
+      "portuguese": "É uma emergência, doutor?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859366"
+    },
+    {
+      "english": "I need something for allergies.",
+      "portuguese": "Preciso de algo para alergias.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859368"
+    },
+    {
+      "english": "How much does this cost?",
+      "portuguese": "Quanto custa isto?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859371"
+    },
+    {
+      "english": "I feel dizzy, a little.",
+      "portuguese": "Sinto tontura, um pouco.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859373"
+    },
+    {
+      "english": "Do you take insurance?",
+      "portuguese": "Vocês aceitam plano de saúde?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859376"
+    },
+    {
+      "english": "I have a cough, persistent.",
+      "portuguese": "Tenho tosse, persistente.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859378"
+    },
+    {
+      "english": "Where can I buy bandages?",
+      "portuguese": "Onde posso comprar curativos?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859380"
+    },
+    {
+      "english": "I need to schedule a check-up.",
+      "portuguese": "Preciso marcar um check-up.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859383"
+    },
+    {
+      "english": "What are the side effects?",
+      "portuguese": "Quais são os efeitos colaterais?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859385"
+    },
+    {
+      "english": "My stomach hurts, badly.",
+      "portuguese": "Meu estômago dói, muito.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859388"
+    },
+    {
+      "english": "I'm feeling nauseous, a bit.",
+      "portuguese": "Estou enjoado(a), um pouco.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859391"
+    },
+    {
+      "english": "Is this medication available?",
+      "portuguese": "Este medicamento está disponível?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859393"
+    },
+    {
+      "english": "I need to renew my prescription.",
+      "portuguese": "Preciso renovar minha receita.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859396"
+    },
+    {
+      "english": "Do you have any painkillers?",
+      "portuguese": "Tem algum analgésico?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859398"
+    },
+    {
+      "english": "I have a skin rash.",
+      "portuguese": "Tenho uma erupção cutânea.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859403"
+    },
+    {
+      "english": "What time do you open?",
+      "portuguese": "A que horas vocês abrem?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859406"
+    },
+    {
+      "english": "I think I broke my arm.",
+      "portuguese": "Acho que quebrei meu braço.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859408"
+    },
+    {
+      "english": "I need an antiseptic wipe.",
+      "portuguese": "Preciso de um lenço antisséptico.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859410"
+    },
+    {
+      "english": "Can I speak to the pharmacist?",
+      "portuguese": "Posso falar com o farmacêutico?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859414"
+    },
+    {
+      "english": "What symptoms are you having?",
+      "portuguese": "Quais sintomas você está tendo?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859417"
+    },
+    {
+      "english": "Can you describe the pain?",
+      "portuguese": "Pode descrever a dor?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859419"
+    },
+    {
+      "english": "How long have you felt this way?",
+      "portuguese": "Há quanto tempo se sente assim?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859425"
+    },
+    {
+      "english": "Is there anything else bothering you?",
+      "portuguese": "Tem mais alguma coisa te incomodando?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859428"
+    },
+    {
+      "english": "Are you taking any medication?",
+      "portuguese": "Você está tomando algum remédio?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859431"
+    },
+    {
+      "english": "What is your dosage?",
+      "portuguese": "Qual é a sua dosagem?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859436"
+    },
+    {
+      "english": "Can I help you with something?",
+      "portuguese": "Posso ajudar em algo?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859439"
+    },
+    {
+      "english": "What brings you here today?",
+      "portuguese": "O que te traz aqui hoje?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859441"
+    },
+    {
+      "english": "Tell me more about your discomfort.",
+      "portuguese": "Fale mais sobre seu mal-estar.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859444"
+    },
+    {
+      "english": "When did the pain start?",
+      "portuguese": "Quando a dor começou?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859446"
+    },
+    {
+      "english": "Have you had this before?",
+      "portuguese": "Você já teve isso antes?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859449"
+    },
+    {
+      "english": "What time is your appointment?",
+      "portuguese": "A que horas é sua consulta?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859451"
+    },
+    {
+      "english": "Can I get a refill, please?",
+      "portuguese": "Posso pegar uma renovação, por favor?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859454"
+    },
+    {
+      "english": "Is this prescription still valid?",
+      "portuguese": "Esta receita ainda é válida?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859457"
+    },
+    {
+      "english": "What is the best option?",
+      "portuguese": "Qual é a melhor opção?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859459"
+    },
+    {
+      "english": "Could you explain that again?",
+      "portuguese": "Pode explicar isso de novo?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859489"
+    },
+    {
+      "english": "I need to get some rest.",
+      "portuguese": "Preciso descansar um pouco.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859493"
+    },
+    {
+      "english": "Are there any alternatives available?",
+      "portuguese": "Existem alternativas disponíveis?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859495"
+    },
+    {
+      "english": "Should I avoid certain foods?",
+      "portuguese": "Devo evitar certos alimentos?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859498"
+    },
+    {
+      "english": "What do you recommend for sleep?",
+      "portuguese": "O que recomenda para dormir?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859501"
+    },
+    {
+      "english": "How often should I take this?",
+      "portuguese": "Com que frequência devo tomar isto?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859503"
+    },
+    {
+      "english": "Can you show me where?",
+      "portuguese": "Pode me mostrar onde?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859506"
+    },
+    {
+      "english": "I need to speak with someone.",
+      "portuguese": "Preciso falar com alguém.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859509"
+    },
+    {
+      "english": "Is there a doctor on duty?",
+      "portuguese": "Há algum médico de plantão?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859512"
+    },
+    {
+      "english": "What should I do now?",
+      "portuguese": "O que devo fazer agora?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859514"
+    },
+    {
+      "english": "Can I get a second opinion?",
+      "portuguese": "Posso ter uma segunda opinião?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859517"
+    },
+    {
+      "english": "I need to change the dressing.",
+      "portuguese": "Preciso trocar o curativo.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859519"
+    },
+    {
+      "english": "Is this contagious?",
+      "portuguese": "Isso é contagioso?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859524"
+    },
+    {
+      "english": "Do you have anything for pain relief?",
+      "portuguese": "Tem algo para alívio da dor?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859527"
+    },
+    {
+      "english": "You're doing great, keep going!",
+      "portuguese": "Você está indo muito bem, continue!",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859530"
+    },
+    {
+      "english": "This is a good start, really.",
+      "portuguese": "Este é um bom começo, de verdade.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859535"
+    },
+    {
+      "english": "Don't worry, we'll figure it out.",
+      "portuguese": "Não se preocupe, vamos resolver isso.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859538"
+    },
+    {
+      "english": "Focus on healing, step by step.",
+      "portuguese": "Concentre-se em curar, passo a passo.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859541"
+    },
+    {
+      "english": "Every small step matters, believe.",
+      "portuguese": "Cada pequeno passo importa, acredite.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859544"
+    },
+    {
+      "english": "You are stronger than you think.",
+      "portuguese": "Você é mais forte do que pensa.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859547"
+    },
+    {
+      "english": "Positive thoughts help, trust the process.",
+      "portuguese": "Pensamentos positivos ajudam, confie no processo.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859550"
+    },
+    {
+      "english": "Take it one day at a time.",
+      "portuguese": "Leve um dia de cada vez.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859552"
+    },
+    {
+      "english": "Be patient with yourself, okay?",
+      "portuguese": "Seja paciente consigo mesmo, ok?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859555"
+    },
+    {
+      "english": "You're doing your best, that's enough.",
+      "portuguese": "Você está fazendo o seu melhor, isso basta.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859558"
+    },
+    {
+      "english": "I see your effort, it's noticeable.",
+      "portuguese": "Eu vejo seu esforço, é notável.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859561"
+    },
+    {
+      "english": "Believe in your recovery, completely.",
+      "portuguese": "Acredite na sua recuperação, completamente.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859564"
+    },
+    {
+      "english": "This challenge will make you stronger.",
+      "portuguese": "Este desafio vai te deixar mais forte.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859569"
+    },
+    {
+      "english": "You've overcome worse, remember that.",
+      "portuguese": "Você já superou coisas piores, lembre-se disso.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859572"
+    },
+    {
+      "english": "Keep a positive outlook, always.",
+      "portuguese": "Mantenha uma perspectiva positiva, sempre.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859574"
+    },
+    {
+      "english": "Your body is healing, be patient.",
+      "portuguese": "Seu corpo está se curando, tenha paciência.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859577"
+    },
+    {
+      "english": "Take deep breaths, you can do this.",
+      "portuguese": "Respire fundo, você consegue.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859580"
+    },
+    {
+      "english": "It's okay to ask for help.",
+      "portuguese": "É normal pedir ajuda.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859582"
+    },
+    {
+      "english": "You are on the right path now.",
+      "portuguese": "Você está no caminho certo agora.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859585"
+    },
+    {
+      "english": "We're here to support you always.",
+      "portuguese": "Estamos aqui para te apoiar sempre.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859588"
+    },
+    {
+      "english": "Your health is the priority, focus.",
+      "portuguese": "Sua saúde é a prioridade, foque.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859591"
+    },
+    {
+      "english": "Hang in there, it gets better.",
+      "portuguese": "Aguente firme, vai melhorar.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859594"
+    },
+    {
+      "english": "You are showing great resilience.",
+      "portuguese": "Você está mostrando grande resiliência.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859597"
+    },
+    {
+      "english": "Small victories count, celebrate them.",
+      "portuguese": "Pequenas vitórias contam, celebre-as.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859600"
+    },
+    {
+      "english": "Listen to your body's signals.",
+      "portuguese": "Ouça os sinais do seu corpo.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859602"
+    },
+    {
+      "english": "You're making progress, that's wonderful.",
+      "portuguese": "Você está progredindo, isso é maravilhoso.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859605"
+    },
+    {
+      "english": "Don't give up, you're almost there.",
+      "portuguese": "Não desista, você está quase lá.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859609"
+    },
+    {
+      "english": "Focus on what you can control.",
+      "portuguese": "Concentre-se no que você pode controlar.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859611"
+    },
+    {
+      "english": "Hope is a powerful medicine.",
+      "portuguese": "A esperança é um remédio poderoso.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859614"
+    },
+    {
+      "english": "We are proud of your efforts.",
+      "portuguese": "Temos orgulho dos seus esforços.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859618"
+    },
+    {
+      "english": "I feel hopeful, actually.",
+      "portuguese": "Sinto-me esperançoso, na verdade.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859621"
+    },
+    {
+      "english": "This medication, it makes me think.",
+      "portuguese": "Este remédio, ele me faz pensar.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859624"
+    },
+    {
+      "english": "I'm learning, to take care of me.",
+      "portuguese": "Estou aprendendo, a cuidar de mim.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859627"
+    },
+    {
+      "english": "It's a relief, to finally understand.",
+      "portuguese": "É um alívio, entender finalmente.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859632"
+    },
+    {
+      "english": "I need patience, for this to pass.",
+      "portuguese": "Preciso de paciência, para isto passar.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859635"
+    },
+    {
+      "english": "My body, it needs time.",
+      "portuguese": "Meu corpo, ele precisa de tempo.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859638"
+    },
+    {
+      "english": "I'm reflecting, on my health journey.",
+      "portuguese": "Estou refletindo, sobre minha jornada de saúde.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859641"
+    },
+    {
+      "english": "Gratitude, for the little improvements.",
+      "portuguese": "Gratidão, pelas pequenas melhorias.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859644"
+    },
+    {
+      "english": "This moment, feels important.",
+      "portuguese": "Este momento, parece importante.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859647"
+    },
+    {
+      "english": "I’m feeling calmer now.",
+      "portuguese": "Estou me sentindo mais calmo agora.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859653"
+    },
+    {
+      "english": "It’s good to talk, about this openly.",
+      "portuguese": "É bom falar, sobre isto abertamente.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859660"
+    },
+    {
+      "english": "I trust your guidance.",
+      "portuguese": "Confio na sua orientação.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859662"
+    },
+    {
+      "english": "This experience, is teaching me.",
+      "portuguese": "Esta experiência, está me ensinando.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859665"
+    },
+    {
+      "english": "I'm trying, to be positive.",
+      "portuguese": "Estou tentando, ser positivo.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859668"
+    },
+    {
+      "english": "It’s hard, but I’m managing.",
+      "portuguese": "É difícil, mas estou conseguindo.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859673"
+    },
+    {
+      "english": "I appreciate the care.",
+      "portuguese": "Aprecio o cuidado.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859675"
+    },
+    {
+      "english": "This is a learning process.",
+      "portuguese": "Este é um processo de aprendizado.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859678"
+    },
+    {
+      "english": "I feel a bit overwhelmed.",
+      "portuguese": "Sinto-me um pouco sobrecarregado.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859680"
+    },
+    {
+      "english": "Your advice, is very helpful.",
+      "portuguese": "Seu conselho, é muito útil.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859683"
+    },
+    {
+      "english": "I'm taking things slow.",
+      "portuguese": "Estou levando as coisas devagar.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859686"
+    },
+    {
+      "english": "It's okay, to feel this way.",
+      "portuguese": "Está tudo bem, sentir-se assim.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859688"
+    },
+    {
+      "english": "I find comfort, in routine.",
+      "portuguese": "Encontro conforto, na rotina.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859691"
+    },
+    {
+      "english": "This journey, has ups and downs.",
+      "portuguese": "Esta jornada, tem altos e baixos.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859694"
+    },
+    {
+      "english": "I’m listening, to my body.",
+      "portuguese": "Estou escutando, meu corpo.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859698"
+    },
+    {
+      "english": "I believe, in recovery.",
+      "portuguese": "Eu acredito, na recuperação.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859701"
+    },
+    {
+      "english": "This is a significant change.",
+      "portuguese": "Esta é uma mudança significativa.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859704"
+    },
+    {
+      "english": "I’m more aware, now.",
+      "portuguese": "Estou mais consciente, agora.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859707"
+    },
+    {
+      "english": "Your kindness, means a lot.",
+      "portuguese": "Sua gentileza, significa muito.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859710"
+    },
+    {
+      "english": "I'm embracing, this new chapter.",
+      "portuguese": "Estou abraçando, este novo capítulo.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859713"
+    },
+    {
+      "english": "It’s a relief, to be understood.",
+      "portuguese": "É um alívio, ser compreendido.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859717"
+    },
+    {
+      "english": "I need medicine, for a cough.",
+      "portuguese": "Preciso de remédio, para tosse.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-10-18T07:33:11.859719"
     }
   ],
-  "last_updated": "2026-10-17T07:19:29.202662"
+  "last_updated": "2026-10-18T07:33:11.859725"
 }
