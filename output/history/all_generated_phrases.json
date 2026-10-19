@@ -1439,7 +1439,727 @@
       "portuguese": "Preciso de remédio, para tosse.",
       "category": "Doctor & Pharmacy",
       "generated_at": "2026-10-18T07:33:11.859719"
+    },
+    {
+      "english": "Keep hoping, it's worth it.",
+      "portuguese": "Continue esperando, vale a pena.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693790"
+    },
+    {
+      "english": "There's always a light, you know.",
+      "portuguese": "Sempre há uma luz, sabe.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693805"
+    },
+    {
+      "english": "Don't lose faith, ever.",
+      "portuguese": "Não perca a fé, nunca.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693808"
+    },
+    {
+      "english": "Hope is the last to die.",
+      "portuguese": "A esperança é a última que morre.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693810"
+    },
+    {
+      "english": "Believe in better days.",
+      "portuguese": "Acredite em dias melhores.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693812"
+    },
+    {
+      "english": "Tomorrow can be brighter.",
+      "portuguese": "O amanhã pode ser mais brilhante.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693814"
+    },
+    {
+      "english": "Let's stay positive, okay?",
+      "portuguese": "Vamos manter o otimismo, tá?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693817"
+    },
+    {
+      "english": "Good things will come your way.",
+      "portuguese": "Boas coisas virão para você.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693821"
+    },
+    {
+      "english": "Never give up hope.",
+      "portuguese": "Nunca desista da esperança.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693824"
+    },
+    {
+      "english": "I have a good feeling about this.",
+      "portuguese": "Tenho um bom pressentimento sobre isso.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693826"
+    },
+    {
+      "english": "There's always a chance.",
+      "portuguese": "Sempre existe uma chance.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693828"
+    },
+    {
+      "english": "Keep your chin up.",
+      "portuguese": "Mantenha a cabeça erguida.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693830"
+    },
+    {
+      "english": "We can make it through.",
+      "portuguese": "Podemos superar isso.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693849"
+    },
+    {
+      "english": "Thinking positive thoughts helps.",
+      "portuguese": "Pensar positivo ajuda.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693851"
+    },
+    {
+      "english": "A new day, a new hope.",
+      "portuguese": "Um novo dia, uma nova esperança.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693853"
+    },
+    {
+      "english": "What a hopeful sign!",
+      "portuguese": "Que sinal esperançoso!",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693857"
+    },
+    {
+      "english": "Let's hope for the best.",
+      "portuguese": "Vamos torcer pelo melhor.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693860"
+    },
+    {
+      "english": "This could be our lucky break.",
+      "portuguese": "Esta pode ser a nossa sorte.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693861"
+    },
+    {
+      "english": "Stay strong, be brave.",
+      "portuguese": "Fique forte, seja corajoso.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693864"
+    },
+    {
+      "english": "I'm optimistic about this.",
+      "portuguese": "Sou otimista quanto a isso.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693867"
+    },
+    {
+      "english": "Things will work out eventually.",
+      "portuguese": "As coisas vão dar certo eventualmente.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693870"
+    },
+    {
+      "english": "Keep your spirits up.",
+      "portuguese": "Mantenha seu ânimo.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693872"
+    },
+    {
+      "english": "There's light at the end.",
+      "portuguese": "Há luz no fim do túnel.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693874"
+    },
+    {
+      "english": "Hope springs eternal.",
+      "portuguese": "A esperança é eterna.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693876"
+    },
+    {
+      "english": "We'll get through this together.",
+      "portuguese": "Nós vamos superar isso juntos.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693878"
+    },
+    {
+      "english": "This is a sign of good things.",
+      "portuguese": "Isso é um sinal de coisas boas.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693880"
+    },
+    {
+      "english": "Don't let go of hope.",
+      "portuguese": "Não solte a esperança.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693882"
+    },
+    {
+      "english": "Future looks promising.",
+      "portuguese": "O futuro parece promissor.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693883"
+    },
+    {
+      "english": "Hold on, help is coming.",
+      "portuguese": "Segura, a ajuda está chegando.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693885"
+    },
+    {
+      "english": "What gives you hope, today?",
+      "portuguese": "O que te dá esperança, hoje?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693889"
+    },
+    {
+      "english": "Can we find hope, together?",
+      "portuguese": "Podemos encontrar esperança, juntos?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693891"
+    },
+    {
+      "english": "Where do you look, for hope?",
+      "portuguese": "Onde você busca, por esperança?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693895"
+    },
+    {
+      "english": "Is there a reason, to be hopeful?",
+      "portuguese": "Há alguma razão, para ter esperança?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693898"
+    },
+    {
+      "english": "What if we try, a different approach?",
+      "portuguese": "E se tentarmos, uma abordagem diferente?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693900"
+    },
+    {
+      "english": "Do you think it's possible, to succeed?",
+      "portuguese": "Você acha que é possível, ter sucesso?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693903"
+    },
+    {
+      "english": "How can we foster, more optimism?",
+      "portuguese": "Como podemos cultivar, mais otimismo?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693905"
+    },
+    {
+      "english": "Should we consider, another option?",
+      "portuguese": "Devemos considerar, outra opção?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693907"
+    },
+    {
+      "english": "What advice do you have, for me?",
+      "portuguese": "Que conselho você tem, para mim?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693910"
+    },
+    {
+      "english": "Could this be, a turning point?",
+      "portuguese": "Isso poderia ser, um ponto de virada?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693912"
+    },
+    {
+      "english": "Are you feeling, a bit more hopeful?",
+      "portuguese": "Você está se sentindo, um pouco mais esperançoso?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.693915"
+    },
+    {
+      "english": "What's your perspective, on this situation?",
+      "portuguese": "Qual sua perspectiva, sobre esta situação?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694001"
+    },
+    {
+      "english": "Can we make plans, for a better future?",
+      "portuguese": "Podemos fazer planos, para um futuro melhor?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694003"
+    },
+    {
+      "english": "Do you see any, positive signs?",
+      "portuguese": "Você vê algum, sinal positivo?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694005"
+    },
+    {
+      "english": "What helps you, stay motivated?",
+      "portuguese": "O que te ajuda, a manter a motivação?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694009"
+    },
+    {
+      "english": "Let's brainstorm, some solutions.",
+      "portuguese": "Vamos pensar em, algumas soluções.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694012"
+    },
+    {
+      "english": "Do you believe, in second chances?",
+      "portuguese": "Você acredita, em segundas chances?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694014"
+    },
+    {
+      "english": "How do we move forward, from here?",
+      "portuguese": "Como avançamos, a partir daqui?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694016"
+    },
+    {
+      "english": "What are your hopes, for tomorrow?",
+      "portuguese": "Quais são suas esperanças, para amanhã?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694018"
+    },
+    {
+      "english": "Could we try, something new?",
+      "portuguese": "Poderíamos tentar, algo novo?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694020"
+    },
+    {
+      "english": "What makes you, feel optimistic?",
+      "portuguese": "O que te faz, sentir otimismo?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694022"
+    },
+    {
+      "english": "Is there any, room for improvement?",
+      "portuguese": "Há alguma margem, para melhoria?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694024"
+    },
+    {
+      "english": "Where can we find, inspiration?",
+      "portuguese": "Onde podemos encontrar, inspiração?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694028"
+    },
+    {
+      "english": "Shall we discuss, our possibilities?",
+      "portuguese": "Vamos discutir, nossas possibilidades?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694030"
+    },
+    {
+      "english": "Do you have faith, in this outcome?",
+      "portuguese": "Você tem fé, neste resultado?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694032"
+    },
+    {
+      "english": "What's the next step, towards hope?",
+      "portuguese": "Qual o próximo passo, em direção à esperança?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694035"
+    },
+    {
+      "english": "Can we work towards, a positive change?",
+      "portuguese": "Podemos trabalhar por, uma mudança positiva?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694037"
+    },
+    {
+      "english": "What if we ask, for help?",
+      "portuguese": "E se pedirmos, por ajuda?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694039"
+    },
+    {
+      "english": "Do you see, any potential?",
+      "portuguese": "Você vê, algum potencial?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694041"
+    },
+    {
+      "english": "Let's look for, silver linings.",
+      "portuguese": "Vamos procurar, os lados bons.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694043"
+    },
+    {
+      "english": "Believe in yourself, you can do it.",
+      "portuguese": "Acredite em você, você consegue.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694045"
+    },
+    {
+      "english": "Every day is a new chance.",
+      "portuguese": "Todo dia é uma nova chance.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694047"
+    },
+    {
+      "english": "Your effort is noticed, keep going.",
+      "portuguese": "Seu esforço é notado, continue.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694049"
+    },
+    {
+      "english": "Positive thoughts, bring positive results.",
+      "portuguese": "Pensamentos positivos, trazem resultados.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694052"
+    },
+    {
+      "english": "You have the strength, to overcome.",
+      "portuguese": "Você tem a força, para superar.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694054"
+    },
+    {
+      "english": "A little progress, each day counts.",
+      "portuguese": "Um pouco de progresso, cada dia conta.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694057"
+    },
+    {
+      "english": "Don't give up, on your dreams.",
+      "portuguese": "Não desista, dos seus sonhos.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694059"
+    },
+    {
+      "english": "Brighter days, are ahead.",
+      "portuguese": "Dias mais brilhantes, estão por vir.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694070"
+    },
+    {
+      "english": "You are capable, of amazing things.",
+      "portuguese": "Você é capaz, de coisas incríveis.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694072"
+    },
+    {
+      "english": "Focus on what's good, right now.",
+      "portuguese": "Foque no que é bom, agora.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694075"
+    },
+    {
+      "english": "This challenge, makes you stronger.",
+      "portuguese": "Este desafio, te faz mais forte.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694078"
+    },
+    {
+      "english": "Your attitude, determines everything.",
+      "portuguese": "Sua atitude, determina tudo.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694080"
+    },
+    {
+      "english": "Let kindness, guide your actions.",
+      "portuguese": "Deixe a gentileza, guiar suas ações.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694082"
+    },
+    {
+      "english": "Small steps, lead to big results.",
+      "portuguese": "Passos pequenos, levam a grandes resultados.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694085"
+    },
+    {
+      "english": "Visualize success, and achieve it.",
+      "portuguese": "Visualize o sucesso, e conquiste-o.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694087"
+    },
+    {
+      "english": "Your resilience, is admirable.",
+      "portuguese": "Sua resiliência, é admirável.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694089"
+    },
+    {
+      "english": "Tomorrow is a blank page.",
+      "portuguese": "O amanhã é uma página em branco.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694091"
+    },
+    {
+      "english": "Let optimism, be your compass.",
+      "portuguese": "Deixe o otimismo, ser sua bússola.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694093"
+    },
+    {
+      "english": "Keep your head up, always.",
+      "portuguese": "Mantenha a cabeça erguida, sempre.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694097"
+    },
+    {
+      "english": "Good things, are coming your way.",
+      "portuguese": "Boas coisas, estão vindo.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694099"
+    },
+    {
+      "english": "Embrace the journey, with joy.",
+      "portuguese": "Abrace a jornada, com alegria.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694101"
+    },
+    {
+      "english": "Your potential, is limitless.",
+      "portuguese": "Seu potencial, é ilimitado.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694103"
+    },
+    {
+      "english": "Find beauty, in the simple things.",
+      "portuguese": "Encontre beleza, nas coisas simples.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694105"
+    },
+    {
+      "english": "Stay positive, through challenges.",
+      "portuguese": "Mantenha-se positivo, nos desafios.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694109"
+    },
+    {
+      "english": "Believe in the good, around you.",
+      "portuguese": "Acredite no bem, ao seu redor.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694111"
+    },
+    {
+      "english": "Let hope, guide your heart.",
+      "portuguese": "Deixe a esperança, guiar seu coração.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694113"
+    },
+    {
+      "english": "You are doing great, keep it up.",
+      "portuguese": "Você está indo bem, continue assim.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694115"
+    },
+    {
+      "english": "A positive mindset, changes everything.",
+      "portuguese": "Uma mentalidade positiva, muda tudo.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694117"
+    },
+    {
+      "english": "Trust the process, slowly.",
+      "portuguese": "Confie no processo, devagar.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694119"
+    },
+    {
+      "english": "Inner peace, is valuable.",
+      "portuguese": "Paz interior, é valiosa.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694121"
+    },
+    {
+      "english": "Reflect on your, journey.",
+      "portuguese": "Reflita sobre sua, jornada.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694123"
+    },
+    {
+      "english": "Feelings are valid, express them.",
+      "portuguese": "Sentimentos são válidos, expresse-os.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694126"
+    },
+    {
+      "english": "Authenticity brings, strength.",
+      "portuguese": "Autenticidade traz, força.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694128"
+    },
+    {
+      "english": "Honest thoughts, matter deeply.",
+      "portuguese": "Pensamentos honestos, importam muito.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694130"
+    },
+    {
+      "english": "What brings you, peace?",
+      "portuguese": "O que te traz, paz?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694132"
+    },
+    {
+      "english": "Listen to your, intuition.",
+      "portuguese": "Ouça sua, intuição.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694136"
+    },
+    {
+      "english": "Deeper understanding, grows slowly.",
+      "portuguese": "Compreensão mais profunda, cresce devagar.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694138"
+    },
+    {
+      "english": "Embrace vulnerability, bravely.",
+      "portuguese": "Abrace a vulnerabilidade, com coragem.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694141"
+    },
+    {
+      "english": "Your inner voice, is wise.",
+      "portuguese": "Sua voz interior, é sábia.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694143"
+    },
+    {
+      "english": "Let emotions flow, naturally.",
+      "portuguese": "Deixe as emoções fluírem, naturalmente.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694145"
+    },
+    {
+      "english": "What truly matters, to you?",
+      "portuguese": "O que realmente importa, para você?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694147"
+    },
+    {
+      "english": "Find comfort, in stillness.",
+      "portuguese": "Encontre conforto, na quietude.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694149"
+    },
+    {
+      "english": "Self-compassion, is key.",
+      "portuguese": "Autocompaixão, é a chave.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694151"
+    },
+    {
+      "english": "True strength, lies within.",
+      "portuguese": "Verdadeira força, reside em você.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694153"
+    },
+    {
+      "english": "Acknowledge your, feelings.",
+      "portuguese": "Reconheça seus, sentimentos.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694155"
+    },
+    {
+      "english": "Patience breeds, wisdom.",
+      "portuguese": "Paciência gera, sabedoria.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694157"
+    },
+    {
+      "english": "Allow yourself, to heal.",
+      "portuguese": "Permita-se, curar.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694161"
+    },
+    {
+      "english": "What are you, grateful for?",
+      "portuguese": "Pelo que você, é grato?",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694163"
+    },
+    {
+      "english": "Honesty with self, liberates.",
+      "portuguese": "Honestidade consigo mesmo, liberta.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694165"
+    },
+    {
+      "english": "Inner calm, is a virtue.",
+      "portuguese": "Calma interior, é uma virtude.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694167"
+    },
+    {
+      "english": "Reflect, and grow.",
+      "portuguese": "Reflita, e cresça.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694169"
+    },
+    {
+      "english": "Be kind, to your heart.",
+      "portuguese": "Seja gentil, com seu coração.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694171"
+    },
+    {
+      "english": "Your perspective, is unique.",
+      "portuguese": "Sua perspectiva, é única.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694173"
+    },
+    {
+      "english": "Gentle persistence, wins.",
+      "portuguese": "Persistência gentil, vence.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694175"
+    },
+    {
+      "english": "Feelings are guides, not prisons.",
+      "portuguese": "Sentimentos são guias, não prisões.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694179"
+    },
+    {
+      "english": "Trust your journey's, timing.",
+      "portuguese": "Confie no tempo da, sua jornada.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694183"
+    },
+    {
+      "english": "Emotional honesty, empowers.",
+      "portuguese": "Honestidade emocional, empodera.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694185"
+    },
+    {
+      "english": "Hang in there, things will improve.",
+      "portuguese": "Aguenta firme, as coisas vão melhorar.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694187"
+    },
+    {
+      "english": "Don't give up, keep pushing forward.",
+      "portuguese": "Não desista, siga em frente.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694189"
+    },
+    {
+      "english": "Even bad days, have a silver lining.",
+      "portuguese": "Até dias ruins, têm um lado bom.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694191"
+    },
+    {
+      "english": "Tomorrow is another chance.",
+      "portuguese": "Amanhã é outra chance.",
+      "category": "Hope",
+      "generated_at": "2026-10-19T08:17:39.694193"
     }
   ],
-  "last_updated": "2026-10-18T07:33:11.859725"
+  "last_updated": "2026-10-19T08:17:39.694195"
 }
