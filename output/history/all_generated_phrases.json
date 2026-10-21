@@ -2879,7 +2879,727 @@
       "portuguese": "Quem trouxe os petiscos? Obrigado(a)!",
       "category": "Celebrations & Parties",
       "generated_at": "2026-10-20T08:02:48.152124"
+    },
+    {
+      "english": "Steady now, hold it, don't fall.",
+      "portuguese": "Calma aí, segura, não cai.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432711"
+    },
+    {
+      "english": "Whoa, almost lost my balance.",
+      "portuguese": "Opa, quase perdi o equilíbrio.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432727"
+    },
+    {
+      "english": "Easy does it, one step.",
+      "portuguese": "Devagar, um passo de cada vez.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432730"
+    },
+    {
+      "english": "Try to find your center.",
+      "portuguese": "Tente achar seu centro.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432732"
+    },
+    {
+      "english": "Are you feeling stable?",
+      "portuguese": "Você está se sentindo firme?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432734"
+    },
+    {
+      "english": "Just breathe, find your balance.",
+      "portuguese": "Respira fundo, acha o equilíbrio.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432736"
+    },
+    {
+      "english": "It's all about the core.",
+      "portuguese": "É tudo sobre o 'core'.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432738"
+    },
+    {
+      "english": "Don't sway too much.",
+      "portuguese": "Não balance muito.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432743"
+    },
+    {
+      "english": "Keep your feet planted.",
+      "portuguese": "Mantenha os pés firmes.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432745"
+    },
+    {
+      "english": "This requires concentration.",
+      "portuguese": "Isso exige concentração.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432747"
+    },
+    {
+      "english": "I need to regain my footing.",
+      "portuguese": "Preciso recuperar meu apoio.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432749"
+    },
+    {
+      "english": "Watch your step, carefully.",
+      "portuguese": "Cuidado onde pisa, com atenção.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432751"
+    },
+    {
+      "english": "Feeling a bit wobbly today.",
+      "portuguese": "Me sentindo meio instável hoje.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432753"
+    },
+    {
+      "english": "Let's find a stable spot.",
+      "portuguese": "Vamos achar um lugar firme.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432755"
+    },
+    {
+      "english": "Balance is key, remember.",
+      "portuguese": "Equilíbrio é chave, lembra.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432757"
+    },
+    {
+      "english": "Slow motion, hold that pose.",
+      "portuguese": "Câmera lenta, segura essa pose.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432759"
+    },
+    {
+      "english": "Can you stand on one leg?",
+      "portuguese": "Você aguenta ficar em um pé?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432761"
+    },
+    {
+      "english": "It's a delicate equilibrium.",
+      "portuguese": "É um equilíbrio delicado.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432846"
+    },
+    {
+      "english": "Ground yourself, feel the earth.",
+      "portuguese": "Ancore-se, sinta a terra.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432848"
+    },
+    {
+      "english": "Don't lose your center of gravity.",
+      "portuguese": "Não perca seu centro de gravidade.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432851"
+    },
+    {
+      "english": "Just a little wobble, that's all.",
+      "portuguese": "Só um balanço leve, nada mais.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432853"
+    },
+    {
+      "english": "Trying to keep my composure.",
+      "portuguese": "Tentando manter a calma.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432854"
+    },
+    {
+      "english": "Find your stability, breathe deep.",
+      "portuguese": "Ache sua estabilidade, respire fundo.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432856"
+    },
+    {
+      "english": "The ground feels shaky.",
+      "portuguese": "O chão está tremendo.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432858"
+    },
+    {
+      "english": "Focus on your posture.",
+      "portuguese": "Foque na sua postura.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432859"
+    },
+    {
+      "english": "It takes practice, be patient.",
+      "portuguese": "Dá prática, tenha paciência.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432861"
+    },
+    {
+      "english": "I'm finding my equilibrium.",
+      "portuguese": "Estou achando meu equilíbrio.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432864"
+    },
+    {
+      "english": "Don't lean too far.",
+      "portuguese": "Não se incline demais.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432866"
+    },
+    {
+      "english": "This is harder than it looks.",
+      "portuguese": "Isso é mais difícil do que parece.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432868"
+    },
+    {
+      "english": "Hold steady, almost there.",
+      "portuguese": "Segura firme, quase lá.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432871"
+    },
+    {
+      "english": "What helps you find calm?",
+      "portuguese": "O que te ajuda a encontrar calma?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432873"
+    },
+    {
+      "english": "Do you often feel dizzy?",
+      "portuguese": "Você costuma sentir tontura?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432875"
+    },
+    {
+      "english": "How do you stay centered?",
+      "portuguese": "Como você se mantém centrado(a)?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432877"
+    },
+    {
+      "english": "Is this exercise difficult?",
+      "portuguese": "Este exercício é difícil?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432879"
+    },
+    {
+      "english": "Can you teach me this move?",
+      "portuguese": "Você pode me ensinar este movimento?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432881"
+    },
+    {
+      "english": "What do you think of this?",
+      "portuguese": "O que você acha disso?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432883"
+    },
+    {
+      "english": "Shall we try a different pose?",
+      "portuguese": "Vamos tentar uma pose diferente?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432885"
+    },
+    {
+      "english": "Did you feel that shift?",
+      "portuguese": "Você sentiu essa mudança?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432887"
+    },
+    {
+      "english": "Is there a better way?",
+      "portuguese": "Existe um jeito melhor?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432889"
+    },
+    {
+      "english": "What's your favorite posture?",
+      "portuguese": "Qual sua postura favorita?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432891"
+    },
+    {
+      "english": "Are you ready for the next step?",
+      "portuguese": "Você está pronto(a) para o próximo passo?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432893"
+    },
+    {
+      "english": "How do you recover from a fall?",
+      "portuguese": "Como você se recupera de uma queda?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432897"
+    },
+    {
+      "english": "Can you show me again?",
+      "portuguese": "Você pode me mostrar de novo?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432899"
+    },
+    {
+      "english": "What's the secret to this?",
+      "portuguese": "Qual é o segredo para isso?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432901"
+    },
+    {
+      "english": "Should I adjust my feet?",
+      "portuguese": "Devo ajustar meus pés?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432902"
+    },
+    {
+      "english": "Is your body feeling light?",
+      "portuguese": "Seu corpo está se sentindo leve?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432904"
+    },
+    {
+      "english": "What if I lose control?",
+      "portuguese": "E se eu perder o controle?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432905"
+    },
+    {
+      "english": "Do you need any help?",
+      "portuguese": "Você precisa de ajuda?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432908"
+    },
+    {
+      "english": "How long does this take?",
+      "portuguese": "Quanto tempo isso leva?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432910"
+    },
+    {
+      "english": "Can we do this together?",
+      "portuguese": "Podemos fazer isso juntos?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432912"
+    },
+    {
+      "english": "Is this position sustainable?",
+      "portuguese": "Esta posição é sustentável?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432913"
+    },
+    {
+      "english": "Are you feeling steady now?",
+      "portuguese": "Você está se sentindo firme agora?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432916"
+    },
+    {
+      "english": "Where should I place my hands?",
+      "portuguese": "Onde devo colocar minhas mãos?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432917"
+    },
+    {
+      "english": "Can you repeat that instruction?",
+      "portuguese": "Você pode repetir essa instrução?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432919"
+    },
+    {
+      "english": "How do you keep your focus?",
+      "portuguese": "Como você mantém seu foco?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432921"
+    },
+    {
+      "english": "Is this the right angle?",
+      "portuguese": "Este é o ângulo certo?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432922"
+    },
+    {
+      "english": "What feeling are you seeking?",
+      "portuguese": "Que sensação você busca?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432924"
+    },
+    {
+      "english": "Are we on the same page?",
+      "portuguese": "Estamos na mesma página?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432926"
+    },
+    {
+      "english": "Tell me when to move.",
+      "portuguese": "Me diga quando mover.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432928"
+    },
+    {
+      "english": "Keep your inner peace, always.",
+      "portuguese": "Mantenha sua paz interior, sempre.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432930"
+    },
+    {
+      "english": "Believe in your strength, you can.",
+      "portuguese": "Acredite na sua força, você consegue.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432933"
+    },
+    {
+      "english": "Your progress is visible.",
+      "portuguese": "Seu progresso é visível.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432936"
+    },
+    {
+      "english": "Embrace the challenge, grow stronger.",
+      "portuguese": "Abrace o desafio, fique mais forte.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432938"
+    },
+    {
+      "english": "Little by little, you master it.",
+      "portuguese": "Pouco a pouco, você domina.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432940"
+    },
+    {
+      "english": "Stay focused, stay balanced.",
+      "portuguese": "Mantenha o foco, mantenha o equilíbrio.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432941"
+    },
+    {
+      "english": "Your mind, a calm ocean.",
+      "portuguese": "Sua mente, um oceano calmo.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432943"
+    },
+    {
+      "english": "Every step forward counts.",
+      "portuguese": "Cada passo à frente conta.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432945"
+    },
+    {
+      "english": "This feeling is amazing!",
+      "portuguese": "Essa sensação é incrível!",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432947"
+    },
+    {
+      "english": "You've got this, believe it.",
+      "portuguese": "Você consegue, acredite nisso.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432949"
+    },
+    {
+      "english": "Find joy in the process.",
+      "portuguese": "Encontre alegria no processo.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432950"
+    },
+    {
+      "english": "Your resilience is inspiring.",
+      "portuguese": "Sua resiliência é inspiradora.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432952"
+    },
+    {
+      "english": "Don't doubt yourself, breathe.",
+      "portuguese": "Não duvide de si, respire.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432954"
+    },
+    {
+      "english": "Achieving balance takes time.",
+      "portuguese": "Alcançar o equilíbrio leva tempo.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432956"
+    },
+    {
+      "english": "Celebrate small victories.",
+      "portuguese": "Comemore pequenas vitórias.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432958"
+    },
+    {
+      "english": "Feel the flow, go with it.",
+      "portuguese": "Sinta o fluxo, vá com ele.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432961"
+    },
+    {
+      "english": "Your body remembers.",
+      "portuguese": "Seu corpo se lembra.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432962"
+    },
+    {
+      "english": "Positive thoughts create balance.",
+      "portuguese": "Pensamentos positivos criam equilíbrio.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432964"
+    },
+    {
+      "english": "Let go of what you can't control.",
+      "portuguese": "Solte o que você não controla.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432966"
+    },
+    {
+      "english": "This is a journey, not a race.",
+      "portuguese": "Isso é uma jornada, não uma corrida.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432969"
+    },
+    {
+      "english": "Trust your intuition.",
+      "portuguese": "Confie na sua intuição.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432971"
+    },
+    {
+      "english": "You are capable of more.",
+      "portuguese": "Você é capaz de mais.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432972"
+    },
+    {
+      "english": "Inner calm, outer strength.",
+      "portuguese": "Calma interior, força exterior.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432974"
+    },
+    {
+      "english": "Embrace the stillness.",
+      "portuguese": "Abrace a quietude.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432976"
+    },
+    {
+      "english": "Your balance is improving.",
+      "portuguese": "Seu equilíbrio está melhorando.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432977"
+    },
+    {
+      "english": "Find your center, find peace.",
+      "portuguese": "Encontre seu centro, encontre a paz.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432979"
+    },
+    {
+      "english": "Great job, keep that energy!",
+      "portuguese": "Ótimo trabalho, mantenha essa energia!",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432981"
+    },
+    {
+      "english": "You're learning fast!",
+      "portuguese": "Você está aprendendo rápido!",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432983"
+    },
+    {
+      "english": "Sometimes, stillness speaks louder.",
+      "portuguese": "Às vezes, o silêncio fala mais alto.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432985"
+    },
+    {
+      "english": "This requires deep reflection, right?",
+      "portuguese": "Isso exige reflexão profunda, né?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432987"
+    },
+    {
+      "english": "My inner critic is quiet now.",
+      "portuguese": "Minha crítica interna está quieta agora.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432989"
+    },
+    {
+      "english": "I'm learning to be patient with myself.",
+      "portuguese": "Estou aprendendo a ter paciência comigo.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432991"
+    },
+    {
+      "english": "True balance feels like surrender.",
+      "portuguese": "O verdadeiro equilíbrio parece rendição.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432993"
+    },
+    {
+      "english": "This moment holds everything I need.",
+      "portuguese": "Este momento contém tudo o que preciso.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432995"
+    },
+    {
+      "english": "Feeling grounded, truly present.",
+      "portuguese": "Sentindo-me firme, verdadeiramente presente.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432997"
+    },
+    {
+      "english": "My thoughts are finally settling down.",
+      "portuguese": "Meus pensamentos finalmente estão se acalmando.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.432999"
+    },
+    {
+      "english": "Letting go of expectations helps a lot.",
+      "portuguese": "Soltar as expectativas ajuda muito.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433001"
+    },
+    {
+      "english": "Is this feeling sustainable long-term?",
+      "portuguese": "Esse sentimento é sustentável a longo prazo?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433003"
+    },
+    {
+      "english": "I breathe, and the world shifts.",
+      "portuguese": "Eu respiro, e o mundo muda.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433005"
+    },
+    {
+      "english": "Acceptance is a form of balance.",
+      "portuguese": "Aceitação é uma forma de equilíbrio.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433007"
+    },
+    {
+      "english": "My emotions are not my enemy.",
+      "portuguese": "Minhas emoções não são minhas inimigas.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433008"
+    },
+    {
+      "english": "Finding peace in imperfection.",
+      "portuguese": "Encontrando paz na imperfeição.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433010"
+    },
+    {
+      "english": "This practice is humbling, truly.",
+      "portuguese": "Esta prática é humilhante, de verdade.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433012"
+    },
+    {
+      "english": "What if I just let it be?",
+      "portuguese": "E se eu simplesmente deixar ser?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433014"
+    },
+    {
+      "english": "My heart feels lighter now.",
+      "portuguese": "Meu coração parece mais leve agora.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433020"
+    },
+    {
+      "english": "Surrender is not weakness, it's wisdom.",
+      "portuguese": "Rendição não é fraqueza, é sabedoria.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433022"
+    },
+    {
+      "english": "I release the need for control.",
+      "portuguese": "Eu liberto a necessidade de controle.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433024"
+    },
+    {
+      "english": "This quiet feels earned.",
+      "portuguese": "Este silêncio parece merecido.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433026"
+    },
+    {
+      "english": "I trust the process unfolding.",
+      "portuguese": "Confio no processo se desenrolando.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433027"
+    },
+    {
+      "english": "My breath, my anchor.",
+      "portuguese": "Minha respiração, minha âncora.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433030"
+    },
+    {
+      "english": "Can I be kind to myself?",
+      "portuguese": "Posso ser gentil comigo mesmo?",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433032"
+    },
+    {
+      "english": "This depth is surprising.",
+      "portuguese": "Esta profundidade é surpreendente.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433034"
+    },
+    {
+      "english": "Embracing the ebb and flow.",
+      "portuguese": "Abraçando o ir e vir.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433036"
+    },
+    {
+      "english": "My own pace feels right.",
+      "portuguese": "Meu próprio ritmo parece certo.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433037"
+    },
+    {
+      "english": "Honesty with myself, finally.",
+      "portuguese": "Honestidade comigo, finalmente.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433042"
+    },
+    {
+      "english": "Feeling centered, ready for anything.",
+      "portuguese": "Sentindo-me centrado, pronto para tudo.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433044"
+    },
+    {
+      "english": "This quiet strength is real.",
+      "portuguese": "Esta força silenciosa é real.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433046"
+    },
+    {
+      "english": "I'm in tune with my feelings.",
+      "portuguese": "Estou em sintonia com meus sentimentos.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433048"
+    },
+    {
+      "english": "Prioritize rest, don't just push.",
+      "portuguese": "Priorize o descanso, não só force.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433050"
+    },
+    {
+      "english": "Set boundaries, protect your energy.",
+      "portuguese": "Estabeleça limites, proteja sua energia.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433052"
+    },
+    {
+      "english": "Small habits, big life changes.",
+      "portuguese": "Pequenos hábitos, grandes mudanças de vida.",
+      "category": "Balance",
+      "generated_at": "2026-10-21T08:07:27.433054"
     }
   ],
-  "last_updated": "2026-10-20T08:02:48.152126"
+  "last_updated": "2026-10-21T08:07:27.433056"
 }
