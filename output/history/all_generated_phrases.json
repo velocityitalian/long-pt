@@ -4319,7 +4319,727 @@
       "portuguese": "Você pode repetir, por favor?",
       "category": "Success",
       "generated_at": "2026-10-22T08:24:42.461047"
+    },
+    {
+      "english": "Don't give up, try again.",
+      "portuguese": "Não desista, tente de novo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258301"
+    },
+    {
+      "english": "You can do this, believe it!",
+      "portuguese": "Você consegue, acredite!",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258311"
+    },
+    {
+      "english": "Every effort counts.",
+      "portuguese": "Todo esforço conta.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258314"
+    },
+    {
+      "english": "Stay positive, stay strong.",
+      "portuguese": "Mantenha-se positivo, mantenha-se forte.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258317"
+    },
+    {
+      "english": "You are making progress.",
+      "portuguese": "Você está progredindo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258320"
+    },
+    {
+      "english": "Believe in your potential.",
+      "portuguese": "Acredite no seu potencial.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258322"
+    },
+    {
+      "english": "Let's get started now.",
+      "portuguese": "Vamos começar agora.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258327"
+    },
+    {
+      "english": "You've got this handled.",
+      "portuguese": "Você dá conta disso.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258332"
+    },
+    {
+      "english": "Push your limits further.",
+      "portuguese": "Supere seus limites.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258336"
+    },
+    {
+      "english": "Never stop learning.",
+      "portuguese": "Nunca pare de aprender.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258339"
+    },
+    {
+      "english": "This is a new beginning.",
+      "portuguese": "Este é um novo começo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258342"
+    },
+    {
+      "english": "Your hard work pays off.",
+      "portuguese": "Seu trabalho duro compensa.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258344"
+    },
+    {
+      "english": "Just keep moving forward.",
+      "portuguese": "Apenas siga em frente.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258347"
+    },
+    {
+      "english": "Keep the faith, it's worth it.",
+      "portuguese": "Mantenha a fé, vale a pena.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258350"
+    },
+    {
+      "english": "Success is within reach.",
+      "portuguese": "O sucesso está ao alcance.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258352"
+    },
+    {
+      "english": "Learn from your mistakes.",
+      "portuguese": "Aprenda com seus erros.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258354"
+    },
+    {
+      "english": "What a fantastic effort!",
+      "portuguese": "Que esforço fantástico!",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258357"
+    },
+    {
+      "english": "You're on the right track.",
+      "portuguese": "Você está no caminho certo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258359"
+    },
+    {
+      "english": "Let's make it happen.",
+      "portuguese": "Vamos fazer acontecer.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258362"
+    },
+    {
+      "english": "Your persistence is admirable.",
+      "portuguese": "Sua persistência é admirável.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258364"
+    },
+    {
+      "english": "Dream big, start small.",
+      "portuguese": "Sonhe grande, comece pequeno.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258367"
+    },
+    {
+      "english": "Keep up the good work.",
+      "portuguese": "Continue o bom trabalho.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258369"
+    },
+    {
+      "english": "This is your moment.",
+      "portuguese": "Este é o seu momento.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258372"
+    },
+    {
+      "english": "Ready to try, with me?",
+      "portuguese": "Pronto(a) para tentar, comigo?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258375"
+    },
+    {
+      "english": "How do you manage, doubts?",
+      "portuguese": "Como você lida, com as dúvidas?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258377"
+    },
+    {
+      "english": "Any tips, for staying focused?",
+      "portuguese": "Alguma dica, para manter o foco?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258380"
+    },
+    {
+      "english": "What's your biggest challenge, right now?",
+      "portuguese": "Qual seu maior desafio, agora?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258384"
+    },
+    {
+      "english": "Can we practice, together?",
+      "portuguese": "Podemos praticar, juntos?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258386"
+    },
+    {
+      "english": "What if I make, a mistake?",
+      "portuguese": "E se eu cometer, um erro?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258389"
+    },
+    {
+      "english": "Are you feeling stuck, today?",
+      "portuguese": "Você está se sentindo travado(a), hoje?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258392"
+    },
+    {
+      "english": "Who inspires you, the most?",
+      "portuguese": "Quem te inspira, mais?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258396"
+    },
+    {
+      "english": "Tell me your goal, please.",
+      "portuguese": "Me diga seu objetivo, por favor.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258399"
+    },
+    {
+      "english": "What makes you, keep going?",
+      "portuguese": "O que te faz, continuar?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258401"
+    },
+    {
+      "english": "How to overcome, fear?",
+      "portuguese": "Como superar, o medo?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258406"
+    },
+    {
+      "english": "Shall we discuss, progress?",
+      "portuguese": "Vamos conversar, sobre o progresso?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258408"
+    },
+    {
+      "english": "What if I need, encouragement?",
+      "portuguese": "E se eu precisar, de incentivo?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258411"
+    },
+    {
+      "english": "Can you share, your story?",
+      "portuguese": "Você pode compartilhar, sua história?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258413"
+    },
+    {
+      "english": "What's your favorite, Portuguese word?",
+      "portuguese": "Qual sua palavra, favorita em português?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258417"
+    },
+    {
+      "english": "How do you celebrate, small wins?",
+      "portuguese": "Como você comemora, pequenas vitórias?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258420"
+    },
+    {
+      "english": "Are you finding it, difficult?",
+      "portuguese": "Você está achando, difícil?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258422"
+    },
+    {
+      "english": "What's your motivation, today?",
+      "portuguese": "Qual sua motivação, hoje?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258425"
+    },
+    {
+      "english": "Do you need help, learning?",
+      "portuguese": "Precisa de ajuda, para aprender?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258428"
+    },
+    {
+      "english": "What's the hardest part, for you?",
+      "portuguese": "Qual a parte mais difícil, para você?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258431"
+    },
+    {
+      "english": "Can we review, this topic?",
+      "portuguese": "Podemos revisar, este tópico?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258434"
+    },
+    {
+      "english": "What inspires your, creativity?",
+      "portuguese": "O que inspira sua, criatividade?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258436"
+    },
+    {
+      "english": "How do you stay, energized?",
+      "portuguese": "Como você se mantém, energizado(a)?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258439"
+    },
+    {
+      "english": "What are you, learning now?",
+      "portuguese": "O que você está, aprendendo agora?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258441"
+    },
+    {
+      "english": "Who can help, me improve?",
+      "portuguese": "Quem pode me ajudar, a melhorar?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258444"
+    },
+    {
+      "english": "Is this too hard, for you?",
+      "portuguese": "Isto é muito difícil, para você?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258447"
+    },
+    {
+      "english": "What are your, aspirations?",
+      "portuguese": "Quais são suas, aspirações?",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258450"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "portuguese": "Acredite em si, sempre.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258452"
+    },
+    {
+      "english": "Your effort matters, a lot.",
+      "portuguese": "Seu esforço importa, muito.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258455"
+    },
+    {
+      "english": "You can do this, trust me.",
+      "portuguese": "Você consegue, confia em mim.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258458"
+    },
+    {
+      "english": "Progress is progress, little by little.",
+      "portuguese": "Progresso é progresso, aos poucos.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258461"
+    },
+    {
+      "english": "Be patient, with your learning.",
+      "portuguese": "Tenha paciência, com seu aprendizado.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258463"
+    },
+    {
+      "english": "Every day, a small victory.",
+      "portuguese": "Todo dia, uma pequena vitória.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258466"
+    },
+    {
+      "english": "Embrace the challenge, bravely.",
+      "portuguese": "Abrace o desafio, com coragem.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258469"
+    },
+    {
+      "english": "Your determination shines, brightly.",
+      "portuguese": "Sua determinação brilha, intensamente.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258472"
+    },
+    {
+      "english": "Little by little, we get there.",
+      "portuguese": "Um pouquinho de cada vez, a gente chega lá.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258474"
+    },
+    {
+      "english": "Don't give up, on yourself.",
+      "portuguese": "Não desista, de si mesmo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258477"
+    },
+    {
+      "english": "Your dedication is amazing.",
+      "portuguese": "Sua dedicação é demais.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258481"
+    },
+    {
+      "english": "Keep pushing your limits.",
+      "portuguese": "Continue expandindo seus limites.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258484"
+    },
+    {
+      "english": "You're doing better, than yesterday.",
+      "portuguese": "Você está melhor, que ontem.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258489"
+    },
+    {
+      "english": "Stay focused, on your goal.",
+      "portuguese": "Mantenha o foco, no seu objetivo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258491"
+    },
+    {
+      "english": "Your journey is unique, embrace it.",
+      "portuguese": "Sua jornada é única, abrace-a.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258494"
+    },
+    {
+      "english": "You have the power, within you.",
+      "portuguese": "Você tem o poder, aí dentro.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258497"
+    },
+    {
+      "english": "That's the spirit, my friend.",
+      "portuguese": "É esse o espírito, meu amigo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258500"
+    },
+    {
+      "english": "Don't doubt your abilities.",
+      "portuguese": "Não duvide das suas capacidades.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258502"
+    },
+    {
+      "english": "You're making good progress.",
+      "portuguese": "Você está progredindo bem.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258505"
+    },
+    {
+      "english": "Let your passion guide you.",
+      "portuguese": "Deixe sua paixão te guiar.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258507"
+    },
+    {
+      "english": "This is achievable, for sure.",
+      "portuguese": "Isso é realizável, com certeza.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258510"
+    },
+    {
+      "english": "Your commitment is key.",
+      "portuguese": "Seu comprometimento é a chave.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258512"
+    },
+    {
+      "english": "Keep that spark alive.",
+      "portuguese": "Mantenha essa chama acesa.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258514"
+    },
+    {
+      "english": "You're stronger, than any obstacle.",
+      "portuguese": "Você é mais forte, que qualquer obstáculo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258519"
+    },
+    {
+      "english": "Just breathe, and continue.",
+      "portuguese": "Respire fundo, e continue.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258522"
+    },
+    {
+      "english": "Go for it, you've got this!",
+      "portuguese": "Vai fundo, você consegue!",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258524"
+    },
+    {
+      "english": "Don't let fear, hold you back.",
+      "portuguese": "Não deixe o medo, te segurar.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258527"
+    },
+    {
+      "english": "Keep going, don't stop now.",
+      "portuguese": "Continue, não pare agora.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258530"
+    },
+    {
+      "english": "You're almost there, keep pushing.",
+      "portuguese": "Você está quase lá, siga em frente.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258533"
+    },
+    {
+      "english": "Your effort, counts for much.",
+      "portuguese": "Seu esforço, vale muito.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258535"
+    },
+    {
+      "english": "One step at a time, please.",
+      "portuguese": "Um passo de cada vez, por favor.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258538"
+    },
+    {
+      "english": "You have more power, than you think.",
+      "portuguese": "Você tem mais poder, do que pensa.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258541"
+    },
+    {
+      "english": "Embrace the journey, enjoy it.",
+      "portuguese": "Abrace a jornada, aproveite-a.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258543"
+    },
+    {
+      "english": "Each day, a new beginning.",
+      "portuguese": "Cada dia, um novo começo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258546"
+    },
+    {
+      "english": "Don't worry, just try your best.",
+      "portuguese": "Não se preocupe, dê o seu melhor.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258549"
+    },
+    {
+      "english": "Let your dreams, take flight.",
+      "portuguese": "Deixe seus sonhos, ganharem asas.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258551"
+    },
+    {
+      "english": "Stay focused, on the prize.",
+      "portuguese": "Mantenha o foco, no prêmio.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258554"
+    },
+    {
+      "english": "You're stronger, than you realize.",
+      "portuguese": "Você é mais forte, do que imagina.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258557"
+    },
+    {
+      "english": "Keep that fire, burning bright.",
+      "portuguese": "Mantenha essa chama, acesa.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258564"
+    },
+    {
+      "english": "Believe in the process, friend.",
+      "portuguese": "Acredite no processo, amigo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258567"
+    },
+    {
+      "english": "Every day, learn something new.",
+      "portuguese": "Todo dia, aprenda algo novo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258569"
+    },
+    {
+      "english": "Let your passion, lead the way.",
+      "portuguese": "Deixe sua paixão, guiar o caminho.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258572"
+    },
+    {
+      "english": "Don't be afraid, to try again.",
+      "portuguese": "Não tenha medo, de tentar de novo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258575"
+    },
+    {
+      "english": "Be brave, take that leap.",
+      "portuguese": "Seja corajoso, dê esse salto.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258579"
+    },
+    {
+      "english": "Stay determined, you'll get there.",
+      "portuguese": "Mantenha-se determinado, você chegará lá.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258582"
+    },
+    {
+      "english": "You're a fast learner, I see.",
+      "portuguese": "Você aprende rápido, eu vejo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258585"
+    },
+    {
+      "english": "Challenge yourself, each day.",
+      "portuguese": "Desafie-se, a cada dia.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258587"
+    },
+    {
+      "english": "Keep that confidence, high.",
+      "portuguese": "Mantenha essa confiança, alta.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258590"
+    },
+    {
+      "english": "Feel proud, of how far you've come.",
+      "portuguese": "Sinta orgulho, de onde chegou.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258593"
+    },
+    {
+      "english": "It's okay, to feel discouraged sometimes.",
+      "portuguese": "É normal, desanimar às vezes.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258596"
+    },
+    {
+      "english": "This learning, takes deep patience.",
+      "portuguese": "Este aprendizado, exige paciência.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258598"
+    },
+    {
+      "english": "Reflect on, your small victories.",
+      "portuguese": "Reflita, sobre suas pequenas vitórias.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258601"
+    },
+    {
+      "english": "Be honest, with your learning pace.",
+      "portuguese": "Seja sincero, com seu ritmo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258604"
+    },
+    {
+      "english": "True progress, feels internally rewarding.",
+      "portuguese": "Progresso real, recompensa por dentro.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258606"
+    },
+    {
+      "english": "Allow yourself, moments of doubt.",
+      "portuguese": "Permita-se, momentos de dúvida.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258609"
+    },
+    {
+      "english": "Listen to, your inner voice.",
+      "portuguese": "Ouça, sua voz interior.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258611"
+    },
+    {
+      "english": "This is more, than just a language.",
+      "portuguese": "Isto é mais, que um idioma.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258614"
+    },
+    {
+      "english": "Feel the connection, growing stronger.",
+      "portuguese": "Sinta a conexão, ficando mais forte.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258617"
+    },
+    {
+      "english": "Your understanding, runs deeper now.",
+      "portuguese": "Sua compreensão, é mais profunda.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258621"
+    },
+    {
+      "english": "Acknowledge your, emotional progress too.",
+      "portuguese": "Reconheça, seu avanço emocional.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258624"
+    },
+    {
+      "english": "Embrace the challenges, bravely.",
+      "portuguese": "Abrace os desafios, com coragem.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258626"
+    },
+    {
+      "english": "Find peace, in the quiet moments.",
+      "portuguese": "Encontre paz, nos momentos calmos.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258629"
+    },
+    {
+      "english": "This journey, requires self-compassion.",
+      "portuguese": "Esta jornada, pede autocompaixão.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258632"
+    },
+    {
+      "english": "Your feelings, are valid right now.",
+      "portuguese": "Seus sentimentos, são válidos agora.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258635"
+    },
+    {
+      "english": "Celebrate the authenticity, you show.",
+      "portuguese": "Celebre a autenticidade, que mostra.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258637"
+    },
+    {
+      "english": "Trust the process, and yourself.",
+      "portuguese": "Confie no processo, e em você.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258640"
+    },
+    {
+      "english": "Deep breaths, clear the mind.",
+      "portuguese": "Respire fundo, a mente clareia.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258642"
+    },
+    {
+      "english": "Your persistence, is truly inspiring.",
+      "portuguese": "Sua persistência, inspira de verdade.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258645"
+    },
+    {
+      "english": "Let go, of perfectionism's grip.",
+      "portuguese": "Solte o perfeccionismo, aos poucos.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258648"
+    },
+    {
+      "english": "You are learning, at your own speed.",
+      "portuguese": "Você aprende, no seu tempo.",
+      "category": "Motivation",
+      "generated_at": "2026-10-23T08:05:36.258652"
     }
   ],
-  "last_updated": "2026-10-22T08:24:42.461049"
+  "last_updated": "2026-10-23T08:05:36.258654"
 }
