@@ -5039,7 +5039,727 @@
       "portuguese": "Você aprende, no seu tempo.",
       "category": "Motivation",
       "generated_at": "2026-10-23T08:05:36.258652"
+    },
+    {
+      "english": "I'm so happy, wow!",
+      "portuguese": "Estou muito feliz, uau!",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390213"
+    },
+    {
+      "english": "That's great news, really!",
+      "portuguese": "Que ótima notícia, mesmo!",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390226"
+    },
+    {
+      "english": "What a joyful moment, isn't it?",
+      "portuguese": "Que momento alegre, não é?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390228"
+    },
+    {
+      "english": "Feeling good, thanks for asking.",
+      "portuguese": "Sentindo-me bem, obrigado por perguntar.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390230"
+    },
+    {
+      "english": "This makes me smile, a lot.",
+      "portuguese": "Isso me faz sorrir, muito.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390232"
+    },
+    {
+      "english": "Life is good, sometimes.",
+      "portuguese": "A vida é boa, às vezes.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390235"
+    },
+    {
+      "english": "I'm in a good mood, today.",
+      "portuguese": "Estou de bom humor, hoje.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390236"
+    },
+    {
+      "english": "So pleased, to see you.",
+      "portuguese": "Muito contente, em te ver.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390240"
+    },
+    {
+      "english": "Pure bliss, right now.",
+      "portuguese": "Pura felicidade, agora mesmo.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390242"
+    },
+    {
+      "english": "This is wonderful, truly.",
+      "portuguese": "Isto é maravilhoso, de verdade.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390244"
+    },
+    {
+      "english": "Feeling cheerful, today, yes.",
+      "portuguese": "Sentindo-me animado, hoje, sim.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390246"
+    },
+    {
+      "english": "What a happy surprise!",
+      "portuguese": "Que surpresa feliz!",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390247"
+    },
+    {
+      "english": "I'm ecstatic, honestly.",
+      "portuguese": "Estou extasiado, sinceramente.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390249"
+    },
+    {
+      "english": "This brought me joy.",
+      "portuguese": "Isso me trouxe alegria.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390251"
+    },
+    {
+      "english": "Feeling content, today.",
+      "portuguese": "Sentindo-me satisfeito, hoje.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390253"
+    },
+    {
+      "english": "Couldn't be happier, really.",
+      "portuguese": "Não poderia estar mais feliz, de verdade.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390255"
+    },
+    {
+      "english": "This is pure delight.",
+      "portuguese": "Isto é puro deleite.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390256"
+    },
+    {
+      "english": "Feeling vibrant, and alive.",
+      "portuguese": "Sentindo-me vibrante, e vivo.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390258"
+    },
+    {
+      "english": "A moment of pure joy.",
+      "portuguese": "Um momento de pura alegria.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390259"
+    },
+    {
+      "english": "So glad, about this.",
+      "portuguese": "Tão contente, com isto.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390260"
+    },
+    {
+      "english": "This feels amazing, truly.",
+      "portuguese": "Isto parece incrível, de verdade.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390262"
+    },
+    {
+      "english": "My heart is full, today.",
+      "portuguese": "Meu coração está cheio, hoje.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390264"
+    },
+    {
+      "english": "Feeling optimistic, always.",
+      "portuguese": "Sentindo-me otimista, sempre.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390266"
+    },
+    {
+      "english": "This is delightful, absolutely.",
+      "portuguese": "Isto é delicioso, absolutamente.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390267"
+    },
+    {
+      "english": "What a cheerful day!",
+      "portuguese": "Que dia alegre!",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390268"
+    },
+    {
+      "english": "I'm buzzing with joy.",
+      "portuguese": "Estou a zumbir de alegria.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390270"
+    },
+    {
+      "english": "This is simply wonderful.",
+      "portuguese": "Isto é simplesmente maravilhoso.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390271"
+    },
+    {
+      "english": "Feeling so blessed, truly.",
+      "portuguese": "Sentindo-me tão abençoado, de verdade.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390273"
+    },
+    {
+      "english": "This made my day, wow!",
+      "portuguese": "Isto alegrou meu dia, uau!",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390274"
+    },
+    {
+      "english": "Feeling serene, and happy.",
+      "portuguese": "Sentindo-me sereno, e feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390275"
+    },
+    {
+      "english": "What brings you joy, lately?",
+      "portuguese": "O que te traz alegria, ultimamente?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390277"
+    },
+    {
+      "english": "How do you find happiness, daily?",
+      "portuguese": "Como você encontra a felicidade, no dia a dia?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390279"
+    },
+    {
+      "english": "Did something good happen, recently?",
+      "portuguese": "Aconteceu algo bom, recentemente?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390281"
+    },
+    {
+      "english": "What's making you smile, today?",
+      "portuguese": "O que está te fazendo sorrir, hoje?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390283"
+    },
+    {
+      "english": "Can you share a happy memory?",
+      "portuguese": "Você pode compartilhar uma memória feliz?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390284"
+    },
+    {
+      "english": "What helps you feel better, quickly?",
+      "portuguese": "O que te ajuda a se sentir melhor, rapidamente?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390286"
+    },
+    {
+      "english": "Are you looking forward, to anything?",
+      "portuguese": "Você está ansioso(a), por algo?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390288"
+    },
+    {
+      "english": "What makes a good day, for you?",
+      "portuguese": "O que faz um bom dia, para você?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390291"
+    },
+    {
+      "english": "Did you achieve, a small goal?",
+      "portuguese": "Você alcançou, uma pequena meta?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390292"
+    },
+    {
+      "english": "Is there something, you're grateful for?",
+      "portuguese": "Existe algo, pelo qual você é grato(a)?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390294"
+    },
+    {
+      "english": "What makes this moment, special?",
+      "portuguese": "O que torna este momento, especial?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390296"
+    },
+    {
+      "english": "Are you feeling optimistic, today?",
+      "portuguese": "Você está se sentindo otimista, hoje?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390297"
+    },
+    {
+      "english": "What did you learn, that was good?",
+      "portuguese": "O que você aprendeu, que foi bom?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390299"
+    },
+    {
+      "english": "Do you prefer quiet, or lively?",
+      "portuguese": "Você prefere tranquilidade, ou agitação?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390302"
+    },
+    {
+      "english": "What lifts your spirits, up?",
+      "portuguese": "O que eleva seu ânimo, para cima?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390303"
+    },
+    {
+      "english": "Tell me about your happy place.",
+      "portuguese": "Fale sobre o seu lugar feliz.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390305"
+    },
+    {
+      "english": "What's a simple pleasure, for you?",
+      "portuguese": "Qual é um prazer simples, para você?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390306"
+    },
+    {
+      "english": "Did you help someone, today?",
+      "portuguese": "Você ajudou alguém, hoje?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390308"
+    },
+    {
+      "english": "What makes you feel energized, now?",
+      "portuguese": "O que te faz sentir energizado(a), agora?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390309"
+    },
+    {
+      "english": "Are you excited, about anything?",
+      "portuguese": "Você está animado(a), com algo?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390310"
+    },
+    {
+      "english": "What's a funny thing, that happened?",
+      "portuguese": "Qual foi algo engraçado, que aconteceu?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390313"
+    },
+    {
+      "english": "How do you relax, and recharge?",
+      "portuguese": "Como você relaxa, e recarrega as energias?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390315"
+    },
+    {
+      "english": "What brings you peace, of mind?",
+      "portuguese": "O que te traz paz, de espírito?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390316"
+    },
+    {
+      "english": "Did you enjoy, your meal?",
+      "portuguese": "Você gostou, da sua refeição?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390317"
+    },
+    {
+      "english": "What's your favorite part, of the day?",
+      "portuguese": "Qual é a sua parte favorita, do dia?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390319"
+    },
+    {
+      "english": "What makes you feel hopeful, inside?",
+      "portuguese": "O que te faz sentir esperançoso(a), por dentro?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390322"
+    },
+    {
+      "english": "Are we having fun, yet?",
+      "portuguese": "Estamos nos divertindo, já?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390323"
+    },
+    {
+      "english": "What's the best part, of this?",
+      "portuguese": "Qual é a melhor parte, disso?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390325"
+    },
+    {
+      "english": "Did you find what you sought?",
+      "portuguese": "Você encontrou, o que procurava?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390326"
+    },
+    {
+      "english": "Keep shining, bright.",
+      "portuguese": "Continue brilhando, intensamente.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390328"
+    },
+    {
+      "english": "Your efforts, pay off.",
+      "portuguese": "Seus esforços, valem a pena.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390330"
+    },
+    {
+      "english": "You're doing great, honestly.",
+      "portuguese": "Você está indo ótimo, sinceramente.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390332"
+    },
+    {
+      "english": "Embrace the good vibes, now.",
+      "portuguese": "Abrace as boas energias, agora.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390334"
+    },
+    {
+      "english": "You've got this, totally.",
+      "portuguese": "Você consegue, totalmente.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390336"
+    },
+    {
+      "english": "Focus on what matters, dear.",
+      "portuguese": "Concentre-se no que importa, querido(a).",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390337"
+    },
+    {
+      "english": "Your smile, is contagious.",
+      "portuguese": "Seu sorriso, é contagiante.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390339"
+    },
+    {
+      "english": "Little steps, big results.",
+      "portuguese": "Pequenos passos, grandes resultados.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390341"
+    },
+    {
+      "english": "Let go, of negativity.",
+      "portuguese": "Solte, a negatividade.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390342"
+    },
+    {
+      "english": "Good things, are coming.",
+      "portuguese": "Coisas boas, estão vindo.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390344"
+    },
+    {
+      "english": "Your happiness, is a choice.",
+      "portuguese": "Sua felicidade, é uma escolha.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390347"
+    },
+    {
+      "english": "Keep going, don't give up.",
+      "portuguese": "Continue, não desista.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390350"
+    },
+    {
+      "english": "Radiate positivity, everywhere.",
+      "portuguese": "Irradie positividade, em todo lugar.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390352"
+    },
+    {
+      "english": "This moment, is perfect.",
+      "portuguese": "Este momento, é perfeito.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390353"
+    },
+    {
+      "english": "You deserve, happiness.",
+      "portuguese": "Você merece, felicidade.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390355"
+    },
+    {
+      "english": "Trust the process, unfold.",
+      "portuguese": "Confie no processo, que se desenrola.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390357"
+    },
+    {
+      "english": "Your energy, is inspiring.",
+      "portuguese": "Sua energia, é inspiradora.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390358"
+    },
+    {
+      "english": "Find joy, in the simple.",
+      "portuguese": "Encontre alegria, no simples.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390360"
+    },
+    {
+      "english": "You are enough, exactly.",
+      "portuguese": "Você é suficiente, exatamente.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390376"
+    },
+    {
+      "english": "Choose kindness, always.",
+      "portuguese": "Escolha a gentileza, sempre.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390377"
+    },
+    {
+      "english": "Let your light, shine.",
+      "portuguese": "Deixe sua luz, brilhar.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390379"
+    },
+    {
+      "english": "Good things take time, wait.",
+      "portuguese": "Coisas boas levam tempo, espere.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390381"
+    },
+    {
+      "english": "Feel proud, of yourself.",
+      "portuguese": "Sinta orgulho, de você.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390382"
+    },
+    {
+      "english": "Your presence, matters greatly.",
+      "portuguese": "Sua presença, importa muito.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390384"
+    },
+    {
+      "english": "This feeling, is pure bliss.",
+      "portuguese": "Essa sensação, é pura felicidade.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390386"
+    },
+    {
+      "english": "I find joy, in quiet moments.",
+      "portuguese": "Encontro alegria, nos momentos calmos.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390387"
+    },
+    {
+      "english": "Patience, cultivates inner peace.",
+      "portuguese": "Paciência, cultiva paz interior.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390389"
+    },
+    {
+      "english": "This reflection, brings clarity.",
+      "portuguese": "Esta reflexão, traz clareza.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390391"
+    },
+    {
+      "english": "My gratitude, runs deep.",
+      "portuguese": "Minha gratidão, é profunda.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390392"
+    },
+    {
+      "english": "Slow down, and appreciate.",
+      "portuguese": "Desacelere, e aprecie.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390394"
+    },
+    {
+      "english": "Honesty, builds stronger bonds.",
+      "portuguese": "Honestidade, constrói laços fortes.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390396"
+    },
+    {
+      "english": "I'm learning, to be kinder.",
+      "portuguese": "Estou aprendendo, a ser mais gentil.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390397"
+    },
+    {
+      "english": "This peace, feels earned.",
+      "portuguese": "Esta paz, parece merecida.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390399"
+    },
+    {
+      "english": "What brings you, inner calm?",
+      "portuguese": "O que lhe traz, calma interior?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390401"
+    },
+    {
+      "english": "Embracing imperfection, liberates.",
+      "portuguese": "Abraçar a imperfeição, liberta.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390403"
+    },
+    {
+      "english": "Finding contentment, within.",
+      "portuguese": "Encontrar contentamento, interiormente.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390404"
+    },
+    {
+      "english": "This understanding, feels profound.",
+      "portuguese": "Este entendimento, é profundo.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390406"
+    },
+    {
+      "english": "Acceptance, is a quiet strength.",
+      "portuguese": "Aceitação, é uma força silenciosa.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390408"
+    },
+    {
+      "english": "Self-compassion, is vital.",
+      "portuguese": "Autocompaixão, é vital.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390410"
+    },
+    {
+      "english": "Are you at peace, now?",
+      "portuguese": "Você está em paz, agora?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390412"
+    },
+    {
+      "english": "Letting go, brings relief.",
+      "portuguese": "Deixar ir, traz alívio.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390413"
+    },
+    {
+      "english": "My authentic self, is enough.",
+      "portuguese": "Meu eu autêntico, é suficiente.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390416"
+    },
+    {
+      "english": "This simple truth, resonates.",
+      "portuguese": "Esta simples verdade, ressoa.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390417"
+    },
+    {
+      "english": "I feel content, with life.",
+      "portuguese": "Sinto-me contente, com a vida.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390418"
+    },
+    {
+      "english": "Growth happens, in stillness.",
+      "portuguese": "O crescimento acontece, na quietude.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390420"
+    },
+    {
+      "english": "What brings you, genuine happiness?",
+      "portuguese": "O que lhe traz, felicidade genuína?",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390422"
+    },
+    {
+      "english": "I trust my intuition, always.",
+      "portuguese": "Confio na minha intuição, sempre.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390423"
+    },
+    {
+      "english": "Kindness, is a universal language.",
+      "portuguese": "Gentileza, é uma língua universal.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390425"
+    },
+    {
+      "english": "My inner world, is rich.",
+      "portuguese": "Meu mundo interior, é rico.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390426"
+    },
+    {
+      "english": "This journey, is beautiful.",
+      "portuguese": "Esta jornada, é linda.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390428"
+    },
+    {
+      "english": "Cherish these quiet times.",
+      "portuguese": "Ame estes tempos calmos.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390429"
+    },
+    {
+      "english": "Start your day, with a smile.",
+      "portuguese": "Comece o dia, com um sorriso.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390431"
+    },
+    {
+      "english": "Small habits, big results.",
+      "portuguese": "Pequenos hábitos, grandes resultados.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390432"
+    },
+    {
+      "english": "Listen more, talk less.",
+      "portuguese": "Ouça mais, fale menos.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390434"
+    },
+    {
+      "english": "Ask for help, when needed.",
+      "portuguese": "Peça ajuda, quando precisar.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390436"
+    },
+    {
+      "english": "Share your feelings, openly.",
+      "portuguese": "Compartilhe seus sentimentos, abertamente.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390438"
+    },
+    {
+      "english": "Learn something new, daily.",
+      "portuguese": "Aprenda algo novo, todo dia.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390439"
+    },
+    {
+      "english": "Help someone, spontaneously.",
+      "portuguese": "Ajude alguém, espontaneamente.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390442"
+    },
+    {
+      "english": "Connect with loved ones, often.",
+      "portuguese": "Conecte-se com quem ama, com frequência.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390443"
+    },
+    {
+      "english": "Take a break, recharge.",
+      "portuguese": "Faça uma pausa, recarregue.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390445"
+    },
+    {
+      "english": "Forgive quickly, live freely.",
+      "portuguese": "Perdoe rápido, viva livre.",
+      "category": "Happiness",
+      "generated_at": "2026-10-24T07:45:05.390446"
     }
   ],
-  "last_updated": "2026-10-23T08:05:36.258654"
+  "last_updated": "2026-10-24T07:45:05.390448"
 }
