@@ -6479,7 +6479,727 @@
       "portuguese": "Erros são chances de aprender.",
       "category": "Creativity",
       "generated_at": "2026-10-25T07:56:23.649157"
+    },
+    {
+      "english": "Thank you, so much.",
+      "portuguese": "Obrigado(a), demais.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.197955"
+    },
+    {
+      "english": "That's very kind, of you.",
+      "portuguese": "Isso é muita, gentileza.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.197971"
+    },
+    {
+      "english": "I really appreciate, this.",
+      "portuguese": "Eu realmente, aprecio.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.197974"
+    },
+    {
+      "english": "You're a lifesaver, really.",
+      "portuguese": "Você me salvou, mesmo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.197976"
+    },
+    {
+      "english": "I owe you, one.",
+      "portuguese": "Eu te devo, uma.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.197979"
+    },
+    {
+      "english": "Couldn't have done, it without you.",
+      "portuguese": "Não teria conseguido, sem você.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.197982"
+    },
+    {
+      "english": "That's a big help, thank you.",
+      "portuguese": "Ajuda muito, obrigado(a).",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.197984"
+    },
+    {
+      "english": "I'm so grateful, for this.",
+      "portuguese": "Sou muito grato(a), por isso.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.197989"
+    },
+    {
+      "english": "You're the best, seriously.",
+      "portuguese": "Você é o máximo, sério.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.197992"
+    },
+    {
+      "english": "What a surprise, thank you!",
+      "portuguese": "Que surpresa, valeu!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.197994"
+    },
+    {
+      "english": "I'm touched, really.",
+      "portuguese": "Fiquei emocionado(a), de verdade.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.197996"
+    },
+    {
+      "english": "That means a lot, to me.",
+      "portuguese": "Isso significa muito, para mim.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.197998"
+    },
+    {
+      "english": "You saved my day, thank you.",
+      "portuguese": "Você salvou meu dia, obrigado(a).",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198001"
+    },
+    {
+      "english": "How thoughtful, of you.",
+      "portuguese": "Que atencioso(a), da sua parte.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198003"
+    },
+    {
+      "english": "I appreciate, your effort.",
+      "portuguese": "Agradeço, seu esforço.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198005"
+    },
+    {
+      "english": "You're too good, to me.",
+      "portuguese": "Você é bom demais, comigo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198009"
+    },
+    {
+      "english": "Can't thank you, enough.",
+      "portuguese": "Não tenho palavras, para agradecer.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198011"
+    },
+    {
+      "english": "That was sweet, thank you.",
+      "portuguese": "Foi muito gentil, obrigado(a).",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198013"
+    },
+    {
+      "english": "I'm so thankful, truly.",
+      "portuguese": "Sou muito grato(a), de verdade.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198015"
+    },
+    {
+      "english": "You're a gem, thank you.",
+      "portuguese": "Você é uma joia, valeu.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198017"
+    },
+    {
+      "english": "This is perfect, thanks.",
+      "portuguese": "Está perfeito, valeu.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198019"
+    },
+    {
+      "english": "I couldn't ask, for more.",
+      "portuguese": "Não poderia pedir, mais nada.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198024"
+    },
+    {
+      "english": "You made my day, better.",
+      "portuguese": "Você melhorou meu dia, sim.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198026"
+    },
+    {
+      "english": "Bless you, for that.",
+      "portuguese": "Deus te abençoe, por isso.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198028"
+    },
+    {
+      "english": "That's so thoughtful, thank you.",
+      "portuguese": "Que lembrança boa, obrigado(a).",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198030"
+    },
+    {
+      "english": "I'm indebted, to you.",
+      "portuguese": "Sou muito seu, devedor(a).",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198032"
+    },
+    {
+      "english": "You're amazing, thank you.",
+      "portuguese": "Você é incrível, valeu.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198035"
+    },
+    {
+      "english": "I'm so pleased, with this.",
+      "portuguese": "Fiquei muito contente, com isso.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198037"
+    },
+    {
+      "english": "Very nice, of you, really.",
+      "portuguese": "Muito simpático(a), de verdade.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198039"
+    },
+    {
+      "english": "I appreciate, the gesture.",
+      "portuguese": "Agradeço, o gesto.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198041"
+    },
+    {
+      "english": "What can I do, for you?",
+      "portuguese": "O que posso fazer, por você?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198043"
+    },
+    {
+      "english": "Is there anything, I can help with?",
+      "portuguese": "Precisa de alguma coisa, que eu ajude?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198046"
+    },
+    {
+      "english": "How did you know, I needed this?",
+      "portuguese": "Como soube, que eu precisava disso?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198048"
+    },
+    {
+      "english": "Can you show me, how this works?",
+      "portuguese": "Pode me mostrar, como isso funciona?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198050"
+    },
+    {
+      "english": "Where did you learn, that skill?",
+      "portuguese": "Onde aprendeu, essa habilidade?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198053"
+    },
+    {
+      "english": "What's your secret, for success?",
+      "portuguese": "Qual seu segredo, para o sucesso?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198055"
+    },
+    {
+      "english": "What do you think, about this idea?",
+      "portuguese": "O que você acha, sobre essa ideia?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198057"
+    },
+    {
+      "english": "How can I repay, this kindness?",
+      "portuguese": "Como posso retribuir, essa gentileza?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198059"
+    },
+    {
+      "english": "Mind if I ask, a quick question?",
+      "portuguese": "Se importa se eu perguntar, algo rápido?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198061"
+    },
+    {
+      "english": "Are you busy, right now?",
+      "portuguese": "Você está ocupado, agora?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198064"
+    },
+    {
+      "english": "Is this a good time, to talk?",
+      "portuguese": "É um bom momento, para conversar?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198066"
+    },
+    {
+      "english": "Can I get your opinion, please?",
+      "portuguese": "Posso ter sua opinião, por favor?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198069"
+    },
+    {
+      "english": "What's the best way, to handle this?",
+      "portuguese": "Qual a melhor forma, de lidar com isso?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198071"
+    },
+    {
+      "english": "How was your day, really?",
+      "portuguese": "Como foi seu dia, de verdade?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198073"
+    },
+    {
+      "english": "Did you enjoy, the event?",
+      "portuguese": "Você gostou, do evento?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198075"
+    },
+    {
+      "english": "What did you think, of the movie?",
+      "portuguese": "O que achou, do filme?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198077"
+    },
+    {
+      "english": "What's new, with you?",
+      "portuguese": "Quais as novidades, com você?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198081"
+    },
+    {
+      "english": "What are you working, on now?",
+      "portuguese": "No que está trabalhando, agora?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198085"
+    },
+    {
+      "english": "How do you manage, so much?",
+      "portuguese": "Como você consegue, fazer tanto?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198089"
+    },
+    {
+      "english": "Can I ask, where you bought this?",
+      "portuguese": "Posso perguntar, onde comprou isso?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198091"
+    },
+    {
+      "english": "Is there a solution, you recommend?",
+      "portuguese": "Há alguma solução, que você recomenda?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198095"
+    },
+    {
+      "english": "What should I do, next?",
+      "portuguese": "O que eu deveria fazer, depois?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198097"
+    },
+    {
+      "english": "Can you help me, decide?",
+      "portuguese": "Você pode me ajudar, a decidir?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198099"
+    },
+    {
+      "english": "You have, a great, energy.",
+      "portuguese": "Você tem, uma ótima, energia.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198102"
+    },
+    {
+      "english": "Your positivity, is contagious.",
+      "portuguese": "Sua positividade, é contagiante.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198104"
+    },
+    {
+      "english": "Keep shining, brightly.",
+      "portuguese": "Continue brilhando, intensamente.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198106"
+    },
+    {
+      "english": "You inspire, me greatly.",
+      "portuguese": "Você me inspira, muito.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198108"
+    },
+    {
+      "english": "Your kindness, makes a difference.",
+      "portuguese": "Sua gentileza, faz a diferença.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198110"
+    },
+    {
+      "english": "You handled, that, perfectly.",
+      "portuguese": "Você lidou, com isso, perfeitamente.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198112"
+    },
+    {
+      "english": "What a great, accomplishment!",
+      "portuguese": "Que grande, conquista!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198115"
+    },
+    {
+      "english": "Your perspective, is valuable.",
+      "portuguese": "Sua perspectiva, é valiosa.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198117"
+    },
+    {
+      "english": "You bring, out the best.",
+      "portuguese": "Você realça, o melhor.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198119"
+    },
+    {
+      "english": "That's, a brilliant, thought.",
+      "portuguese": "Essa é, uma ideia, brilhante.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198122"
+    },
+    {
+      "english": "I admire, your dedication.",
+      "portuguese": "Admiro, sua dedicação.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198124"
+    },
+    {
+      "english": "You make, things happen.",
+      "portuguese": "Você faz, as coisas acontecerem.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198126"
+    },
+    {
+      "english": "Your attitude, is commendable.",
+      "portuguese": "Sua atitude, é louvável.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198128"
+    },
+    {
+      "english": "You're a true, inspiration.",
+      "portuguese": "Você é uma, verdadeira inspiração.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198130"
+    },
+    {
+      "english": "You have, a wonderful, spirit.",
+      "portuguese": "Você tem, um espírito, maravilhoso.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198133"
+    },
+    {
+      "english": "That took, real courage.",
+      "portuguese": "Isso exigiu, coragem de verdade.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198135"
+    },
+    {
+      "english": "Your growth, is evident.",
+      "portuguese": "Seu crescimento, é evidente.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198136"
+    },
+    {
+      "english": "You always, find a way.",
+      "portuguese": "Você sempre, encontra um jeito.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198139"
+    },
+    {
+      "english": "Your wisdom, is appreciated.",
+      "portuguese": "Sua sabedoria, é apreciada.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198140"
+    },
+    {
+      "english": "You make, this place, better.",
+      "portuguese": "Você torna, este lugar, melhor.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198143"
+    },
+    {
+      "english": "Fantastic, perspective shift!",
+      "portuguese": "Fantástica, mudança de perspectiva!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198145"
+    },
+    {
+      "english": "You have, a heart, of gold.",
+      "portuguese": "Você tem, um coração, de ouro.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198147"
+    },
+    {
+      "english": "Keep believing, in good.",
+      "portuguese": "Continue acreditando, no bem.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198151"
+    },
+    {
+      "english": "Your efforts, are noticed.",
+      "portuguese": "Seus esforços, são notados.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198153"
+    },
+    {
+      "english": "You radiate, positivity.",
+      "portuguese": "Você irradia, positividade.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198155"
+    },
+    {
+      "english": "You saved my skin, truly.",
+      "portuguese": "Você me salvou, de verdade.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198157"
+    },
+    {
+      "english": "I owe you one, big time.",
+      "portuguese": "Te devo uma, e muito grande.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198161"
+    },
+    {
+      "english": "You're a lifesaver, seriously.",
+      "portuguese": "Você é um salva-vidas, falando sério.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198163"
+    },
+    {
+      "english": "My gratitude, is immense.",
+      "portuguese": "Minha gratidão, é imensa.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198165"
+    },
+    {
+      "english": "What a relief, you're here.",
+      "portuguese": "Que alívio, você ter vindo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198168"
+    },
+    {
+      "english": "You're too kind, honestly.",
+      "portuguese": "Você é muito gentil, sinceramente.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198170"
+    },
+    {
+      "english": "That was a huge, help.",
+      "portuguese": "Aquilo foi uma ajuda, enorme.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198172"
+    },
+    {
+      "english": "I really appreciate, you.",
+      "portuguese": "Eu realmente te aprecio, de verdade.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198174"
+    },
+    {
+      "english": "You're a gem, truly.",
+      "portuguese": "Você é uma joia, de verdade.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198176"
+    },
+    {
+      "english": "My heartfelt thanks, to you.",
+      "portuguese": "Meus sinceros agradecimentos, a você.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198178"
+    },
+    {
+      "english": "You understood, perfectly.",
+      "portuguese": "Você entendeu, perfeitamente.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198180"
+    },
+    {
+      "english": "You're a blessing, indeed.",
+      "portuguese": "Você é uma bênção, de fato.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198182"
+    },
+    {
+      "english": "You saved the day, wow.",
+      "portuguese": "Você salvou o dia, uau.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198185"
+    },
+    {
+      "english": "Such a thoughtful, gesture.",
+      "portuguese": "Que gesto, tão atencioso.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198187"
+    },
+    {
+      "english": "You have, my deep thanks.",
+      "portuguese": "Você tem, meus profundos agradecimentos.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198189"
+    },
+    {
+      "english": "You're the best, hands down.",
+      "portuguese": "Você é o melhor(a), sem dúvida.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198191"
+    },
+    {
+      "english": "I'm eternally grateful, really.",
+      "portuguese": "Sou eternamente grato(a), de verdade.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198193"
+    },
+    {
+      "english": "You're a treasure, to me.",
+      "portuguese": "Você é um tesouro, para mim.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198196"
+    },
+    {
+      "english": "Your help, was perfect timing.",
+      "portuguese": "Sua ajuda, veio na hora certa.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198198"
+    },
+    {
+      "english": "You rock, seriously.",
+      "portuguese": "Você arrasa, falando sério.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198200"
+    },
+    {
+      "english": "So glad, we connected.",
+      "portuguese": "Tão feliz, que nos conectamos.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198201"
+    },
+    {
+      "english": "You're a true, friend.",
+      "portuguese": "Você é um(a) amigo(a) verdadeiro(a).",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198203"
+    },
+    {
+      "english": "Forever thankful, for you.",
+      "portuguese": "Sempre grato(a), por você.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198207"
+    },
+    {
+      "english": "Thanks for the tip, saved me time.",
+      "portuguese": "Obrigado pela dica, economizou meu tempo.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198209"
+    },
+    {
+      "english": "That advice, really worked, thanks!",
+      "portuguese": "Esse conselho, funcionou mesmo, valeu!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198212"
+    },
+    {
+      "english": "You handled that, so gracefully, wow.",
+      "portuguese": "Você lidou com isso, com tanta classe, uau.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198214"
+    },
+    {
+      "english": "I appreciate, your quick response.",
+      "portuguese": "Agradeço, sua resposta rápida.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198216"
+    },
+    {
+      "english": "That solution, was genius, thank you.",
+      "portuguese": "Essa solução, foi genial, obrigado.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198218"
+    },
+    {
+      "english": "Thanks for explaining, so clearly.",
+      "portuguese": "Obrigado por explicar, tão claramente.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198221"
+    },
+    {
+      "english": "You made that, so much easier.",
+      "portuguese": "Você tornou isso, muito mais fácil.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198223"
+    },
+    {
+      "english": "I'm grateful, you're so patient.",
+      "portuguese": "Sou grato, por você ser tão paciente.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198225"
+    },
+    {
+      "english": "Your help, made my day, thanks.",
+      "portuguese": "Sua ajuda, fez meu dia, obrigado.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198228"
+    },
+    {
+      "english": "I'm thankful, for your understanding.",
+      "portuguese": "Sou grato, pela sua compreensão.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198231"
+    },
+    {
+      "english": "That shortcut, was a lifesaver.",
+      "portuguese": "Esse atalho, foi um salva-vidas.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198234"
+    },
+    {
+      "english": "Thanks for sharing, that resource.",
+      "portuguese": "Obrigado por compartilhar, esse recurso.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198236"
+    },
+    {
+      "english": "You fixed it, fast, much thanks.",
+      "portuguese": "Você consertou, rápido, muito obrigado.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198240"
+    },
+    {
+      "english": "I owe you one, for that insight.",
+      "portuguese": "Devo uma a você, por essa visão.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198242"
+    },
+    {
+      "english": "Your calm presence, helped a lot.",
+      "portuguese": "Sua calma presença, ajudou muito.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198244"
+    },
+    {
+      "english": "Thanks for your, honest feedback.",
+      "portuguese": "Obrigado pela, sua crítica honesta.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198246"
+    },
+    {
+      "english": "That reminder, was very needed.",
+      "portuguese": "Esse lembrete, foi muito necessário.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198248"
+    },
+    {
+      "english": "You are so helpful, truly grateful.",
+      "portuguese": "Você é muito prestativo, sou realmente grato.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198250"
+    },
+    {
+      "english": "Thanks for the, extra mile effort.",
+      "portuguese": "Obrigado pelo, esforço extra.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T09:30:55.198253"
     }
   ],
-  "last_updated": "2026-10-25T07:56:23.649159"
+  "last_updated": "2026-10-26T09:30:55.198254"
 }
