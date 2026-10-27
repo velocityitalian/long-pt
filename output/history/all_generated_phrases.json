@@ -7199,7 +7199,727 @@
       "portuguese": "Obrigado pelo, esforço extra.",
       "category": "Gratitude",
       "generated_at": "2026-10-26T09:30:55.198253"
+    },
+    {
+      "english": "Let's go!, Ready?",
+      "portuguese": "Vamos lá!, Pronto?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241903"
+    },
+    {
+      "english": "Good workout today, huh?",
+      "portuguese": "Bom treino hoje, né?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241916"
+    },
+    {
+      "english": "I'm feeling energized!, pumped!",
+      "portuguese": "Estou me sentindo energizado!, animado!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241919"
+    },
+    {
+      "english": "How was your session?",
+      "portuguese": "Como foi sua sessão?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241922"
+    },
+    {
+      "english": "That was intense!, tough!",
+      "portuguese": "Isso foi intenso!, puxado!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241924"
+    },
+    {
+      "english": "Need a break, definitely.",
+      "portuguese": "Preciso de um descanso, com certeza.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241927"
+    },
+    {
+      "english": "Feeling sore tomorrow, probably.",
+      "portuguese": "Sentindo dor amanhã, provavelmente.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241929"
+    },
+    {
+      "english": "Hydration is key, right?",
+      "portuguese": "Hidratação é fundamental, certo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241934"
+    },
+    {
+      "english": "I'm so ready for this.",
+      "portuguese": "Estou super pronto para isso.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241936"
+    },
+    {
+      "english": "Let's push our limits.",
+      "portuguese": "Vamos superar nossos limites.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241939"
+    },
+    {
+      "english": "Almost there!, keep going!",
+      "portuguese": "Quase lá!, continue!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241941"
+    },
+    {
+      "english": "That felt amazing!, great!",
+      "portuguese": "Isso foi incrível!, ótimo!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241944"
+    },
+    {
+      "english": "My muscles are burning!",
+      "portuguese": "Meus músculos estão queimando!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241946"
+    },
+    {
+      "english": "Need some water, stat!",
+      "portuguese": "Preciso de água, urgente!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241948"
+    },
+    {
+      "english": "Great pace, keep it up.",
+      "portuguese": "Ótimo ritmo, mantenha.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241950"
+    },
+    {
+      "english": "That's the spirit!, yeah!",
+      "portuguese": "É esse o espírito!, sim!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241952"
+    },
+    {
+      "english": "Feeling stronger already.",
+      "portuguese": "Já me sinto mais forte.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241954"
+    },
+    {
+      "english": "Let's recover well.",
+      "portuguese": "Vamos recuperar bem.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241956"
+    },
+    {
+      "english": "Tomorrow, same time?",
+      "portuguese": "Amanhã, mesmo horário?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241960"
+    },
+    {
+      "english": "This is my happy place.",
+      "portuguese": "Este é o meu lugar feliz.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241962"
+    },
+    {
+      "english": "Just breathe, focus.",
+      "portuguese": "Apenas respire, concentre-se.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241964"
+    },
+    {
+      "english": "We're crushing it!",
+      "portuguese": "Estamos arrasando!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241965"
+    },
+    {
+      "english": "One more set, come on!",
+      "portuguese": "Mais uma série, vamos!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241968"
+    },
+    {
+      "english": "My legs are jelly!",
+      "portuguese": "Minhas pernas estão moles!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241969"
+    },
+    {
+      "english": "Totally worth the effort.",
+      "portuguese": "Vale totalmente o esforço.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241971"
+    },
+    {
+      "english": "Loving this energy!",
+      "portuguese": "Adorando esta energia!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241973"
+    },
+    {
+      "english": "Can't stop now, nope.",
+      "portuguese": "Não posso parar agora, de jeito nenhum.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241977"
+    },
+    {
+      "english": "Feeling the burn, good!",
+      "portuguese": "Sentindo a queimação, bom!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.241979"
+    },
+    {
+      "english": "Let's get stronger, together.",
+      "portuguese": "Vamos ficar mais fortes, juntos.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242009"
+    },
+    {
+      "english": "Almost done, almost there.",
+      "portuguese": "Quase acabando, quase lá.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242014"
+    },
+    {
+      "english": "What are you training for, today?",
+      "portuguese": "No que você está treinando, hoje?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242016"
+    },
+    {
+      "english": "Can you show me, that exercise?",
+      "portuguese": "Você pode me mostrar, esse exercício?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242018"
+    },
+    {
+      "english": "Do you prefer, weights or cardio?",
+      "portuguese": "Você prefere, pesos ou cardio?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242020"
+    },
+    {
+      "english": "How often, do you come here?",
+      "portuguese": "Com que frequência, você vem aqui?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242023"
+    },
+    {
+      "english": "Is this gym, always this busy?",
+      "portuguese": "Esta academia, está sempre assim lotada?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242025"
+    },
+    {
+      "english": "Mind if I join you, for a bit?",
+      "portuguese": "Se importa se eu me juntar, um pouco?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242028"
+    },
+    {
+      "english": "Do you know, any good trainers?",
+      "portuguese": "Você conhece, algum bom personal trainer?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242030"
+    },
+    {
+      "english": "What's your favorite, type of workout?",
+      "portuguese": "Qual seu tipo, de treino favorito?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242033"
+    },
+    {
+      "english": "Are you training, for a competition?",
+      "portuguese": "Você está treinando, para alguma competição?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242035"
+    },
+    {
+      "english": "Do you have, a good playlist?",
+      "portuguese": "Você tem, uma boa playlist?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242037"
+    },
+    {
+      "english": "Can you spot me, on this lift?",
+      "portuguese": "Você pode me segurar, nesse levantamento?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242040"
+    },
+    {
+      "english": "What are you eating, after this?",
+      "portuguese": "O que você vai comer, depois disso?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242042"
+    },
+    {
+      "english": "Do you think, I need more reps?",
+      "portuguese": "Você acha, que preciso de mais repetições?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242044"
+    },
+    {
+      "english": "How long, is your usual workout?",
+      "portuguese": "Quanto tempo, dura seu treino usual?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242046"
+    },
+    {
+      "english": "Is it okay, to rest longer?",
+      "portuguese": "Tudo bem, descansar por mais tempo?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242048"
+    },
+    {
+      "english": "What's your goal, this month?",
+      "portuguese": "Qual sua meta, este mês?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242054"
+    },
+    {
+      "english": "Do you stretch, before or after?",
+      "portuguese": "Você se alonga, antes ou depois?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242056"
+    },
+    {
+      "english": "Mind if I use, this machine next?",
+      "portuguese": "Importa se eu usar, esta máquina depois?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242058"
+    },
+    {
+      "english": "Do you find, this class challenging?",
+      "portuguese": "Você acha, esta aula desafiadora?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242060"
+    },
+    {
+      "english": "What's your favorite, recovery method?",
+      "portuguese": "Qual seu método, de recuperação preferido?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242063"
+    },
+    {
+      "english": "Are you getting, enough sleep lately?",
+      "portuguese": "Você está dormindo, o suficiente ultimamente?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242065"
+    },
+    {
+      "english": "Do you ever, skip your workouts?",
+      "portuguese": "Você alguma vez, pula seus treinos?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242067"
+    },
+    {
+      "english": "What's your advice, for someone starting?",
+      "portuguese": "Qual seu conselho, para quem está começando?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242069"
+    },
+    {
+      "english": "Do you prefer, home or gym workouts?",
+      "portuguese": "Você prefere, treinar em casa ou na academia?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242071"
+    },
+    {
+      "english": "How do you manage, fatigue during workouts?",
+      "portuguese": "Como você lida, com o cansaço nos treinos?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242073"
+    },
+    {
+      "english": "What's the secret, to your consistency?",
+      "portuguese": "Qual o segredo, da sua consistência?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242076"
+    },
+    {
+      "english": "Do you listen to, music while training?",
+      "portuguese": "Você escuta, música enquanto treina?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242078"
+    },
+    {
+      "english": "Can we do, a workout together, sometime?",
+      "portuguese": "Podemos fazer, um treino juntos, algum dia?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242081"
+    },
+    {
+      "english": "Push yourself, just a little.",
+      "portuguese": "Se esforce, só um pouco.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242083"
+    },
+    {
+      "english": "Great effort, keep going!",
+      "portuguese": "Ótimo esforço, continue!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242085"
+    },
+    {
+      "english": "That's amazing progress, wow!",
+      "portuguese": "Que progresso incrível, uau!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242087"
+    },
+    {
+      "english": "Stay focused, on your goals.",
+      "portuguese": "Mantenha o foco, nos seus objetivos.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242091"
+    },
+    {
+      "english": "Feel that power, inside you.",
+      "portuguese": "Sinta essa força, aí dentro.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242093"
+    },
+    {
+      "english": "Every rep counts, seriously.",
+      "portuguese": "Cada repetição conta, sério.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242095"
+    },
+    {
+      "english": "Don't give up, not today.",
+      "portuguese": "Não desista, hoje não.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242097"
+    },
+    {
+      "english": "Nice work, really impressive.",
+      "portuguese": "Bom trabalho, realmente impressionante.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242099"
+    },
+    {
+      "english": "Let's finish, strong and proud.",
+      "portuguese": "Vamos terminar, fortes e orgulhosos.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242101"
+    },
+    {
+      "english": "Your body will thank you.",
+      "portuguese": "Seu corpo vai agradecer.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242103"
+    },
+    {
+      "english": "Keep the momentum, going strong.",
+      "portuguese": "Mantenha o ritmo, forte.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242106"
+    },
+    {
+      "english": "This challenge, makes you grow.",
+      "portuguese": "Esse desafio, te faz crescer.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242108"
+    },
+    {
+      "english": "Visualize, the success you want.",
+      "portuguese": "Visualize, o sucesso que quer.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242110"
+    },
+    {
+      "english": "Positive thoughts, fuel results.",
+      "portuguese": "Pensamentos positivos, geram resultados.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242113"
+    },
+    {
+      "english": "Commitment, is key always.",
+      "portuguese": "Compromisso, é sempre a chave.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242115"
+    },
+    {
+      "english": "You're doing great, really.",
+      "portuguese": "Você está indo bem, de verdade.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242117"
+    },
+    {
+      "english": "Embrace the struggle, it's temporary.",
+      "portuguese": "Abrace a luta, é temporária.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242119"
+    },
+    {
+      "english": "Let that sweat, work for you.",
+      "portuguese": "Deixe esse suor, trabalhar por você.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242121"
+    },
+    {
+      "english": "Believe in, your own strength.",
+      "portuguese": "Acredite, na sua própria força.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242125"
+    },
+    {
+      "english": "Never underestimate, your power.",
+      "portuguese": "Nunca subestime, seu poder.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242127"
+    },
+    {
+      "english": "That feeling, after is amazing.",
+      "portuguese": "Aquela sensação, depois é ótima.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242129"
+    },
+    {
+      "english": "You're building, a better you.",
+      "portuguese": "Você está construindo, um você melhor.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242131"
+    },
+    {
+      "english": "Respect the process, and rest.",
+      "portuguese": "Respeite o processo, e o descanso.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242133"
+    },
+    {
+      "english": "Inspiration, comes from within.",
+      "portuguese": "A inspiração, vem de dentro.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242135"
+    },
+    {
+      "english": "What a fantastic, workout today!",
+      "portuguese": "Que treino fantástico, hoje!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242137"
+    },
+    {
+      "english": "Keep showing up, consistently.",
+      "portuguese": "Continue aparecendo, consistentemente.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242139"
+    },
+    {
+      "english": "This takes real inner strength, doesn't it?",
+      "portuguese": "Isso exige força interior de verdade, não é?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242142"
+    },
+    {
+      "english": "Patience, brings lasting results.",
+      "portuguese": "Paciência, traz resultados duradouros.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242144"
+    },
+    {
+      "english": "I learned so much, about myself today.",
+      "portuguese": "Aprendi muito, sobre mim mesmo, hoje.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242146"
+    },
+    {
+      "english": "My mind feels clearer, after this.",
+      "portuguese": "Minha mente se sente mais clara, depois disso.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242148"
+    },
+    {
+      "english": "What are you reflecting, on during your run?",
+      "portuguese": "Em que você pensa, durante sua corrida?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242150"
+    },
+    {
+      "english": "This journey, is deeply personal.",
+      "portuguese": "Esta jornada, é muito pessoal.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242152"
+    },
+    {
+      "english": "I'm being honest, with my limits.",
+      "portuguese": "Estou sendo honesto, com meus limites.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242156"
+    },
+    {
+      "english": "Accepting imperfection, is progress too.",
+      "portuguese": "Aceitar a imperfeição, também é progresso.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242158"
+    },
+    {
+      "english": "How does this activity, make you feel?",
+      "portuguese": "Como essa atividade, te faz sentir?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242162"
+    },
+    {
+      "english": "Trust the process, it takes time.",
+      "portuguese": "Confie no processo, leva tempo.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242164"
+    },
+    {
+      "english": "My motivation, comes from within.",
+      "portuguese": "Minha motivação, vem de dentro.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242166"
+    },
+    {
+      "english": "Today's workout, was a mental battle.",
+      "portuguese": "O treino de hoje, foi uma batalha mental.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242168"
+    },
+    {
+      "english": "I feel a deeper connection, with my body.",
+      "portuguese": "Sinto uma conexão mais profunda, com meu corpo.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242170"
+    },
+    {
+      "english": "This isn't easy, but it's worth it.",
+      "portuguese": "Não é fácil, mas vale a pena.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242173"
+    },
+    {
+      "english": "What thoughts, help you push through?",
+      "portuguese": "Que pensamentos, te ajudam a continuar?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242175"
+    },
+    {
+      "english": "My progress, isn't always linear.",
+      "portuguese": "Meu progresso, não é sempre linear.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242177"
+    },
+    {
+      "english": "I'm learning to listen, to my body.",
+      "portuguese": "Estou aprendendo a ouvir, meu corpo.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242181"
+    },
+    {
+      "english": "It's a marathon, not a sprint.",
+      "portuguese": "É uma maratona, não uma corrida.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242183"
+    },
+    {
+      "english": "Finding joy, in the effort itself.",
+      "portuguese": "Encontrando alegria, no próprio esforço.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242185"
+    },
+    {
+      "english": "This discipline, builds character.",
+      "portuguese": "Essa disciplina, constrói caráter.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242187"
+    },
+    {
+      "english": "I'm proud of my resilience, today.",
+      "portuguese": "Tenho orgulho da minha resiliência, hoje.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242190"
+    },
+    {
+      "english": "What does 'feeling good' mean, to you?",
+      "portuguese": "O que significa 'se sentir bem', para você?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242192"
+    },
+    {
+      "english": "This requires, more than just physical strength.",
+      "portuguese": "Isso exige, mais que força física.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242194"
+    },
+    {
+      "english": "My commitment, feels deeper now.",
+      "portuguese": "Meu compromisso, parece mais profundo agora.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242196"
+    },
+    {
+      "english": "Are you celebrating, small victories?",
+      "portuguese": "Você comemora, pequenas vitórias?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242200"
+    },
+    {
+      "english": "I'm focusing, on consistency, not perfection.",
+      "portuguese": "Estou focando, na consistência, não na perfeição.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242202"
+    },
+    {
+      "english": "This is about self-discovery, truly.",
+      "portuguese": "Isso é sobre autoconhecimento, de verdade.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242205"
+    },
+    {
+      "english": "How do you stay, mentally strong?",
+      "portuguese": "Como você se mantém, mentalmente forte?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242207"
+    },
+    {
+      "english": "Today I learned, to be kinder, to myself.",
+      "portuguese": "Hoje aprendi, a ser mais gentil, comigo.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242209"
+    },
+    {
+      "english": "Hydrate well, drink water often.",
+      "portuguese": "Hidrate-se bem, beba água sempre.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242211"
+    },
+    {
+      "english": "Stretch before, and after, your workout.",
+      "portuguese": "Alongue antes, e depois, do treino.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242213"
+    },
+    {
+      "english": "Fuel your body, with healthy food.",
+      "portuguese": "Alimente seu corpo, com comida saudável.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242215"
+    },
+    {
+      "english": "Listen to your body, avoid injury.",
+      "portuguese": "Ouça seu corpo, evite lesões.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242217"
+    },
+    {
+      "english": "Sleep is crucial, for recovery.",
+      "portuguese": "O sono é crucial, para a recuperação.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242219"
+    },
+    {
+      "english": "Find a buddy, for motivation.",
+      "portuguese": "Encontre um amigo, para motivação.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242221"
+    },
+    {
+      "english": "Set small goals, celebrate progress.",
+      "portuguese": "Defina metas pequenas, celebre o progresso.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-27T08:30:36.242223"
     }
   ],
-  "last_updated": "2026-10-26T09:30:55.198254"
+  "last_updated": "2026-10-27T08:30:36.242225"
 }
