@@ -7919,7 +7919,727 @@
       "portuguese": "Defina metas pequenas, celebre o progresso.",
       "category": "Sports & Fitness",
       "generated_at": "2026-10-27T08:30:36.242223"
+    },
+    {
+      "english": "Yes, I agree, totally.",
+      "portuguese": "Sim, concordo, totalmente.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131105"
+    },
+    {
+      "english": "Exactly, that's right.",
+      "portuguese": "Exato, é isso mesmo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131118"
+    },
+    {
+      "english": "I see your point, but...",
+      "portuguese": "Entendo seu ponto, mas...",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131121"
+    },
+    {
+      "english": "You're probably right.",
+      "portuguese": "Você provavelmente tem razão.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131124"
+    },
+    {
+      "english": "I'm not so sure about that.",
+      "portuguese": "Não tenho tanta certeza disso.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131126"
+    },
+    {
+      "english": "Fair enough, I guess.",
+      "portuguese": "Justo, acho.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131128"
+    },
+    {
+      "english": "I can see that.",
+      "portuguese": "Posso ver isso.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131130"
+    },
+    {
+      "english": "That makes sense.",
+      "portuguese": "Faz sentido.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131134"
+    },
+    {
+      "english": "I disagree, respectfully.",
+      "portuguese": "Discordo, respeitosamente.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131137"
+    },
+    {
+      "english": "We see things differently.",
+      "portuguese": "Vemos as coisas de forma diferente.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131139"
+    },
+    {
+      "english": "I don't think so.",
+      "portuguese": "Acho que não.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131141"
+    },
+    {
+      "english": "On the contrary.",
+      "portuguese": "Pelo contrário.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131143"
+    },
+    {
+      "english": "That's a good point.",
+      "portuguese": "Esse é um bom ponto.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131145"
+    },
+    {
+      "english": "I'm on your side.",
+      "portuguese": "Estou do seu lado.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131147"
+    },
+    {
+      "english": "I can't agree more.",
+      "portuguese": "Não poderia concordar mais.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131149"
+    },
+    {
+      "english": "I'm not convinced.",
+      "portuguese": "Não estou convencido(a).",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131151"
+    },
+    {
+      "english": "That's debatable.",
+      "portuguese": "Isso é discutível.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131153"
+    },
+    {
+      "english": "I have a different opinion.",
+      "portuguese": "Tenho uma opinião diferente.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131155"
+    },
+    {
+      "english": "You've got a point there.",
+      "portuguese": "Você tem um ponto aí.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131157"
+    },
+    {
+      "english": "I'm not sure I follow.",
+      "portuguese": "Não tenho certeza se entendi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131159"
+    },
+    {
+      "english": "That's exactly how I feel.",
+      "portuguese": "É exatamente como me sinto.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131161"
+    },
+    {
+      "english": "I beg to differ.",
+      "portuguese": "Permita-me discordar.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131165"
+    },
+    {
+      "english": "I agree with you.",
+      "portuguese": "Concordo com você.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131169"
+    },
+    {
+      "english": "I understand, but...",
+      "portuguese": "Entendo, mas...",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131173"
+    },
+    {
+      "english": "You're absolutely right.",
+      "portuguese": "Você está absolutamente certo(a).",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131175"
+    },
+    {
+      "english": "I don't agree with that.",
+      "portuguese": "Não concordo com isso.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131177"
+    },
+    {
+      "english": "That's a valid point.",
+      "portuguese": "Esse é um ponto válido.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131179"
+    },
+    {
+      "english": "I'm with you on this.",
+      "portuguese": "Estou com você nisso.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131181"
+    },
+    {
+      "english": "That's not entirely true.",
+      "portuguese": "Isso não é totalmente verdade.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131183"
+    },
+    {
+      "english": "What do you think, really?",
+      "portuguese": "O que você acha, de verdade?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131185"
+    },
+    {
+      "english": "Does that sound okay to you?",
+      "portuguese": "Isso te parece bom?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131187"
+    },
+    {
+      "english": "Can I get your opinion on this?",
+      "portuguese": "Posso ter sua opinião sobre isso?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131190"
+    },
+    {
+      "english": "Is there another way to see it?",
+      "portuguese": "Tem outro jeito de ver isso?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131192"
+    },
+    {
+      "english": "What's your take on that, then?",
+      "portuguese": "Qual sua visão disso, então?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131194"
+    },
+    {
+      "english": "Do you see it the same way?",
+      "portuguese": "Você vê isso do mesmo jeito?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131197"
+    },
+    {
+      "english": "Should we consider something else?",
+      "portuguese": "Devemos considerar outra coisa?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131199"
+    },
+    {
+      "english": "Am I understanding this correctly?",
+      "portuguese": "Estou entendendo isso certo?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131201"
+    },
+    {
+      "english": "What if we tried this instead?",
+      "portuguese": "E se tentássemos isso em vez disso?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131204"
+    },
+    {
+      "english": "Does that make sense to you?",
+      "portuguese": "Isso faz sentido para você?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131206"
+    },
+    {
+      "english": "Tell me what you really think.",
+      "portuguese": "Diga-me o que você pensa mesmo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131208"
+    },
+    {
+      "english": "What's your initial reaction to this?",
+      "portuguese": "Qual sua reação inicial a isso?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131210"
+    },
+    {
+      "english": "Is this the best approach, do you think?",
+      "portuguese": "Esta é a melhor abordagem, você acha?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131212"
+    },
+    {
+      "english": "Could we look at it from another angle?",
+      "portuguese": "Podemos olhar de outro ângulo?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131214"
+    },
+    {
+      "english": "How do you see this situation unfolding?",
+      "portuguese": "Como você vê esta situação se desenrolando?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131216"
+    },
+    {
+      "english": "What's your honest opinion about it?",
+      "portuguese": "Qual sua opinião sincera sobre isso?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131219"
+    },
+    {
+      "english": "Do you concur with this decision?",
+      "portuguese": "Você concorda com esta decisão?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131223"
+    },
+    {
+      "english": "Would you change anything about this?",
+      "portuguese": "Você mudaria algo sobre isto?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131225"
+    },
+    {
+      "english": "What's your input on this whole thing?",
+      "portuguese": "Qual sua contribuição sobre tudo isso?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131227"
+    },
+    {
+      "english": "Are you leaning towards this option?",
+      "portuguese": "Você está inclinado para esta opção?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131229"
+    },
+    {
+      "english": "How does this sit with you?",
+      "portuguese": "Como isso fica com você?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131230"
+    },
+    {
+      "english": "Can we reach a consensus here?",
+      "portuguese": "Podemos chegar a um consenso aqui?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131232"
+    },
+    {
+      "english": "What's your take, short and sweet?",
+      "portuguese": "Qual sua opinião, curta e grossa?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131234"
+    },
+    {
+      "english": "Go for it, believe in yourself!",
+      "portuguese": "Vai fundo, acredita em você!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131237"
+    },
+    {
+      "english": "Your effort is amazing, seriously.",
+      "portuguese": "Seu esforço é incrível, sério.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131241"
+    },
+    {
+      "english": "That's the spirit, keep going!",
+      "portuguese": "É assim que se faz, siga em frente!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131243"
+    },
+    {
+      "english": "This is progress, celebrate it!",
+      "portuguese": "Isso é progresso, comemore!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131247"
+    },
+    {
+      "english": "What a great mindset, wow!",
+      "portuguese": "Que mentalidade incrível, uau!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131249"
+    },
+    {
+      "english": "Never give up, you're strong.",
+      "portuguese": "Nunca desista, você é forte.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131251"
+    },
+    {
+      "english": "That perspective is valuable, really.",
+      "portuguese": "Essa perspectiva é valiosa, mesmo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131254"
+    },
+    {
+      "english": "You're doing wonderfully, keep shining.",
+      "portuguese": "Você está indo maravilhosamente, brilhe.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131256"
+    },
+    {
+      "english": "That's a winning attitude, for sure.",
+      "portuguese": "Essa é uma atitude vencedora, com certeza.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131258"
+    },
+    {
+      "english": "Believe in the process, it works.",
+      "portuguese": "Confie no processo, funciona.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131261"
+    },
+    {
+      "english": "Your growth is impressive, wow.",
+      "portuguese": "Seu crescimento é impressionante, uau.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131263"
+    },
+    {
+      "english": "That sounds like a success plan.",
+      "portuguese": "Isso soa como um plano de sucesso.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131265"
+    },
+    {
+      "english": "Your determination is inspiring, truly.",
+      "portuguese": "Sua determinação é inspiradora, de verdade.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131267"
+    },
+    {
+      "english": "Let's tackle this, together!",
+      "portuguese": "Vamos encarar isso, juntos!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131269"
+    },
+    {
+      "english": "That's a forward-thinking approach.",
+      "portuguese": "Essa é uma abordagem progressista.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131272"
+    },
+    {
+      "english": "Your confidence is well-placed, totally.",
+      "portuguese": "Sua confiança é bem colocada, totalmente.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131274"
+    },
+    {
+      "english": "That's a smart move, indeed.",
+      "portuguese": "Esse é um movimento inteligente, de fato.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131277"
+    },
+    {
+      "english": "Your insights are gold, thank you.",
+      "portuguese": "Suas ideias valem ouro, obrigado.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131279"
+    },
+    {
+      "english": "This is exactly the right path.",
+      "portuguese": "Este é exatamente o caminho certo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131280"
+    },
+    {
+      "english": "That's a fantastic outlook, friend.",
+      "portuguese": "Essa é uma perspectiva fantástica, amigo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131283"
+    },
+    {
+      "english": "You're a natural problem-solver, yes!",
+      "portuguese": "Você é um solucionador nato, sim!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131285"
+    },
+    {
+      "english": "That shows real courage, wow.",
+      "portuguese": "Isso mostra coragem de verdade, uau.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131287"
+    },
+    {
+      "english": "Your commitment shines through, friend.",
+      "portuguese": "Seu comprometimento brilha, amigo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131289"
+    },
+    {
+      "english": "This way forward is perfect, agree?",
+      "portuguese": "Este caminho adiante é perfeito, concorda?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131291"
+    },
+    {
+      "english": "Your positive energy is key, yes!",
+      "portuguese": "Sua energia positiva é a chave, sim!",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131293"
+    },
+    {
+      "english": "That's spot on, totally agree.",
+      "portuguese": "Isso tá certinho, concordo plenamente.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131295"
+    },
+    {
+      "english": "I'm with you on that, for sure.",
+      "portuguese": "Tô contigo nessa, com certeza.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131298"
+    },
+    {
+      "english": "You hit the nail on the head.",
+      "portuguese": "Você acertou em cheio.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131300"
+    },
+    {
+      "english": "Couldn't agree more, my friend.",
+      "portuguese": "Não podia concordar mais, meu chapa.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131302"
+    },
+    {
+      "english": "Yeah, that makes perfect sense.",
+      "portuguese": "Sim, isso faz todo sentido.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131304"
+    },
+    {
+      "english": "You read my mind there.",
+      "portuguese": "Você leu minha mente aí.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131306"
+    },
+    {
+      "english": "I see eye to eye with you.",
+      "portuguese": "Concordo plenamente com você.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131308"
+    },
+    {
+      "english": "That's a great point, really.",
+      "portuguese": "Esse é um ótimo ponto, de verdade.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131314"
+    },
+    {
+      "english": "Totally on the same page.",
+      "portuguese": "Totalmente na mesma página.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131323"
+    },
+    {
+      "english": "I guess you're right about that.",
+      "portuguese": "Acho que você tem razão nisso.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131325"
+    },
+    {
+      "english": "I beg to differ on that.",
+      "portuguese": "Permita-me discordar quanto a isso.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131327"
+    },
+    {
+      "english": "That's not quite how I see it.",
+      "portuguese": "Não é bem assim que eu vejo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131329"
+    },
+    {
+      "english": "We'll have to agree to disagree.",
+      "portuguese": "Teremos que concordar em discordar.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131331"
+    },
+    {
+      "english": "I have my doubts about that.",
+      "portuguese": "Tenho minhas dúvidas sobre isso.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131333"
+    },
+    {
+      "english": "That's not my cup of tea.",
+      "portuguese": "Isso não é bem a minha praia.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131335"
+    },
+    {
+      "english": "I'm not convinced by that argument.",
+      "portuguese": "Não me convence esse argumento.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131338"
+    },
+    {
+      "english": "I think you're missing something.",
+      "portuguese": "Acho que você está perdendo algo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131340"
+    },
+    {
+      "english": "That's a bit of a stretch.",
+      "portuguese": "Isso é um pouco forçado.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131342"
+    },
+    {
+      "english": "I don't really buy that.",
+      "portuguese": "Não compro muito isso não.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131344"
+    },
+    {
+      "english": "I see it differently, actually.",
+      "portuguese": "Eu vejo diferente, na verdade.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131346"
+    },
+    {
+      "english": "That's debatable, wouldn't you say?",
+      "portuguese": "Isso é discutível, não acha?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131348"
+    },
+    {
+      "english": "I'm on the fence about this.",
+      "portuguese": "Estou em cima do muro quanto a isso.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131350"
+    },
+    {
+      "english": "That doesn't sound right to me.",
+      "portuguese": "Isso não me soa certo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131352"
+    },
+    {
+      "english": "I can't get behind that idea.",
+      "portuguese": "Não consigo apoiar essa ideia.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131354"
+    },
+    {
+      "english": "Maybe we should rethink this.",
+      "portuguese": "Talvez devêssemos repensar isso.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131356"
+    },
+    {
+      "english": "I'm not feeling that at all.",
+      "portuguese": "Não estou sentindo isso, de forma alguma.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131358"
+    },
+    {
+      "english": "That's a tough one to agree on.",
+      "portuguese": "Essa é difícil de concordar.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131360"
+    },
+    {
+      "english": "Right, let's get this done.",
+      "portuguese": "Certo, vamos resolver isso logo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131362"
+    },
+    {
+      "english": "That's the plan, then.",
+      "portuguese": "Esse é o plano, então.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131364"
+    },
+    {
+      "english": "Sounds good, let's do it.",
+      "portuguese": "Parece bom, vamos nessa.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131366"
+    },
+    {
+      "english": "Exactly what I was thinking.",
+      "portuguese": "Exatamente o que eu pensava.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131368"
+    },
+    {
+      "english": "I'm totally on board with you.",
+      "portuguese": "Estou totalmente com você.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131370"
+    },
+    {
+      "english": "Good idea, I like it.",
+      "portuguese": "Boa ideia, gostei.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131372"
+    },
+    {
+      "english": "Okay, makes sense, let's try.",
+      "portuguese": "Ok, faz sentido, vamos tentar.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131375"
+    },
+    {
+      "english": "That's a solid approach, agreed.",
+      "portuguese": "Essa é uma abordagem sólida, concordo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131379"
+    },
+    {
+      "english": "We might need another look.",
+      "portuguese": "Talvez precisemos olhar de novo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131381"
+    },
+    {
+      "english": "That's one way to see it.",
+      "portuguese": "Essa é uma maneira de ver.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131383"
+    },
+    {
+      "english": "I have a different perspective.",
+      "portuguese": "Tenho uma perspectiva diferente.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131385"
+    },
+    {
+      "english": "Let's consider other options.",
+      "portuguese": "Vamos considerar outras opções.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131387"
+    },
+    {
+      "english": "That doesn't quite work for me.",
+      "portuguese": "Isso não funciona bem para mim.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131391"
+    },
+    {
+      "english": "I'm hesitant on that one.",
+      "portuguese": "Estou hesitante quanto a isso.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131393"
+    },
+    {
+      "english": "Can we revisit that later?",
+      "portuguese": "Podemos rever isso depois?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131395"
+    },
+    {
+      "english": "That raises some concerns.",
+      "portuguese": "Isso levanta algumas preocupações.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-10-28T09:08:45.131397"
     }
   ],
-  "last_updated": "2026-10-27T08:30:36.242225"
+  "last_updated": "2026-10-28T09:08:45.131399"
 }
