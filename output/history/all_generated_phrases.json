@@ -8639,7 +8639,727 @@
       "portuguese": "Isso levanta algumas preocupações.",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-10-28T09:08:45.131397"
+    },
+    {
+      "english": "What's the weather like today?",
+      "portuguese": "Como está o tempo hoje?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156866"
+    },
+    {
+      "english": "It's very hot, isn't it?",
+      "portuguese": "Está muito calor, né?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156879"
+    },
+    {
+      "english": "It's quite cold outside.",
+      "portuguese": "Está bastante frio lá fora.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156882"
+    },
+    {
+      "english": "The sun is shining brightly.",
+      "portuguese": "O sol está brilhando forte.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156885"
+    },
+    {
+      "english": "It looks like rain is coming.",
+      "portuguese": "Parece que vai chover.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156888"
+    },
+    {
+      "english": "What a beautiful day!",
+      "portuguese": "Que dia lindo!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156890"
+    },
+    {
+      "english": "It's a bit cloudy today.",
+      "portuguese": "Está um pouco nublado hoje.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156893"
+    },
+    {
+      "english": "The wind is blowing hard.",
+      "portuguese": "O vento está soprando forte.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156898"
+    },
+    {
+      "english": "Don't forget your umbrella.",
+      "portuguese": "Não esqueça o guarda-chuva.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156902"
+    },
+    {
+      "english": "It's perfect weather for a walk.",
+      "portuguese": "Está um tempo perfeito para caminhar.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156905"
+    },
+    {
+      "english": "How's your day going?",
+      "portuguese": "Como vai o seu dia?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156908"
+    },
+    {
+      "english": "Everything is going well, thanks.",
+      "portuguese": "Tudo vai bem, obrigado(a).",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156913"
+    },
+    {
+      "english": "Not too bad, and you?",
+      "portuguese": "Nada mal, e você?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156916"
+    },
+    {
+      "english": "Busy as always, you know.",
+      "portuguese": "Ocupado(a) como sempre, sabe?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156918"
+    },
+    {
+      "english": "Just relaxing today.",
+      "portuguese": "Só relaxando hoje.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156921"
+    },
+    {
+      "english": "Anything new happening?",
+      "portuguese": "Alguma novidade?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156923"
+    },
+    {
+      "english": "Same old, same old.",
+      "portuguese": "Tudo igual, como sempre.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156928"
+    },
+    {
+      "english": "Glad to see you!",
+      "portuguese": "Que bom te ver!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156930"
+    },
+    {
+      "english": "Long time no see!",
+      "portuguese": "Quanto tempo!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156932"
+    },
+    {
+      "english": "Enjoy your weekend!",
+      "portuguese": "Bom final de semana!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156935"
+    },
+    {
+      "english": "Have a good evening.",
+      "portuguese": "Tenha uma boa noite.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156937"
+    },
+    {
+      "english": "It's getting dark already.",
+      "portuguese": "Já está escurecendo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156940"
+    },
+    {
+      "english": "Morning, how are you?",
+      "portuguese": "Bom dia, como vai?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156942"
+    },
+    {
+      "english": "Afternoon, everything okay?",
+      "portuguese": "Boa tarde, tudo bem?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156945"
+    },
+    {
+      "english": "Evening, hope you're well.",
+      "portuguese": "Boa noite, espero que esteja bem.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156948"
+    },
+    {
+      "english": "Can you believe this weather?",
+      "portuguese": "Acredita neste tempo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156950"
+    },
+    {
+      "english": "It's freezing outside!",
+      "portuguese": "Está congelando lá fora!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156953"
+    },
+    {
+      "english": "So humid today, right?",
+      "portuguese": "Tão úmido hoje, né?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156955"
+    },
+    {
+      "english": "Finally, some sunshine!",
+      "portuguese": "Finalmente, um pouco de sol!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156958"
+    },
+    {
+      "english": "Let's talk later.",
+      "portuguese": "Falamos depois.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156960"
+    },
+    {
+      "english": "What's the forecast, do you know?",
+      "portuguese": "Qual a previsão do tempo, você sabe?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156963"
+    },
+    {
+      "english": "Will it rain this afternoon?",
+      "portuguese": "Vai chover esta tarde?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156966"
+    },
+    {
+      "english": "Should I bring a jacket?",
+      "portuguese": "Devo trazer uma jaqueta?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156969"
+    },
+    {
+      "english": "How’s the temperature there?",
+      "portuguese": "Como está a temperatura aí?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156973"
+    },
+    {
+      "english": "Is it windy usually here?",
+      "portuguese": "Costuma ventar muito aqui?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156977"
+    },
+    {
+      "english": "Crazy weather, isn't it?",
+      "portuguese": "Tempo maluco, não é?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156980"
+    },
+    {
+      "english": "Is it going to clear up soon?",
+      "portuguese": "Vai melhorar logo?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156983"
+    },
+    {
+      "english": "What's your favorite weather?",
+      "portuguese": "Qual seu clima preferido?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156985"
+    },
+    {
+      "english": "I love sunny days, how about you?",
+      "portuguese": "Adoro dias de sol, e você?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156990"
+    },
+    {
+      "english": "This humidity is intense, right?",
+      "portuguese": "Essa umidade está forte, né?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156993"
+    },
+    {
+      "english": "Are thunderstorms common here?",
+      "portuguese": "É comum ter trovoadas aqui?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156995"
+    },
+    {
+      "english": "How do you deal with the cold?",
+      "portuguese": "Como você lida com o frio?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.156998"
+    },
+    {
+      "english": "Did you see that rainbow?",
+      "portuguese": "Você viu aquele arco-íris?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157000"
+    },
+    {
+      "english": "Hope it stays nice all day.",
+      "portuguese": "Espero que continue bom o dia.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157003"
+    },
+    {
+      "english": "Perfect day for staying inside.",
+      "portuguese": "Dia perfeito pra ficar em casa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157005"
+    },
+    {
+      "english": "Is it always this foggy?",
+      "portuguese": "É sempre assim, com neblina?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157008"
+    },
+    {
+      "english": "What do people usually do?",
+      "portuguese": "O que as pessoas fazem normalmente?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157010"
+    },
+    {
+      "english": "Any plans for the nice weather?",
+      "portuguese": "Algum plano para o tempo bom?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157013"
+    },
+    {
+      "english": "It’s a bit chilly this morning.",
+      "portuguese": "Está um pouco frio esta manhã.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157016"
+    },
+    {
+      "english": "We should go to the beach.",
+      "portuguese": "Deveríamos ir à praia.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157018"
+    },
+    {
+      "english": "Is there much sun expected?",
+      "portuguese": "Vai ter muito sol previsto?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157021"
+    },
+    {
+      "english": "How’s the air quality today?",
+      "portuguese": "Como está a qualidade do ar?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157024"
+    },
+    {
+      "english": "Can we sit outside?",
+      "portuguese": "Podemos sentar lá fora?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157026"
+    },
+    {
+      "english": "This rain is relentless, isn't it?",
+      "portuguese": "Essa chuva não para, né?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157029"
+    },
+    {
+      "english": "What's the wind like right now?",
+      "portuguese": "Como está o vento agora?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157032"
+    },
+    {
+      "english": "Enjoy the sunshine while it lasts.",
+      "portuguese": "Aproveite o sol enquanto dura.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157034"
+    },
+    {
+      "english": "Shall we open the window?",
+      "portuguese": "Vamos abrir a janela?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157037"
+    },
+    {
+      "english": "I hope it cools down soon.",
+      "portuguese": "Espero que esfrie logo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157039"
+    },
+    {
+      "english": "What a change in temperature!",
+      "portuguese": "Que mudança de temperatura!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157042"
+    },
+    {
+      "english": "This weather, it makes you happy, right?",
+      "portuguese": "Esse tempo, te deixa feliz, né?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157044"
+    },
+    {
+      "english": "A beautiful day, a beautiful mood.",
+      "portuguese": "Um dia lindo, um astral ótimo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157047"
+    },
+    {
+      "english": "Good weather, good vibes.",
+      "portuguese": "Tempo bom, energia boa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157050"
+    },
+    {
+      "english": "It's a great day to try something new.",
+      "portuguese": "É um ótimo dia pra tentar algo novo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157053"
+    },
+    {
+      "english": "Keep a positive attitude, always.",
+      "portuguese": "Mantenha a atitude positiva, sempre.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157055"
+    },
+    {
+      "english": "This sunshine is very energizing.",
+      "portuguese": "Esse sol tá muito energizante.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157058"
+    },
+    {
+      "english": "You're doing great, despite the heat.",
+      "portuguese": "Você está indo bem, apesar do calor.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157061"
+    },
+    {
+      "english": "Every cloud has a silver lining.",
+      "portuguese": "Toda nuvem tem um lado bom.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157067"
+    },
+    {
+      "english": "Let's focus on the good things.",
+      "portuguese": "Vamos focar nas coisas boas.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157070"
+    },
+    {
+      "english": "A little rain never hurt anyone.",
+      "portuguese": "Uma chuvinha não fez mal a ninguém.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157072"
+    },
+    {
+      "english": "Your optimism is contagious.",
+      "portuguese": "Seu otimismo é contagiante.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157075"
+    },
+    {
+      "english": "Think happy thoughts, it helps.",
+      "portuguese": "Pense em coisas felizes, ajuda.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157077"
+    },
+    {
+      "english": "What a refreshing breeze!",
+      "portuguese": "Que brisa refrescante!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157080"
+    },
+    {
+      "english": "This weather is perfect for a walk.",
+      "portuguese": "Esse tempo está perfeito pra caminhar.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157082"
+    },
+    {
+      "english": "Stay positive, even on cloudy days.",
+      "portuguese": "Mantenha-se positivo, mesmo em dias nublados.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157085"
+    },
+    {
+      "english": "You handle this weather so well.",
+      "portuguese": "Você lida tão bem com esse tempo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157088"
+    },
+    {
+      "english": "Let's embrace the current conditions.",
+      "portuguese": "Vamos abraçar as condições atuais.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157090"
+    },
+    {
+      "english": "A little change of weather, a new perspective.",
+      "portuguese": "Uma mudança de tempo, uma nova perspectiva.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157093"
+    },
+    {
+      "english": "Wonderful day, isn't it?",
+      "portuguese": "Dia maravilhoso, não acha?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157098"
+    },
+    {
+      "english": "This sunshine feels like a reward.",
+      "portuguese": "Esse sol parece uma recompensa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157101"
+    },
+    {
+      "english": "Keep up the great energy!",
+      "portuguese": "Mantenha essa ótima energia!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157103"
+    },
+    {
+      "english": "It's a good day to feel good.",
+      "portuguese": "É um bom dia pra se sentir bem.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157106"
+    },
+    {
+      "english": "Don't let the weather get you down.",
+      "portuguese": "Não deixe o tempo te abater.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157108"
+    },
+    {
+      "english": "That's a smart way to deal with it.",
+      "portuguese": "Essa é uma forma inteligente de lidar.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157111"
+    },
+    {
+      "english": "Enjoying this lovely atmosphere.",
+      "portuguese": "Curtindo essa atmosfera agradável.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157113"
+    },
+    {
+      "english": "Your positivity is inspiring.",
+      "portuguese": "Sua positividade é inspiradora.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157116"
+    },
+    {
+      "english": "Today feels promising, doesn't it?",
+      "portuguese": "Hoje parece promissor, não acha?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157119"
+    },
+    {
+      "english": "This weather is actually quite pleasant.",
+      "portuguese": "Esse tempo é na verdade bem agradável.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157121"
+    },
+    {
+      "english": "This weather, it truly reflects my mood.",
+      "portuguese": "Este tempo, reflete bem meu humor.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157124"
+    },
+    {
+      "english": "I need some patience with this humidity.",
+      "portuguese": "Preciso de paciência com esta umidade.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157127"
+    },
+    {
+      "english": "Let's just breathe it all in, you know?",
+      "portuguese": "Vamos só respirar tudo isso, sabe?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157130"
+    },
+    {
+      "english": "Thinking deeply, with this gentle rain.",
+      "portuguese": "Pensando fundo, com esta chuvinha mansa.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157132"
+    },
+    {
+      "english": "It's okay to feel slow, on days like this.",
+      "portuguese": "Tudo bem se sentir lento, em dias assim.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157135"
+    },
+    {
+      "english": "This calm air, it brings such peace.",
+      "portuguese": "Este ar calmo, traz tanta paz.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157138"
+    },
+    {
+      "english": "Sometimes, the weather matches our inner thoughts.",
+      "portuguese": "Às vezes, o tempo combina com nossos pensamentos.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157153"
+    },
+    {
+      "english": "I'm being very honest, about this cold.",
+      "portuguese": "Estou sendo bem sincero, com este frio.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157159"
+    },
+    {
+      "english": "This unexpected sun, a good sign perhaps?",
+      "portuguese": "Este sol inesperado, um bom sinal talvez?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157162"
+    },
+    {
+      "english": "I'm learning to appreciate this weather, slowly.",
+      "portuguese": "Estou aprendendo a gostar deste tempo, aos poucos.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157165"
+    },
+    {
+      "english": "This warmth, it just makes me feel hopeful.",
+      "portuguese": "Este calor, me deixa esperançoso.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157169"
+    },
+    {
+      "english": "Can we just sit here, for a moment?",
+      "portuguese": "Podemos só ficar aqui, um instante?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157172"
+    },
+    {
+      "english": "This quiet moment, under grey skies.",
+      "portuguese": "Este momento quieto, sob céus cinzentos.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157175"
+    },
+    {
+      "english": "I'm embracing this change, honestly.",
+      "portuguese": "Estou aceitando esta mudança, com franqueza.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157178"
+    },
+    {
+      "english": "This feeling is connected, to the weather.",
+      "portuguese": "Este sentimento está ligado, ao clima.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157181"
+    },
+    {
+      "english": "We need to be gentle, with ourselves too.",
+      "portuguese": "Precisamos ser gentis, connosco também.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157184"
+    },
+    {
+      "english": "The sky is speaking, to my heart.",
+      "portuguese": "O céu está falando, ao meu coração.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157187"
+    },
+    {
+      "english": "This gentle wind, carries my worries away.",
+      "portuguese": "Este vento suave, leva minhas preocupações.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157191"
+    },
+    {
+      "english": "Let's pause, and truly appreciate this.",
+      "portuguese": "Vamos pausar, e apreciar isto de verdade.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157194"
+    },
+    {
+      "english": "This weather makes me reflect, a lot.",
+      "portuguese": "Este tempo me faz refletir, bastante.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157197"
+    },
+    {
+      "english": "I'm feeling quite introspective today.",
+      "portuguese": "Sinto-me bastante introspectivo hoje.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157199"
+    },
+    {
+      "english": "This quietness, it’s good for the soul.",
+      "portuguese": "Esta quietude, faz bem à alma.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157203"
+    },
+    {
+      "english": "I’m trying to find the good, always.",
+      "portuguese": "Estou tentando achar o bem, sempre.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157207"
+    },
+    {
+      "english": "This moment feels very sincere, doesn't it?",
+      "portuguese": "Este momento parece bem sincero, não é?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157210"
+    },
+    {
+      "english": "Maybe this weather teaches us something.",
+      "portuguese": "Talvez este tempo nos ensine algo.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157212"
+    },
+    {
+      "english": "I’m taking my time, with the rain.",
+      "portuguese": "Estou levando meu tempo, com a chuva.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157215"
+    },
+    {
+      "english": "This peacefulness is truly needed.",
+      "portuguese": "Esta paz é muito necessária.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157218"
+    },
+    {
+      "english": "I’m being completely honest, about this.",
+      "portuguese": "Estou sendo totalmente honesto, sobre isto.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157221"
+    },
+    {
+      "english": "Let's just be present, in this moment.",
+      "portuguese": "Vamos só estar presentes, neste instante.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157224"
+    },
+    {
+      "english": "This weather invites deep contemplation.",
+      "portuguese": "Este tempo convida à profunda contemplação.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157227"
+    },
+    {
+      "english": "Grab an umbrella, just in case.",
+      "portuguese": "Pega um guarda-chuva, por precaução.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157230"
+    },
+    {
+      "english": "It looks like rain, better stay dry.",
+      "portuguese": "Parece que vai chover, melhor se manter seco.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157232"
+    },
+    {
+      "english": "So much wind today, hold onto your hat!",
+      "portuguese": "Venta muito hoje, segura o chapéu!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-10-30T09:21:34.157235"
     }
   ],
-  "last_updated": "2026-10-28T09:08:45.131399"
+  "last_updated": "2026-10-30T09:21:34.157237"
 }
