@@ -10799,7 +10799,727 @@
       "portuguese": "Paz interior, sua verdadeira riqueza.",
       "category": "Positive Life",
       "generated_at": "2026-11-01T09:54:47.392319"
+    },
+    {
+      "english": "Good morning, everyone,",
+      "portuguese": "Bom dia, pessoal,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194322"
+    },
+    {
+      "english": "What time is it, please?",
+      "portuguese": "Que horas são, por favor?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194338"
+    },
+    {
+      "english": "I'm running late,",
+      "portuguese": "Estou atrasado(a),",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194344"
+    },
+    {
+      "english": "I need coffee, badly,",
+      "portuguese": "Preciso de café, urgente,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194347"
+    },
+    {
+      "english": "How was your night?",
+      "portuguese": "Como foi a noite?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194350"
+    },
+    {
+      "english": "Time for breakfast,",
+      "portuguese": "Hora do café da manhã,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194352"
+    },
+    {
+      "english": "Just waking up now,",
+      "portuguese": "Acordando agora,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194355"
+    },
+    {
+      "english": "What's the plan today?",
+      "portuguese": "Qual é o plano hoje?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194360"
+    },
+    {
+      "english": "Ready for the day,",
+      "portuguese": "Pronto(a) para o dia,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194363"
+    },
+    {
+      "english": "Let's do this,",
+      "portuguese": "Vamos lá,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194367"
+    },
+    {
+      "english": "Almost ready, hold on,",
+      "portuguese": "Quase pronto(a), espere um pouco,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194369"
+    },
+    {
+      "english": "Traffic is terrible,",
+      "portuguese": "O trânsito está terrível,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194372"
+    },
+    {
+      "english": "Heading out now,",
+      "portuguese": "Saindo agora,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194374"
+    },
+    {
+      "english": "What a rush,",
+      "portuguese": "Que correria,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194379"
+    },
+    {
+      "english": "Need a quick break,",
+      "portuguese": "Preciso de uma pausa rápida,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194381"
+    },
+    {
+      "english": "How's your morning going?",
+      "portuguese": "Como vai sua manhã?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194384"
+    },
+    {
+      "english": "Just checking in,",
+      "portuguese": "Só dando um alô,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194386"
+    },
+    {
+      "english": "Back home finally,",
+      "portuguese": "De volta para casa finalmente,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194389"
+    },
+    {
+      "english": "Time to relax,",
+      "portuguese": "Hora de relaxar,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194391"
+    },
+    {
+      "english": "What a long day,",
+      "portuguese": "Que dia longo,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194394"
+    },
+    {
+      "english": "Let's grab some food,",
+      "portuguese": "Vamos comer algo,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194396"
+    },
+    {
+      "english": "Dinner is ready,",
+      "portuguese": "O jantar está pronto,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194399"
+    },
+    {
+      "english": "Feeling tired already,",
+      "portuguese": "Já me sinto cansado(a),",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194401"
+    },
+    {
+      "english": "Good night, everyone,",
+      "portuguese": "Boa noite, pessoal,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194404"
+    },
+    {
+      "english": "Sleep well,",
+      "portuguese": "Durma bem,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194406"
+    },
+    {
+      "english": "See you tomorrow,",
+      "portuguese": "Até amanhã,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194409"
+    },
+    {
+      "english": "What a relief,",
+      "portuguese": "Que alívio,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194411"
+    },
+    {
+      "english": "Let's wrap this up,",
+      "portuguese": "Vamos terminar isto,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194414"
+    },
+    {
+      "english": "Can't wait to rest,",
+      "portuguese": "Mal posso esperar para descansar,",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194416"
+    },
+    {
+      "english": "What time do you usually wake up?",
+      "portuguese": "A que horas você costuma acordar?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194421"
+    },
+    {
+      "english": "Do you prefer tea or coffee?",
+      "portuguese": "Você prefere chá ou café?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194424"
+    },
+    {
+      "english": "Do you exercise in the morning?",
+      "portuguese": "Você se exercita pela manhã?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194427"
+    },
+    {
+      "english": "How do you get to work?",
+      "portuguese": "Como você vai para o trabalho?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194431"
+    },
+    {
+      "english": "What do you usually eat for lunch?",
+      "portuguese": "O que você geralmente almoça?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194434"
+    },
+    {
+      "english": "Do you take a nap in the afternoon?",
+      "portuguese": "Você tira uma soneca à tarde?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194437"
+    },
+    {
+      "english": "When do you usually start working?",
+      "portuguese": "Quando você costuma começar a trabalhar?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194440"
+    },
+    {
+      "english": "Do you have a specific evening routine?",
+      "portuguese": "Você tem uma rotina noturna específica?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194442"
+    },
+    {
+      "english": "What do you do to unwind?",
+      "portuguese": "O que você faz para relaxar?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194445"
+    },
+    {
+      "english": "Do you read before sleeping?",
+      "portuguese": "Você lê antes de dormir?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194447"
+    },
+    {
+      "english": "What time do you typically go to bed?",
+      "portuguese": "A que horas você normalmente vai para a cama?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194450"
+    },
+    {
+      "english": "Are you a morning person or night owl?",
+      "portuguese": "Você é uma pessoa matutina ou noturna?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194452"
+    },
+    {
+      "english": "What's the first thing you do when you wake up?",
+      "portuguese": "Qual a primeira coisa que você faz ao acordar?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194455"
+    },
+    {
+      "english": "Do you check your phone immediately?",
+      "portuguese": "Você checa seu celular imediatamente?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194458"
+    },
+    {
+      "english": "Do you prefer to plan your day?",
+      "portuguese": "Você prefere planejar seu dia?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194460"
+    },
+    {
+      "english": "What helps you focus during the day?",
+      "portuguese": "O que te ajuda a focar durante o dia?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194463"
+    },
+    {
+      "english": "Do you take short breaks often?",
+      "portuguese": "Você faz pausas curtas com frequência?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194465"
+    },
+    {
+      "english": "How do you handle interruptions?",
+      "portuguese": "Como você lida com interrupções?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194468"
+    },
+    {
+      "english": "Do you enjoy cooking dinner?",
+      "portuguese": "Você gosta de cozinhar o jantar?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194470"
+    },
+    {
+      "english": "What's a typical dinner for you?",
+      "portuguese": "Qual é um jantar típico para você?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194473"
+    },
+    {
+      "english": "Do you watch TV in the evening?",
+      "portuguese": "Você assiste TV à noite?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194475"
+    },
+    {
+      "english": "Do you prefer to stay in or go out?",
+      "portuguese": "Você prefere ficar em casa ou sair?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194478"
+    },
+    {
+      "english": "What time do you usually have dinner?",
+      "portuguese": "A que horas você costuma jantar?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194480"
+    },
+    {
+      "english": "Do you have any hobbies you do daily?",
+      "portuguese": "Você tem algum hobby que pratica diariamente?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194483"
+    },
+    {
+      "english": "How do you wind down before bed?",
+      "portuguese": "Como você relaxa antes de dormir?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194485"
+    },
+    {
+      "english": "Do you prepare your clothes for tomorrow?",
+      "portuguese": "Você prepara suas roupas para amanhã?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194488"
+    },
+    {
+      "english": "Do you set an alarm for the morning?",
+      "portuguese": "Você ajusta um alarme para de manhã?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194490"
+    },
+    {
+      "english": "What's one thing you want to improve?",
+      "portuguese": "O que você quer melhorar?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194493"
+    },
+    {
+      "english": "You've got this, believe in yourself.",
+      "portuguese": "Você consegue, acredite em si.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194496"
+    },
+    {
+      "english": "Start today with positive energy.",
+      "portuguese": "Comece o dia com energia positiva.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194498"
+    },
+    {
+      "english": "Every small step counts.",
+      "portuguese": "Cada pequeno passo conta.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194501"
+    },
+    {
+      "english": "Focus on your progress, not perfection.",
+      "portuguese": "Foque no seu progresso, não na perfeição.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194504"
+    },
+    {
+      "english": "Embrace challenges with courage.",
+      "portuguese": "Encare os desafios com coragem.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194509"
+    },
+    {
+      "english": "Your mindset shapes your reality.",
+      "portuguese": "Sua mentalidade molda sua realidade.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194511"
+    },
+    {
+      "english": "Be proud of your efforts.",
+      "portuguese": "Tenha orgulho dos seus esforços.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194514"
+    },
+    {
+      "english": "Today is a new opportunity.",
+      "portuguese": "Hoje é uma nova oportunidade.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194517"
+    },
+    {
+      "english": "Stay motivated, you're capable.",
+      "portuguese": "Mantenha-se motivado, você é capaz.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194520"
+    },
+    {
+      "english": "Believe in the power of 'yet'.",
+      "portuguese": "Acredite no poder do 'ainda'.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194523"
+    },
+    {
+      "english": "Your determination is admirable.",
+      "portuguese": "Sua determinação é admirável.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194528"
+    },
+    {
+      "english": "Cultivate a grateful heart.",
+      "portuguese": "Cultive um coração grato.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194530"
+    },
+    {
+      "english": "Let go of what drains you.",
+      "portuguese": "Solte o que te esgota.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194533"
+    },
+    {
+      "english": "Embrace the learning process.",
+      "portuguese": "Abrace o processo de aprendizado.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194536"
+    },
+    {
+      "english": "Find joy in the small things.",
+      "portuguese": "Encontre alegria nas pequenas coisas.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194540"
+    },
+    {
+      "english": "You are resilient and capable.",
+      "portuguese": "Você é resiliente e capaz.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194543"
+    },
+    {
+      "english": "Keep your goals in sight.",
+      "portuguese": "Mantenha seus objetivos à vista.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194545"
+    },
+    {
+      "english": "Positive thoughts create positive outcomes.",
+      "portuguese": "Pensamentos positivos criam resultados positivos.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194548"
+    },
+    {
+      "english": "You have the power to change.",
+      "portuguese": "Você tem o poder de mudar.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194550"
+    },
+    {
+      "english": "Celebrate your achievements, big or small.",
+      "portuguese": "Comemore suas conquistas, grandes ou pequenas.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194553"
+    },
+    {
+      "english": "Your effort is truly valued.",
+      "portuguese": "Seu esforço é realmente valorizado.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194556"
+    },
+    {
+      "english": "Stay focused on your journey.",
+      "portuguese": "Mantenha o foco na sua jornada.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194558"
+    },
+    {
+      "english": "You're making excellent progress.",
+      "portuguese": "Você está progredindo excelentemente.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194561"
+    },
+    {
+      "english": "Keep pushing forward with purpose.",
+      "portuguese": "Continue avançando com propósito.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194564"
+    },
+    {
+      "english": "This moment, I need quiet, reflection.",
+      "portuguese": "Este momento, preciso de calma, reflexão.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194567"
+    },
+    {
+      "english": "My inner voice, it guides me gently.",
+      "portuguese": "Minha voz interior, ela me guia com leveza.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194572"
+    },
+    {
+      "english": "Some days feel slow, that's okay.",
+      "portuguese": "Alguns dias parecem lentos, tudo bem.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194575"
+    },
+    {
+      "english": "I'm learning patience, day by day.",
+      "portuguese": "Estou aprendendo a paciência, dia após dia.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194578"
+    },
+    {
+      "english": "Honesty with myself, it's crucial.",
+      "portuguese": "A honestidade comigo, é crucial.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194581"
+    },
+    {
+      "english": "What truly matters, I ponder now.",
+      "portuguese": "O que realmente importa, pondero agora.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194584"
+    },
+    {
+      "english": "My feelings, I accept them fully.",
+      "portuguese": "Meus sentimentos, eu os aceito por inteiro.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194586"
+    },
+    {
+      "english": "This peace, I cultivate it daily.",
+      "portuguese": "Esta paz, eu a cultivo diariamente.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194589"
+    },
+    {
+      "english": "Today's challenge, I meet it bravely.",
+      "portuguese": "O desafio de hoje, eu o enfrento com coragem.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194592"
+    },
+    {
+      "english": "My energy, I conserve it wisely.",
+      "portuguese": "Minha energia, eu a conservo sabiamente.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194595"
+    },
+    {
+      "english": "Deeper understanding, I seek it.",
+      "portuguese": "Um entendimento mais profundo, eu o busco.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194597"
+    },
+    {
+      "english": "Moments of pause, they refresh me.",
+      "portuguese": "Momentos de pausa, eles me renovam.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194602"
+    },
+    {
+      "english": "What drains me, I must release it.",
+      "portuguese": "O que me drena, preciso soltar.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194605"
+    },
+    {
+      "english": "My core values, they anchor me.",
+      "portuguese": "Meus valores essenciais, eles me ancoram.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194608"
+    },
+    {
+      "english": "This inner calm, I cherish it.",
+      "portuguese": "Esta calma interior, eu a prezo.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194610"
+    },
+    {
+      "english": "Self-compassion, it's a practice.",
+      "portuguese": "Autocompaixão, é uma prática.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194614"
+    },
+    {
+      "english": "My authentic self, I honor it.",
+      "portuguese": "Meu eu autêntico, eu o honro.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194618"
+    },
+    {
+      "english": "Reflecting on progress, I smile.",
+      "portuguese": "Refletindo sobre o progresso, sorrio.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194621"
+    },
+    {
+      "english": "Gratitude fills my spirit now.",
+      "portuguese": "A gratidão preenche meu espírito agora.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194624"
+    },
+    {
+      "english": "Letting go, it's liberating, truly.",
+      "portuguese": "Deixar ir, é libertador, de verdade.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194627"
+    },
+    {
+      "english": "My intuition, it speaks clearly.",
+      "portuguese": "Minha intuição, ela fala claramente.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194630"
+    },
+    {
+      "english": "This quiet time, it feeds my soul.",
+      "portuguese": "Este tempo quieto, ele alimenta minha alma.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194632"
+    },
+    {
+      "english": "I embrace imperfection, it's human.",
+      "portuguese": "Eu abraço a imperfeição, é humano.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194635"
+    },
+    {
+      "english": "Finding meaning, that's my focus.",
+      "portuguese": "Encontrar sentido, esse é meu foco.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194638"
+    },
+    {
+      "english": "My own pace, I respect it.",
+      "portuguese": "Meu próprio ritmo, eu o respeito.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194641"
+    },
+    {
+      "english": "A moment of gratitude, always.",
+      "portuguese": "Um momento de gratidão, sempre.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194643"
+    },
+    {
+      "english": "What brings me joy, I seek it.",
+      "portuguese": "O que me traz alegria, eu busco.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194646"
+    },
+    {
+      "english": "Inner peace, it is my goal.",
+      "portuguese": "Paz interior, é o meu objetivo.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194649"
+    },
+    {
+      "english": "My perspective, I can shift it.",
+      "portuguese": "Minha perspectiva, eu posso mudá-la.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194651"
+    },
+    {
+      "english": "True self-care, it's essential.",
+      "portuguese": "Autocuidado verdadeiro, é essencial.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194654"
+    },
+    {
+      "english": "Wake up, stretch, and breathe deep.",
+      "portuguese": "Acorde, espreguice, e respire fundo.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194657"
+    },
+    {
+      "english": "Make your bed, start organized.",
+      "portuguese": "Arrume a cama, comece organizado.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194660"
+    },
+    {
+      "english": "What's for breakfast today?",
+      "portuguese": "O que é para o café da manhã hoje?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194663"
+    },
+    {
+      "english": "Grab your keys, don't forget your wallet.",
+      "portuguese": "Pegue as chaves, não esqueça a carteira.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194666"
+    },
+    {
+      "english": "Commute, traffic is usually heavy.",
+      "portuguese": "Vá para o trabalho, o trânsito é pesado.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194669"
+    },
+    {
+      "english": "Check emails, prioritize tasks.",
+      "portuguese": "Verifique e-mails, priorize tarefas.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194671"
+    },
+    {
+      "english": "Lunch break, step outside briefly.",
+      "portuguese": "Pausa para almoço, saia um pouco.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194674"
+    },
+    {
+      "english": "Meeting at two, be prepared.",
+      "portuguese": "Reunião às duas, esteja preparado.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194677"
+    },
+    {
+      "english": "Wrap up work, wind down now.",
+      "portuguese": "Termine o trabalho, relaxe agora.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-02T10:17:22.194680"
     }
   ],
-  "last_updated": "2026-11-01T09:54:47.392321"
+  "last_updated": "2026-11-02T10:17:22.194682"
 }
