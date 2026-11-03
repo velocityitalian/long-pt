@@ -11519,7 +11519,727 @@
       "portuguese": "Termine o trabalho, relaxe agora.",
       "category": "Daily Routine",
       "generated_at": "2026-11-02T10:17:22.194680"
+    },
+    {
+      "english": "Excuse me, which line goes downtown?",
+      "portuguese": "Com licença, qual linha vai pro centro?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835392"
+    },
+    {
+      "english": "Is this the right bus stop, sorry?",
+      "portuguese": "É aqui a parada certa, desculpa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835414"
+    },
+    {
+      "english": "How often does this train run?",
+      "portuguese": "Com que frequência passa este trem?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835416"
+    },
+    {
+      "english": "Where do I tap my ticket here?",
+      "portuguese": "Onde eu passo o cartão aqui?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835418"
+    },
+    {
+      "english": "Does this pass work, or is it different?",
+      "portuguese": "Esse passe serve, ou é outro?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835420"
+    },
+    {
+      "english": "I’m getting off at the next stop.",
+      "portuguese": "Eu vou descer na próxima parada.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835422"
+    },
+    {
+      "english": "Wait, are we going the right way?",
+      "portuguese": "Espera, estamos indo pro lado certo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835424"
+    },
+    {
+      "english": "Can you move, please, just a bit?",
+      "portuguese": "Você pode sair um pouco, por favor?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835428"
+    },
+    {
+      "english": "Sorry, I didn’t see you there.",
+      "portuguese": "Desculpa, eu não vi você.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835432"
+    },
+    {
+      "english": "How long is the ride to downtown?",
+      "portuguese": "Quanto tempo leva até o centro?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835435"
+    },
+    {
+      "english": "Is there a transfer to the subway?",
+      "portuguese": "Tem baldeação pra metrô?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835437"
+    },
+    {
+      "english": "I think I got on the wrong one.",
+      "portuguese": "Acho que embarquei no errado.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835438"
+    },
+    {
+      "english": "Oh, this is my stop, finally!",
+      "portuguese": "Ah, é minha parada, enfim!",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835440"
+    },
+    {
+      "english": "Excuse me, is there space over there?",
+      "portuguese": "Com licença, tem lugar ali?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835442"
+    },
+    {
+      "english": "No worries, I’ll stand here.",
+      "portuguese": "Sem problema, eu fico aqui.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835444"
+    },
+    {
+      "english": "Don’t worry, it’s right around here.",
+      "portuguese": "Relaxa, é bem pertinho daqui.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835448"
+    },
+    {
+      "english": "Is the station name in English?",
+      "portuguese": "O nome da estação é em inglês?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835449"
+    },
+    {
+      "english": "Does it get crowded here at rush hour?",
+      "portuguese": "Fica lotado aqui no horário de pico?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835451"
+    },
+    {
+      "english": "What time does it leave from here?",
+      "portuguese": "Que horas sai daqui?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835453"
+    },
+    {
+      "english": "I’m late, how do I get there fast?",
+      "portuguese": "Tô atrasado, como eu chego rápido?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835455"
+    },
+    {
+      "english": "Is there Wi‑Fi on this bus?",
+      "portuguese": "Tem Wi‑Fi nesse ônibus?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835457"
+    },
+    {
+      "english": "Thank you, you’re a lifesaver!",
+      "portuguese": "Obrigada, você salvou minha vida!",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835459"
+    },
+    {
+      "english": "Please, stop, I need this one.",
+      "portuguese": "Para, por favor, eu preciso desse.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835461"
+    },
+    {
+      "english": "That direction is exactly what I need.",
+      "portuguese": "Esse caminho é exatamente o que eu preciso.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835463"
+    },
+    {
+      "english": "Can I buy tickets on my phone?",
+      "portuguese": "Dá pra comprar bilhete pelo celular?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835464"
+    },
+    {
+      "english": "Oh no, the doors are closing!",
+      "portuguese": "Ai não, as portas estão fechando!",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835468"
+    },
+    {
+      "english": "Is there a map of the route?",
+      "portuguese": "Tem um mapa da rota?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835470"
+    },
+    {
+      "english": "We’re stuck, right, because of traffic?",
+      "portuguese": "Estamos parados, por causa do trânsito?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835472"
+    },
+    {
+      "english": "Let’s hurry, it’s about to arrive.",
+      "portuguese": "Vamos correndo, vai chegar agora.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835474"
+    },
+    {
+      "english": "You go first, I’ll follow you.",
+      "portuguese": "Vai na frente, eu vou atrás.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835476"
+    },
+    {
+      "english": "Hi, can you help me, please?",
+      "portuguese": "Oi, você pode me ajudar, por favor?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835478"
+    },
+    {
+      "english": "Which line goes to the mall, exactly?",
+      "portuguese": "Qual linha vai pro shopping, de verdade?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835480"
+    },
+    {
+      "english": "Is this bus direct, or do I switch?",
+      "portuguese": "Este ônibus é direto, ou precisa trocar?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835482"
+    },
+    {
+      "english": "Do I need to validate my ticket again?",
+      "portuguese": "Eu preciso validar o bilhete de novo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835483"
+    },
+    {
+      "english": "How do I ask for a stop reminder?",
+      "portuguese": "Como eu peço o aviso da próxima parada?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835485"
+    },
+    {
+      "english": "Where can I find the route schedule?",
+      "portuguese": "Onde tem o horário da linha?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835486"
+    },
+    {
+      "english": "Is there a live screen for arrivals?",
+      "portuguese": "Tem painel com as chegadas em tempo real?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835488"
+    },
+    {
+      "english": "Sorry, what stop is this called?",
+      "portuguese": "Com licença, como é o nome desta parada?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835489"
+    },
+    {
+      "english": "Can I sit here, or is it reserved?",
+      "portuguese": "Posso sentar aqui, ou é reservado?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835491"
+    },
+    {
+      "english": "Does this line run on Sundays too?",
+      "portuguese": "Essa linha também passa no domingo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835493"
+    },
+    {
+      "english": "What’s the best stop to transfer?",
+      "portuguese": "Qual é a melhor parada pra transferir?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835494"
+    },
+    {
+      "english": "Are there accessible options for wheelchairs?",
+      "portuguese": "Tem acesso para cadeiras de rodas aqui?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835496"
+    },
+    {
+      "english": "Is the station far from the center?",
+      "portuguese": "A estação fica longe do centro?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835498"
+    },
+    {
+      "english": "Do you know where the ticket office is?",
+      "portuguese": "Você sabe onde é a bilheteria?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835500"
+    },
+    {
+      "english": "What’s the cheapest way to get there?",
+      "portuguese": "Qual é o jeito mais barato pra chegar?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835502"
+    },
+    {
+      "english": "Does this route stop near the hospital?",
+      "portuguese": "Essa linha para perto do hospital?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835503"
+    },
+    {
+      "english": "Can I change platforms at the next stop?",
+      "portuguese": "Dá pra trocar de plataforma na próxima?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835505"
+    },
+    {
+      "english": "What should I do if I miss my stop?",
+      "portuguese": "Se eu passar, o que eu faço?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835507"
+    },
+    {
+      "english": "Is there any discount for students?",
+      "portuguese": "Tem desconto pra estudantes?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835508"
+    },
+    {
+      "english": "Is it better to walk from here?",
+      "portuguese": "Vale mais andar daqui a pé?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835510"
+    },
+    {
+      "english": "How long do we wait before it leaves?",
+      "portuguese": "A gente espera quanto até sair?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835511"
+    },
+    {
+      "english": "Can you confirm this is the right direction?",
+      "portuguese": "Confirma que é nessa direção, por favor?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835513"
+    },
+    {
+      "english": "Do I need exact change for the fare?",
+      "portuguese": "Precisa de troco certinho na passagem?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835516"
+    },
+    {
+      "english": "Is there a restroom at this station?",
+      "portuguese": "Tem banheiro na estação?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835517"
+    },
+    {
+      "english": "Which door opens for passengers?",
+      "portuguese": "Qual porta abre pra entrar?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835518"
+    },
+    {
+      "english": "Should I tap again when I transfer?",
+      "portuguese": "Eu bato de novo quando eu transferir?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835520"
+    },
+    {
+      "english": "Is there a safer route by foot nearby?",
+      "portuguese": "Tem caminho mais seguro andando por perto?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835522"
+    },
+    {
+      "english": "Do you know if the bus is delayed?",
+      "portuguese": "Você sabe se o ônibus vai atrasar?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835525"
+    },
+    {
+      "english": "What’s the quickest way from here, honestly?",
+      "portuguese": "Sinceramente, qual é o caminho mais rápido?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835527"
+    },
+    {
+      "english": "Thanks, I’ll follow you to the platform.",
+      "portuguese": "Valeu, vou seguir você até a plataforma.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835529"
+    },
+    {
+      "english": "This bus is packed, be quick.",
+      "portuguese": "Este ônibus está lotado, é rápido.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835531"
+    },
+    {
+      "english": "Hold on, we’re about to depart.",
+      "portuguese": "Segura aí, a gente vai sair.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835533"
+    },
+    {
+      "english": "Tickets first, depois você embarca.",
+      "portuguese": "Bilhete primeiro, depois você embarca.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835536"
+    },
+    {
+      "english": "Keep your ticket, don’t throw it.",
+      "portuguese": "Guarda o bilhete, não joga fora.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835538"
+    },
+    {
+      "english": "Let’s take the next one, no stress.",
+      "portuguese": "Pega o próximo, sem stress.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835540"
+    },
+    {
+      "english": "Mind the gap, please step carefully.",
+      "portuguese": "Cuidado com o vão, pise de leve.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835542"
+    },
+    {
+      "english": "This stop is right around the corner.",
+      "portuguese": "Esta parada é ali pertinho.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835544"
+    },
+    {
+      "english": "If you miss it, it happens.",
+      "portuguese": "Se perder, paciência, vem outro.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835545"
+    },
+    {
+      "english": "Check the signs, they’re pretty clear.",
+      "portuguese": "Olha a sinalização, tá bem claro.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835548"
+    },
+    {
+      "english": "That platform is over there, easy.",
+      "portuguese": "A plataforma é ali, é só seguir.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835550"
+    },
+    {
+      "english": "You can stand, just don’t block.",
+      "portuguese": "Pode ficar de pé, só não atrapalha.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835551"
+    },
+    {
+      "english": "They’ll announce it, pay attention.",
+      "portuguese": "Eles avisam, fica de olho.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835554"
+    },
+    {
+      "english": "You’re good, that’s the right carriage.",
+      "portuguese": "Tranquilo, é ali mesmo.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835556"
+    },
+    {
+      "english": "This line goes everywhere, mostly downtown.",
+      "portuguese": "Essa linha vai pra todo lado, bem mais centro.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835558"
+    },
+    {
+      "english": "No worries, the next connection comes soon.",
+      "portuguese": "Relaxa, a próxima conexão é logo.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835559"
+    },
+    {
+      "english": "Just swipe once, then relax.",
+      "portuguese": "Só passa uma vez, depois é de boas.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835561"
+    },
+    {
+      "english": "The driver won’t wait long, okay?",
+      "portuguese": "O motorista não espera muito, viu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835563"
+    },
+    {
+      "english": "If it’s delayed, they’ll post updates.",
+      "portuguese": "Se atrasar, eles colocam aviso.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835565"
+    },
+    {
+      "english": "Go straight, don’t turn around.",
+      "portuguese": "Vai reto, não dá meia volta.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835567"
+    },
+    {
+      "english": "From here, take one bus, done.",
+      "portuguese": "Dali sai um ônibus, acabou.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835569"
+    },
+    {
+      "english": "That route is a real lifesaver.",
+      "portuguese": "Essa linha salva mesmo.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835571"
+    },
+    {
+      "english": "They’re changing schedules, expect a surprise.",
+      "portuguese": "Mudaram os horários, prepara o coração.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835575"
+    },
+    {
+      "english": "Let’s get in line, it moves fast.",
+      "portuguese": "Forme a fila, anda rápido.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835577"
+    },
+    {
+      "english": "Ramps are there, accessible, no problem.",
+      "portuguese": "Tem rampa, é acessível, tranquila.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835579"
+    },
+    {
+      "english": "If it’s crowded, ask politely for space.",
+      "portuguese": "Se estiver cheio, pede espaço com educação.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835581"
+    },
+    {
+      "english": "That stop comes and goes, don’t miss it.",
+      "portuguese": "Essa parada passa e volta, não perde.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835583"
+    },
+    {
+      "english": "It’s quicker to walk a bit, honestly.",
+      "portuguese": "É mais rápido andar um pouco, sinceramente.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835585"
+    },
+    {
+      "english": "You’ll get it, just follow the signs.",
+      "portuguese": "Vai dar certo, segue a sinalização.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835588"
+    },
+    {
+      "english": "Don’t block the doors, everyone needs out.",
+      "portuguese": "Não trava a porta, todo mundo precisa sair.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835590"
+    },
+    {
+      "english": "Take your time, the ride won’t be long.",
+      "portuguese": "Vai com calma, não demora muito.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835593"
+    },
+    {
+      "english": "I feel calmer once I’m on board.",
+      "portuguese": "Eu fico mais calmo quando estou dentro.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835595"
+    },
+    {
+      "english": "Waiting helps me breathe, no rushing.",
+      "portuguese": "Esperar me ajuda a respirar, sem pressa.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835603"
+    },
+    {
+      "english": "Sometimes the ride feels longer than it is.",
+      "portuguese": "Às vezes, parece que dura mais.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835605"
+    },
+    {
+      "english": "I admit, I overthink every transfer.",
+      "portuguese": "Eu confesso, eu fico pensando demais na troca.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835607"
+    },
+    {
+      "english": "It’s not perfect, but it gets me there.",
+      "portuguese": "Não é perfeito, mas me leva.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835609"
+    },
+    {
+      "english": "I just try to stay patient.",
+      "portuguese": "Eu só tento manter a calma.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835610"
+    },
+    {
+      "english": "Honestly, I prefer less talking on trips.",
+      "portuguese": "Sinceramente, prefiro falar menos no caminho.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835612"
+    },
+    {
+      "english": "This schedule stresses me, but I manage.",
+      "portuguese": "Essa linha me deixa ansioso, mas eu aguento.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835615"
+    },
+    {
+      "english": "I don’t mind delays if people explain.",
+      "portuguese": "Eu não me importo com atrasos, se explicarem.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835618"
+    },
+    {
+      "english": "Please, take it easy, we’re all learning.",
+      "portuguese": "Por favor, vai com calma, a gente está aprendendo.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835620"
+    },
+    {
+      "english": "I’m not sure, but I’ll figure it out.",
+      "portuguese": "Eu não tenho certeza, mas eu vou entender.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835623"
+    },
+    {
+      "english": "I wish the signs were clearer sometimes.",
+      "portuguese": "Eu queria que as placas fossem mais claras.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835624"
+    },
+    {
+      "english": "I get nervous when trains change suddenly.",
+      "portuguese": "Eu fico nervoso quando o trem muda de repente.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835626"
+    },
+    {
+      "english": "I’m trying to stay grounded, even here.",
+      "portuguese": "Eu tô tentando ficar tranquilo, mesmo aqui.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835628"
+    },
+    {
+      "english": "If I wait a bit, it’ll be fine.",
+      "portuguese": "Se eu esperar um pouco, vai dar certo.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835630"
+    },
+    {
+      "english": "I’m grateful when staff are kind.",
+      "portuguese": "Eu fico grato quando os funcionários são gentis.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835632"
+    },
+    {
+      "english": "It’s okay to be confused, don’t panic.",
+      "portuguese": "Não tem problema se você confundir, sem pânico.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835634"
+    },
+    {
+      "english": "I need a minute, my brain’s tired.",
+      "portuguese": "Eu preciso de um minuto, minha cabeça cansou.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835636"
+    },
+    {
+      "english": "I’m learning, and I won’t rush myself.",
+      "portuguese": "Eu estou aprendendo, e não vou me apressar.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835638"
+    },
+    {
+      "english": "Sometimes I feel left behind, softly.",
+      "portuguese": "Às vezes, eu me sinto deixado, aos poucos.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835640"
+    },
+    {
+      "english": "I try to listen, even with noise.",
+      "portuguese": "Eu tento prestar atenção, mesmo com barulho.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835642"
+    },
+    {
+      "english": "I’m okay standing, just keep space.",
+      "portuguese": "Tudo bem eu ficar em pé, só respeita o espaço.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835644"
+    },
+    {
+      "english": "If it’s crowded, I’ll adjust quietly.",
+      "portuguese": "Se estiver cheio, eu me ajeito em silêncio.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835646"
+    },
+    {
+      "english": "I’m trying not to take it personally.",
+      "portuguese": "Eu estou tentando não levar pro lado pessoal.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835648"
+    },
+    {
+      "english": "The bus is stressful, but I cope.",
+      "portuguese": "O ônibus é estressante, mas eu lido.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835650"
+    },
+    {
+      "english": "I don’t want to be wrong, but it happens.",
+      "portuguese": "Eu não quero errar, mas às vezes acontece.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835652"
+    },
+    {
+      "english": "I take a deep breath, then I step in.",
+      "portuguese": "Eu respiro fundo, depois eu entro.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835654"
+    },
+    {
+      "english": "I’m thankful for calm people on board.",
+      "portuguese": "Eu sou grato por pessoas calmas no vagão.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835656"
+    },
+    {
+      "english": "Honestly, I learn best by trying once.",
+      "portuguese": "Sinceramente, eu aprendo tentando uma vez.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835657"
+    },
+    {
+      "english": "Even if I miss it, I’ll recover.",
+      "portuguese": "Se eu perder, tudo bem, eu volto depois.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-03T10:18:42.835659"
     }
   ],
-  "last_updated": "2026-11-02T10:17:22.194682"
+  "last_updated": "2026-11-03T10:18:42.835661"
 }
