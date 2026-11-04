@@ -12239,7 +12239,727 @@
       "portuguese": "Se eu perder, tudo bem, eu volto depois.",
       "category": "Public Transportation",
       "generated_at": "2026-11-03T10:18:42.835659"
+    },
+    {
+      "english": "I feel sick, I need help",
+      "portuguese": "Estou me sentindo mal, preciso de ajuda",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044559"
+    },
+    {
+      "english": "Are you okay, do you need anything?",
+      "portuguese": "Você está bem, precisa de alguma coisa?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044576"
+    },
+    {
+      "english": "Help me, I can’t breathe well",
+      "portuguese": "Me ajuda, eu não estou conseguindo respirar",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044580"
+    },
+    {
+      "english": "Call an ambulance, please",
+      "portuguese": "Chame uma ambulância, por favor",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044582"
+    },
+    {
+      "english": "Do you have water, please?",
+      "portuguese": "Você tem água, por favor?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044584"
+    },
+    {
+      "english": "I have a headache, it’s really bad",
+      "portuguese": "Estou com dor de cabeça, está bem forte",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044587"
+    },
+    {
+      "english": "My stomach hurts, what should I do?",
+      "portuguese": "Minha barriga está doendo, o que eu faço?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044590"
+    },
+    {
+      "english": "I’m dizzy, I feel like I’ll faint",
+      "portuguese": "Estou tonto, acho que vou desmaiar",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044595"
+    },
+    {
+      "english": "Stop, stay still, breathe slowly",
+      "portuguese": "Para, fica quieto, respira devagar",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044599"
+    },
+    {
+      "english": "Is there a doctor nearby?",
+      "portuguese": "Tem algum médico por aqui?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044602"
+    },
+    {
+      "english": "I think I ate something bad",
+      "portuguese": "Acho que comi algo estragado",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044604"
+    },
+    {
+      "english": "This hurts a lot, please be careful",
+      "portuguese": "Isso dói muito, por favor, tenha cuidado",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044606"
+    },
+    {
+      "english": "Do you know my allergies?",
+      "portuguese": "Você sabe minhas alergias?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044608"
+    },
+    {
+      "english": "I need my medicine, right now",
+      "portuguese": "Eu preciso do meu remédio, agora",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044611"
+    },
+    {
+      "english": "Where can I sit down, please?",
+      "portuguese": "Onde posso sentar, por favor?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044613"
+    },
+    {
+      "english": "I’m not feeling well, sorry",
+      "portuguese": "Não estou me sentindo bem, desculpa",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044615"
+    },
+    {
+      "english": "Do you have any bandages?",
+      "portuguese": "Você tem curativos?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044617"
+    },
+    {
+      "english": "I got a cut, it’s bleeding",
+      "portuguese": "Eu me cortei, está sangrando",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044620"
+    },
+    {
+      "english": "Hold this, please, don’t move",
+      "portuguese": "Segure isso, por favor, não se mexa",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044624"
+    },
+    {
+      "english": "Take a deep breath, you’ll be okay",
+      "portuguese": "Respira fundo, vai ficar tudo bem",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044627"
+    },
+    {
+      "english": "I have fever, I can’t sleep",
+      "portuguese": "Estou com febre, não consigo dormir",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044630"
+    },
+    {
+      "english": "What time did this start?",
+      "portuguese": "Que horas começou?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044632"
+    },
+    {
+      "english": "I’m having chest pain, please help",
+      "portuguese": "Estou com dor no peito, me ajude",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044634"
+    },
+    {
+      "english": "Is anyone here a first-aid helper?",
+      "portuguese": "Alguém aqui sabe primeiros socorros?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044637"
+    },
+    {
+      "english": "Let me check your temperature",
+      "portuguese": "Deixa eu medir sua temperatura",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044638"
+    },
+    {
+      "english": "It’s urgent, don’t wait",
+      "portuguese": "É urgente, não espere",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044642"
+    },
+    {
+      "english": "Does it get worse when you move?",
+      "portuguese": "Dói mais quando você mexe?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044645"
+    },
+    {
+      "english": "I need water and rest",
+      "portuguese": "Eu preciso de água e descanso",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044647"
+    },
+    {
+      "english": "Thanks, I feel better now",
+      "portuguese": "Obrigado, agora eu estou melhor",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044649"
+    },
+    {
+      "english": "What’s the safest thing to do now?",
+      "portuguese": "Qual é a coisa mais segura para fazer agora?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044651"
+    },
+    {
+      "english": "Do you have any symptoms besides pain?",
+      "portuguese": "Você tem algum sintoma além da dor?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044654"
+    },
+    {
+      "english": "When did this start, exactly, today?",
+      "portuguese": "Começou quando, exatamente, hoje?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044656"
+    },
+    {
+      "english": "Is the pain sharp, or more like pressure?",
+      "portuguese": "A dor é aguda, ou parece mais pressão?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044659"
+    },
+    {
+      "english": "Can you tell me where it hurts most?",
+      "portuguese": "Você pode me dizer onde dói mais?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044661"
+    },
+    {
+      "english": "Did this happen after eating something?",
+      "portuguese": "Isso aconteceu depois de comer algo?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044663"
+    },
+    {
+      "english": "Have you taken any medicine already?",
+      "portuguese": "Você já tomou algum remédio?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044664"
+    },
+    {
+      "english": "Any allergy reaction, like itching or swelling?",
+      "portuguese": "Teve alguma reação, coceira ou inchaço?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044667"
+    },
+    {
+      "english": "Are you short of breath right now?",
+      "portuguese": "Você está sem ar agora?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044668"
+    },
+    {
+      "english": "Does it get better when you rest?",
+      "portuguese": "Melhora quando você descansa?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044670"
+    },
+    {
+      "english": "What color is the mucus or vomit?",
+      "portuguese": "De que cor é o vômito ou a secreção?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044674"
+    },
+    {
+      "english": "Have you noticed any unusual bleeding?",
+      "portuguese": "Você viu algum sangramento estranho?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044677"
+    },
+    {
+      "english": "Can you speak normally, without trouble?",
+      "portuguese": "Você consegue falar normal, sem dificuldade?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044679"
+    },
+    {
+      "english": "Is your vision blurry or double?",
+      "portuguese": "Sua visão está embaçada ou dupla?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044681"
+    },
+    {
+      "english": "Any numbness in face, arm, or leg?",
+      "portuguese": "Você sente dormência no rosto, braço ou perna?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044683"
+    },
+    {
+      "english": "What’s your age, and any key conditions?",
+      "portuguese": "Qual é sua idade, e condições importantes?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044686"
+    },
+    {
+      "english": "Do you have an emergency contact number?",
+      "portuguese": "Você tem um contato de emergência?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044688"
+    },
+    {
+      "english": "Should I stay here with you?",
+      "portuguese": "Eu devo ficar aqui com você?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044690"
+    },
+    {
+      "english": "Would you like a blanket or coat?",
+      "portuguese": "Você quer um cobertor ou casaco?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044692"
+    },
+    {
+      "english": "Are you feeling worse, or the same?",
+      "portuguese": "Está piorando, ou está igual?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044694"
+    },
+    {
+      "english": "Can you rate the pain, from one to ten?",
+      "portuguese": "Pode avaliar a dor, de um a dez?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044696"
+    },
+    {
+      "english": "What medication are you usually allowed to take?",
+      "portuguese": "Que remédio você pode tomar normalmente?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044699"
+    },
+    {
+      "english": "Do you feel nausea, chills, or sweating?",
+      "portuguese": "Você sente enjoo, calafrios ou suor?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044701"
+    },
+    {
+      "english": "Is your skin hot, or cold to touch?",
+      "portuguese": "Sua pele está quente, ou fria ao toque?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044715"
+    },
+    {
+      "english": "Should I loosen your clothes a bit?",
+      "portuguese": "Eu devo afrouxar suas roupas um pouco?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044717"
+    },
+    {
+      "english": "Can you show me the spot that hurts?",
+      "portuguese": "Você pode me mostrar o lugar da dor?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044719"
+    },
+    {
+      "english": "Do you have a history of similar issues?",
+      "portuguese": "Você já teve algo parecido antes?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044721"
+    },
+    {
+      "english": "What do you think caused it, honestly?",
+      "portuguese": "Na sua opinião, o que causou isso?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044724"
+    },
+    {
+      "english": "May I check your symptoms one by one?",
+      "portuguese": "Posso checar seus sintomas, um por um?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044725"
+    },
+    {
+      "english": "If it worsens, what should we watch for?",
+      "portuguese": "Se piorar, o que devemos observar?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044727"
+    },
+    {
+      "english": "You’re safe right now, stay calm with me",
+      "portuguese": "Você está seguro agora, fica calmo comigo",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044732"
+    },
+    {
+      "english": "Good job, you’re doing the right thing",
+      "portuguese": "Boa, você está fazendo a coisa certa",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044735"
+    },
+    {
+      "english": "Small steps, your body can handle this",
+      "portuguese": "Passos pequenos, seu corpo dá conta disso",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044737"
+    },
+    {
+      "english": "Keep breathing slowly, focus on your calm",
+      "portuguese": "Continua respirando devagar, foca na calma",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044739"
+    },
+    {
+      "english": "You can do this, one moment at a time",
+      "portuguese": "Você consegue, um instante de cada vez",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044742"
+    },
+    {
+      "english": "It’s okay to ask questions, we’ve got you",
+      "portuguese": "Tudo bem perguntar, a gente cuida de você",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044745"
+    },
+    {
+      "english": "Stay present, focus on the next step",
+      "portuguese": "Fica no agora, pensa no próximo passo",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044747"
+    },
+    {
+      "english": "You’re not alone, I’m right here",
+      "portuguese": "Você não está sozinho, eu tô aqui",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044750"
+    },
+    {
+      "english": "Tell me what you feel, I’ll listen",
+      "portuguese": "Me diz como você tá se sentindo, eu escuto",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044753"
+    },
+    {
+      "english": "You’re doing great, keep your voice steady",
+      "portuguese": "Você tá indo bem, mantém a voz firme",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044756"
+    },
+    {
+      "english": "No panic, we’re in control together",
+      "portuguese": "Sem pânico, a gente controla junto",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044759"
+    },
+    {
+      "english": "Focus on comfort, one thing at a time",
+      "portuguese": "Foca no conforto, uma coisa de cada vez",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044760"
+    },
+    {
+      "english": "You’re making progress, don’t give up",
+      "portuguese": "Você tá melhorando, não desiste",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044763"
+    },
+    {
+      "english": "Say it slow, we’ll figure it out",
+      "portuguese": "Fala devagar, a gente resolve",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044765"
+    },
+    {
+      "english": "You’ve handled hard stuff before",
+      "portuguese": "Você já passou por coisas difíceis",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044767"
+    },
+    {
+      "english": "Right now, rest your mind, stay safe",
+      "portuguese": "Agora, descansa a mente, fica em segurança",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044770"
+    },
+    {
+      "english": "You’re doing what helps, keep going",
+      "portuguese": "Você tá fazendo o que ajuda, continua",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044773"
+    },
+    {
+      "english": "It will pass, keep your thoughts positive",
+      "portuguese": "Vai passar, mantém pensamentos positivos",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044775"
+    },
+    {
+      "english": "Lean on me, we’ll get through this",
+      "portuguese": "Faz força comigo, a gente vai conseguir",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044777"
+    },
+    {
+      "english": "Good instincts, staying focused is key",
+      "portuguese": "Boa, sua atenção é fundamental",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044780"
+    },
+    {
+      "english": "Let’s take it step by step, together",
+      "portuguese": "Vamos por partes, um passo de cada vez",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044782"
+    },
+    {
+      "english": "Keep your eyes on me, you’ve got this",
+      "portuguese": "Fica olhando pra mim, você consegue",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044785"
+    },
+    {
+      "english": "You’re in capable hands, breathe easy",
+      "portuguese": "Você está em mãos capazes, respira leve",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044787"
+    },
+    {
+      "english": "Focus on recovery, not on worst-case thoughts",
+      "portuguese": "Pensa na recuperação, não no pior cenário",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044790"
+    },
+    {
+      "english": "You’re doing it right, listen and follow",
+      "portuguese": "Tá certo, escuta e segue",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044792"
+    },
+    {
+      "english": "Be kind to yourself, healing takes time",
+      "portuguese": "Seja gentil com você, cura leva tempo",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044795"
+    },
+    {
+      "english": "We’ll stay steady, you don’t have to rush",
+      "portuguese": "A gente vai com calma, sem pressa",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044797"
+    },
+    {
+      "english": "If you feel scared, tell me, please",
+      "portuguese": "Se você estiver com medo, fala pra mim",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044800"
+    },
+    {
+      "english": "I’m here with you, no rush, okay?",
+      "portuguese": "Estou aqui com você, sem pressa, tudo bem?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044803"
+    },
+    {
+      "english": "Tell me the feeling first, I want honesty.",
+      "portuguese": "Me diga o que você sente primeiro, com sinceridade.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044805"
+    },
+    {
+      "english": "I know this is scary, but breathe with me.",
+      "portuguese": "Eu sei que isso assusta, mas respire comigo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044807"
+    },
+    {
+      "english": "Right now, I’ll go slow, for your body.",
+      "portuguese": "Agora eu vou devagar, pra respeitar seu corpo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044811"
+    },
+    {
+      "english": "What part hurts most, where is it? Answer freely.",
+      "portuguese": "Qual parte dói mais, onde é? Responda à vontade.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044814"
+    },
+    {
+      "english": "If you’re worried, say it, I can handle details.",
+      "portuguese": "Se você estiver preocupado, diga, eu lido com os detalhes.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044818"
+    },
+    {
+      "english": "Your feelings matter, even if you’re trying to be strong.",
+      "portuguese": "Seus sentimentos importam, mesmo tentando ser forte.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044821"
+    },
+    {
+      "english": "I want to understand, not judge you, just listen.",
+      "portuguese": "Eu quero entender, sem julgar, só escutar.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044824"
+    },
+    {
+      "english": "Take your time, your words can guide us.",
+      "portuguese": "Fique à vontade, suas palavras nos guiam.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044826"
+    },
+    {
+      "english": "It’s okay to feel unsure, we’ll sort it out.",
+      "portuguese": "É normal ficar inseguro, a gente organiza isso.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044829"
+    },
+    {
+      "english": "Before I act, tell me what you fear most.",
+      "portuguese": "Antes de eu agir, me diga do que você mais tem medo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044831"
+    },
+    {
+      "english": "I’ll check gently, because comfort builds trust.",
+      "portuguese": "Vou examinar com cuidado, conforto dá confiança.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044834"
+    },
+    {
+      "english": "You don’t need a perfect answer, just be real.",
+      "portuguese": "Você não precisa de resposta perfeita, só seja sincero.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044837"
+    },
+    {
+      "english": "How are you holding up, emotionally right now?",
+      "portuguese": "Como você está, emocionalmente, agora?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044839"
+    },
+    {
+      "english": "I can see you’re stressed, it’s understandable.",
+      "portuguese": "Eu vejo que você está estressado, faz sentido.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044843"
+    },
+    {
+      "english": "Even small changes, tell me, I track them.",
+      "portuguese": "Qualquer mudança pequena, me conte, eu observo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044845"
+    },
+    {
+      "english": "Your calm helps, thank you for staying present.",
+      "portuguese": "Sua calma ajuda, obrigada por ficar no aqui-agora.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044848"
+    },
+    {
+      "english": "I’ll repeat steps, if that eases your mind.",
+      "portuguese": "Eu repito os passos, se isso te acalma.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044851"
+    },
+    {
+      "english": "What do you think your body is trying to say?",
+      "portuguese": "O que você acha que o seu corpo está dizendo?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044853"
+    },
+    {
+      "english": "Be patient, this moment is about safety.",
+      "portuguese": "Tenha paciência, este momento é segurança.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044856"
+    },
+    {
+      "english": "Don’t hide anything, I need your full picture.",
+      "portuguese": "Não esconda nada, eu preciso do quadro todo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044859"
+    },
+    {
+      "english": "If you’re in pain, tell me what you can.",
+      "portuguese": "Se você está com dor, diga o que consegue.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044862"
+    },
+    {
+      "english": "I’ll keep explaining, because clarity reduces fear.",
+      "portuguese": "Eu vou continuar explicando, clareza diminui o medo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044865"
+    },
+    {
+      "english": "Right now, focus on what feels normal to you.",
+      "portuguese": "Agora, foque no que parece normal pra você.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044867"
+    },
+    {
+      "english": "You’re allowed to feel frustrated, it’s human.",
+      "portuguese": "Você pode ficar frustrado, é humano.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044870"
+    },
+    {
+      "english": "I won’t rush you, trust the process.",
+      "portuguese": "Eu não vou te apressar, confie no processo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044926"
+    },
+    {
+      "english": "Tell me what helped before, even a little.",
+      "portuguese": "Diga o que já ajudou antes, nem que seja um pouco.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044928"
+    },
+    {
+      "english": "Your body tells the truth, listen to it.",
+      "portuguese": "Seu corpo fala a verdade, preste atenção.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044931"
+    },
+    {
+      "english": "We’ll handle this together, one honest answer at a time.",
+      "portuguese": "Vamos lidar com isso juntos, uma resposta sincera por vez.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044934"
+    },
+    {
+      "english": "Call emergency, I need help right now.",
+      "portuguese": "Ligue para a emergência, preciso de ajuda agora.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044936"
+    },
+    {
+      "english": "If it’s hard to breathe, say it.",
+      "portuguese": "Se estiver difícil respirar, me avise.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044939"
+    },
+    {
+      "english": "Press here, it hurts less, right?",
+      "portuguese": "Aperte aqui, dói menos, né?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044941"
+    },
+    {
+      "english": "Drink water slowly, don’t chug it.",
+      "portuguese": "Beba água devagar, não engole tudo.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-04T10:11:32.044944"
     }
   ],
-  "last_updated": "2026-11-03T10:18:42.835661"
+  "last_updated": "2026-11-04T10:11:32.044946"
 }
