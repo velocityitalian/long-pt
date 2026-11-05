@@ -12959,7 +12959,727 @@
       "portuguese": "Beba água devagar, não engole tudo.",
       "category": "Emergency & Health",
       "generated_at": "2026-11-04T10:11:32.044944"
+    },
+    {
+      "english": "Hey, you’ve got this, vamos juntos!",
+      "portuguese": "Ei, você consegue, vamos juntos!",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640733"
+    },
+    {
+      "english": "Take a breath, tá tudo bem, promise.",
+      "portuguese": "Respira fundo, tá tudo bem, juro.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640753"
+    },
+    {
+      "english": "Relax, no stress, você entende tudo.",
+      "portuguese": "Relaxa, sem stress, você entende tudo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640758"
+    },
+    {
+      "english": "I’m sure, vai dar certo, confia.",
+      "portuguese": "Eu tenho certeza, vai dar certo, confia.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640762"
+    },
+    {
+      "english": "Good question, deixa eu pensar, tranquilo.",
+      "portuguese": "Boa pergunta, deixa eu pensar, tranquilo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640765"
+    },
+    {
+      "english": "Yes, I can do it, conta comigo.",
+      "portuguese": "Sim, eu consigo, pode contar comigo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640769"
+    },
+    {
+      "english": "Not bad, tá melhorando, continue assim.",
+      "portuguese": "Não tá mal, tá melhorando, continua assim.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640773"
+    },
+    {
+      "english": "Come on, you’re ready, vai!",
+      "portuguese": "Vai, você tá pronto, manda ver!",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640779"
+    },
+    {
+      "english": "That’s it, assim mesmo, sem medo.",
+      "portuguese": "Isso aí, assim mesmo, sem medo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640796"
+    },
+    {
+      "english": "Okay, I got it, deu certo.",
+      "portuguese": "Beleza, entendi, deu certo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640801"
+    },
+    {
+      "english": "Hold on, deixa comigo, eu resolvo.",
+      "portuguese": "Espera aí, deixa comigo, eu resolvo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640804"
+    },
+    {
+      "english": "It’s fine, acontece, segue em frente.",
+      "portuguese": "Tranquilo, acontece, segue em frente.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640808"
+    },
+    {
+      "english": "No worries, eu tô com você.",
+      "portuguese": "Sem preocupações, eu tô com você.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640812"
+    },
+    {
+      "english": "I’ll manage, eu dou conta.",
+      "portuguese": "Eu dou conta, fica tranquilo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640816"
+    },
+    {
+      "english": "You’re learning fast, parabéns, manda bem!",
+      "portuguese": "Você tá aprendendo rápido, parabéns, manda bem!",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640820"
+    },
+    {
+      "english": "Trust me, confia, vai dar bom.",
+      "portuguese": "Confia em mim, vai dar bom.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640825"
+    },
+    {
+      "english": "We’ve got time, calma, sem pressa.",
+      "portuguese": "A gente tem tempo, calma, sem pressa.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640829"
+    },
+    {
+      "english": "Say it again, mais uma vez, sem medo.",
+      "portuguese": "Fala de novo, mais uma vez, sem medo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640833"
+    },
+    {
+      "english": "That sounds good, fechou, combinado?",
+      "portuguese": "Parece bom, fechou, combinado?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640836"
+    },
+    {
+      "english": "I believe you, eu acredito, de verdade.",
+      "portuguese": "Eu acredito, você é capaz, de verdade.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640839"
+    },
+    {
+      "english": "I’ve done this before, já sei.",
+      "portuguese": "Já fiz isso, eu já sei.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640843"
+    },
+    {
+      "english": "It’s okay, foi só um erro.",
+      "portuguese": "Tudo bem, foi só um erro.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640847"
+    },
+    {
+      "english": "Go ahead, tenta de novo, você consegue.",
+      "portuguese": "Pode tentar de novo, tenta, você consegue.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640850"
+    },
+    {
+      "english": "I’m on it, pode deixar comigo.",
+      "portuguese": "Tô cuidando, pode deixar comigo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640854"
+    },
+    {
+      "english": "That’s fair, faz sentido, tranquilo.",
+      "portuguese": "Faz sentido, tá justo, tranquilo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640857"
+    },
+    {
+      "english": "Be brave, coragem, tudo vai fluir.",
+      "portuguese": "Tenha coragem, tudo vai fluir.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640862"
+    },
+    {
+      "english": "Nice, você mandou bem, sério!",
+      "portuguese": "Boa, você mandou bem, sério!",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640868"
+    },
+    {
+      "english": "I know the way, eu te guio.",
+      "portuguese": "Eu sei o caminho, eu te guio.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640871"
+    },
+    {
+      "english": "We’ll figure it out, dá um jeito.",
+      "portuguese": "A gente resolve, dá um jeito.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640875"
+    },
+    {
+      "english": "You got this today, vai com fé.",
+      "portuguese": "Hoje é sua vez, vai com fé.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640878"
+    },
+    {
+      "english": "What do you think, posso te perguntar?",
+      "portuguese": "O que você acha, posso te perguntar?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640881"
+    },
+    {
+      "english": "Where should I start, com quem eu falo?",
+      "portuguese": "Por onde eu começo, com quem eu falo?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640885"
+    },
+    {
+      "english": "Is this correct, como eu falo isso?",
+      "portuguese": "Isso tá certo, como eu falo isso?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640887"
+    },
+    {
+      "english": "Can you help me, você pode explicar?",
+      "portuguese": "Você pode me ajudar, explica pra mim?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640891"
+    },
+    {
+      "english": "Do you recommend this place, você acha bom?",
+      "portuguese": "Você recomenda esse lugar, tá bom?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640894"
+    },
+    {
+      "english": "Could you slow down, por favor?",
+      "portuguese": "Você pode falar mais devagar, por favor?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640898"
+    },
+    {
+      "english": "What’s the best way, qual caminho?",
+      "portuguese": "Qual é o melhor jeito, que caminho?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640901"
+    },
+    {
+      "english": "How do I say this, em português?",
+      "portuguese": "Como eu digo isso, em português?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640904"
+    },
+    {
+      "english": "Can we practice now, você topa?",
+      "portuguese": "A gente pratica agora, você topa?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640907"
+    },
+    {
+      "english": "What should I ask first, me diz?",
+      "portuguese": "O que eu pergunto primeiro, me diz?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640910"
+    },
+    {
+      "english": "Is it safe here, é tranquilo?",
+      "portuguese": "Aqui é seguro, é tranquilo?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640914"
+    },
+    {
+      "english": "What time does it open, que horas abre?",
+      "portuguese": "Que horas abre, a que horas começa?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640916"
+    },
+    {
+      "english": "Do I need a reservation, precisa?",
+      "portuguese": "Precisa de reserva, eu preciso mesmo?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640919"
+    },
+    {
+      "english": "What’s included, tem o quê mesmo?",
+      "portuguese": "O que está incluído, tem o quê mesmo?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640922"
+    },
+    {
+      "english": "Could you write it down, por favor?",
+      "portuguese": "Você pode escrever, por favor?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640925"
+    },
+    {
+      "english": "Should I use formal speech, como assim?",
+      "portuguese": "Eu devo falar mais formal, como assim?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640927"
+    },
+    {
+      "english": "Is this the right bus, é esse?",
+      "portuguese": "É esse ônibus, ou não?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640931"
+    },
+    {
+      "english": "Which card do you accept, vocês aceitam?",
+      "portuguese": "Vocês aceitam cartão, qual aceita?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640934"
+    },
+    {
+      "english": "Can I pay in cash, posso pagar?",
+      "portuguese": "Posso pagar em dinheiro, aceita?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640939"
+    },
+    {
+      "english": "What’s the price, quanto custa?",
+      "portuguese": "Quanto custa, qual o valor?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640943"
+    },
+    {
+      "english": "Any tips for beginners, vale?",
+      "portuguese": "Tem dica pra iniciante, vale a pena?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640945"
+    },
+    {
+      "english": "How can I improve quickly, me ajuda?",
+      "portuguese": "Como eu melhoro mais rápido, me ajuda?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640948"
+    },
+    {
+      "english": "What if I get it wrong, tudo bem?",
+      "portuguese": "E se eu errar, tudo bem?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640951"
+    },
+    {
+      "english": "What do you suggest for today, você indica?",
+      "portuguese": "O que você sugere hoje, você indica?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640954"
+    },
+    {
+      "english": "Can you repeat that sentence, por favor?",
+      "portuguese": "Você repete essa frase, por favor?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640957"
+    },
+    {
+      "english": "Do you understand me, você entendeu?",
+      "portuguese": "Você me entendeu, entendeu bem?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640960"
+    },
+    {
+      "english": "Should I practice here, ou lá?",
+      "portuguese": "Eu pratico aqui, ou lá fora?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640963"
+    },
+    {
+      "english": "What’s your plan, e você, o que faz?",
+      "portuguese": "Qual é o seu plano, e você, faz o quê?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640967"
+    },
+    {
+      "english": "Can I borrow your phone, por um minuto?",
+      "portuguese": "Posso usar seu celular, por um minuto?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640970"
+    },
+    {
+      "english": "Let’s compare answers, qual ficou pra você?",
+      "portuguese": "Vamos comparar, qual ficou pra você?",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640973"
+    },
+    {
+      "english": "Trust yourself, devagar também anda.",
+      "portuguese": "Confie em você, devagar também anda.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640977"
+    },
+    {
+      "english": "One step at a time, sem pressa.",
+      "portuguese": "Um passo de cada vez, sem pressa.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640980"
+    },
+    {
+      "english": "Keep going, você não tá sozinho.",
+      "portuguese": "Segue firme, você não tá sozinho.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640984"
+    },
+    {
+      "english": "Slow breathing, acalma o coração.",
+      "portuguese": "Respira fundo, acalma o coração.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640987"
+    },
+    {
+      "english": "Small victories, isso fortalece.",
+      "portuguese": "Vitória pequena também conta.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640990"
+    },
+    {
+      "english": "Confidence grows, com prática você chega lá.",
+      "portuguese": "A confiança vem com prática, você chega lá.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.640994"
+    },
+    {
+      "english": "Don’t overthink, vai na fé.",
+      "portuguese": "Não pensa demais, vai na fé.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641000"
+    },
+    {
+      "english": "Stand your ground, com respeito.",
+      "portuguese": "Firmeza, com respeito, sem brigar.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641003"
+    },
+    {
+      "english": "You can learn fast, rápido se acostuma.",
+      "portuguese": "Vai dar certo, rápido se acostuma.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641006"
+    },
+    {
+      "english": "Answer with courage, sem enrolar.",
+      "portuguese": "Responde com coragem, sem enrolar.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641009"
+    },
+    {
+      "english": "When it clicks, pronto, você pega o jeito.",
+      "portuguese": "Quando encaixa, pronto, você pega o jeito.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641013"
+    },
+    {
+      "english": "Be flexible, nem sempre dá igual.",
+      "portuguese": "Tranquilo, nem sempre dá igual.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641016"
+    },
+    {
+      "english": "Show up, já é meio caminho.",
+      "portuguese": "Aparecer já é meio caminho.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641020"
+    },
+    {
+      "english": "Have patience, calm still wins.",
+      "portuguese": "Quem espera, alcança.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641023"
+    },
+    {
+      "english": "You don’t need to be perfect, só vai.",
+      "portuguese": "Não precisa ser perfeito, só vai.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641027"
+    },
+    {
+      "english": "Trust the process, uma hora dá certo.",
+      "portuguese": "Confia no processo, uma hora dá certo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641030"
+    },
+    {
+      "english": "When you fail, try again smart.",
+      "portuguese": "Caiu, levantou, continua.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641032"
+    },
+    {
+      "english": "Be light-hearted, leve a vida.",
+      "portuguese": "Vai com calma, leve a vida.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641036"
+    },
+    {
+      "english": "You’re improving, aos poucos se chega.",
+      "portuguese": "Aos poucos, você chega lá.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641039"
+    },
+    {
+      "english": "Choose your moment, na hora certa.",
+      "portuguese": "Escolhe a hora certa, na hora certa.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641042"
+    },
+    {
+      "english": "Speak up, ninguém vai ler sua mente.",
+      "portuguese": "Fala, ninguém lê sua mente.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641045"
+    },
+    {
+      "english": "Stay ready, melhor prevenir.",
+      "portuguese": "Melhor prevenir, do que remediar.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641051"
+    },
+    {
+      "english": "Don’t quit, o jogo não acabou.",
+      "portuguese": "Não para, o jogo não acabou.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641057"
+    },
+    {
+      "english": "Keep it simple, devagar e sempre.",
+      "portuguese": "Devagar e sempre, sem complicar.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641060"
+    },
+    {
+      "english": "Your voice matters, conta muito.",
+      "portuguese": "Sua voz conta, e muito.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641063"
+    },
+    {
+      "english": "If you doubt, breathe and go.",
+      "portuguese": "Se bater a dúvida, respira e vai.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641065"
+    },
+    {
+      "english": "Confidence shows, postura fala.",
+      "portuguese": "Postura fala mais alto.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641068"
+    },
+    {
+      "english": "Keep it cool, cabeça fria.",
+      "portuguese": "Mantenha a cabeça fria.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641071"
+    },
+    {
+      "english": "Start small, ninguém nasceu sabendo.",
+      "portuguese": "Começa pequeno, ninguém nasceu sabendo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641077"
+    },
+    {
+      "english": "I’m allowed to feel, e eu sou sincero comigo.",
+      "portuguese": "Eu posso sentir, e eu sou sincero comigo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641083"
+    },
+    {
+      "english": "Today I choose honesty, sem máscara.",
+      "portuguese": "Hoje eu escolho a honestidade, sem máscara.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641086"
+    },
+    {
+      "english": "It’s okay to pause, eu penso antes.",
+      "portuguese": "Tá tudo bem pausar, eu penso antes.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641093"
+    },
+    {
+      "english": "I don’t need to rush my feelings.",
+      "portuguese": "Eu não preciso apressar meus sentimentos.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641097"
+    },
+    {
+      "english": "I’ll be patient, eu sei esperar.",
+      "portuguese": "Eu vou ter paciência, eu sei esperar.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641101"
+    },
+    {
+      "english": "I can handle awkward moments, de boa.",
+      "portuguese": "Eu aguento os momentos estranhos, de boa.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641104"
+    },
+    {
+      "english": "I’ll say it the simple way, na lata.",
+      "portuguese": "Eu falo na lata, do jeito simples.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641107"
+    },
+    {
+      "english": "My doubts don’t drive me, só passam.",
+      "portuguese": "Minhas dúvidas não me guiam, só passam.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641111"
+    },
+    {
+      "english": "I’m learning to trust my pace.",
+      "portuguese": "Estou aprendendo a confiar no meu ritmo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641113"
+    },
+    {
+      "english": "When I’m scared, I breathe and continue.",
+      "portuguese": "Quando eu tenho medo, eu respiro e sigo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641117"
+    },
+    {
+      "english": "I own my mistakes, sem drama.",
+      "portuguese": "Eu assumo meus erros, sem drama.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641120"
+    },
+    {
+      "english": "I’m allowed to start again, tranquilo.",
+      "portuguese": "Eu posso recomeçar, tranquilo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641123"
+    },
+    {
+      "english": "I listen first, depois falo com calma.",
+      "portuguese": "Eu escuto primeiro, depois falo com calma.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641126"
+    },
+    {
+      "english": "I’m proud of progress, mesmo devagar.",
+      "portuguese": "Eu fico feliz com progresso, mesmo devagar.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641129"
+    },
+    {
+      "english": "I don’t have to explain everything.",
+      "portuguese": "Eu não preciso explicar tudo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641133"
+    },
+    {
+      "english": "My limits are real, and I respect them.",
+      "portuguese": "Meus limites são reais, e eu respeito.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641136"
+    },
+    {
+      "english": "I trust myself, mesmo quando dá medo.",
+      "portuguese": "Eu confio em mim, mesmo quando dá medo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641139"
+    },
+    {
+      "english": "I keep it honest, sem exagero.",
+      "portuguese": "Eu mantenho a verdade, sem exagero.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641142"
+    },
+    {
+      "english": "I take time, e isso faz bem.",
+      "portuguese": "Eu demoro um pouco, e isso faz bem.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641145"
+    },
+    {
+      "english": "I’m not behind, eu só estou no meu tempo.",
+      "portuguese": "Eu não tô atrasado, eu só estou no meu tempo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641149"
+    },
+    {
+      "english": "I can feel nervous, and still speak.",
+      "portuguese": "Eu posso estar nervoso, e falar mesmo assim.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641152"
+    },
+    {
+      "english": "I choose progress over perfection, sempre.",
+      "portuguese": "Eu escolho evolução, não perfeição.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641154"
+    },
+    {
+      "english": "I let emotions pass, sem carregar tudo.",
+      "portuguese": "Eu deixo as emoções passarem, sem carregar tudo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641158"
+    },
+    {
+      "english": "I don’t fear being seen, eu me mostro.",
+      "portuguese": "Eu não tenho medo de ser visto, eu me mostro.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641161"
+    },
+    {
+      "english": "I speak from the heart, com verdade.",
+      "portuguese": "Eu falo do coração, com verdade.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641165"
+    },
+    {
+      "english": "If I’m unsure, I say it clearly.",
+      "portuguese": "Se eu não sei, eu falo com clareza.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641169"
+    },
+    {
+      "english": "I’m building confidence, um passo emocional.",
+      "portuguese": "Eu estou construindo confiança, um passo emocional.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641172"
+    },
+    {
+      "english": "I respect my mood, and adjust calmly.",
+      "portuguese": "Eu respeito meu humor, e me ajusto com calma.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641175"
+    },
+    {
+      "english": "I can be brave, mesmo tremendo.",
+      "portuguese": "Eu posso ser corajoso, mesmo tremendo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641180"
+    },
+    {
+      "english": "I’m learning to be kind to myself.",
+      "portuguese": "Eu estou aprendendo a ser gentil comigo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641183"
+    },
+    {
+      "english": "Before you answer, respire, then speak clearly",
+      "portuguese": "Antes de responder, respira, e fala claro",
+      "category": "Confidence",
+      "generated_at": "2026-11-05T10:03:33.641186"
     }
   ],
-  "last_updated": "2026-11-04T10:11:32.044946"
+  "last_updated": "2026-11-05T10:03:33.641190"
 }
