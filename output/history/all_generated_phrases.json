@@ -13679,7 +13679,727 @@
       "portuguese": "Antes de responder, respira, e fala claro",
       "category": "Confidence",
       "generated_at": "2026-11-05T10:03:33.641186"
+    },
+    {
+      "english": "Hey, I’m good, how’s your day going?",
+      "portuguese": "Oi, estou bem, como está o seu dia?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063849"
+    },
+    {
+      "english": "Nice, that sounds great, let’s do it!",
+      "portuguese": "Que bom, isso parece ótimo, vamos fazer!",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063860"
+    },
+    {
+      "english": "Wow, that’s awesome, I love it!",
+      "portuguese": "Nossa, isso é demais, eu adoro!",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063863"
+    },
+    {
+      "english": "Great news, tell me everything, please!",
+      "portuguese": "Boa notícia, conta tudo, por favor!",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063865"
+    },
+    {
+      "english": "Perfect, I’m on board, let’s go!",
+      "portuguese": "Perfeito, eu topo, vamos embora!",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063868"
+    },
+    {
+      "english": "Love this, it’s exactly what I wanted.",
+      "portuguese": "Amei, é exatamente o que eu queria.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063870"
+    },
+    {
+      "english": "Come on, don’t worry, it’ll work out.",
+      "portuguese": "Vem, não se preocupa, vai dar certo.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063872"
+    },
+    {
+      "english": "That made my day, seriously, thank you!",
+      "portuguese": "Isso fez meu dia, sério, obrigado!",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063876"
+    },
+    {
+      "english": "Good vibes, let’s keep going, okay?",
+      "portuguese": "Boa energia, vamos continuar, tá?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063879"
+    },
+    {
+      "english": "I’m happy for you, you deserve it!",
+      "portuguese": "Fico feliz por você, você mereceu!",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063881"
+    },
+    {
+      "english": "Awesome, I was hoping for this!",
+      "portuguese": "Show, eu tava esperando por isso!",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063883"
+    },
+    {
+      "english": "Really? That’s amazing, tell me more!",
+      "portuguese": "Sério? Que incrível, me conta mais!",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063885"
+    },
+    {
+      "english": "Great, I’m free now, what’s next?",
+      "portuguese": "Beleza, agora estou livre, e agora?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063887"
+    },
+    {
+      "english": "No way, that’s hilarious, I can’t!",
+      "portuguese": "Impossível, isso é muito engraçado!",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063889"
+    },
+    {
+      "english": "Cheers! Today feels lighter, let’s celebrate!",
+      "portuguese": "Saúde! Hoje tá mais leve, vamos comemorar!",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063891"
+    },
+    {
+      "english": "I needed this, thank you for real.",
+      "portuguese": "Eu precisava disso, valeu de verdade.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063893"
+    },
+    {
+      "english": "Nice try, keep going, you’ll get it.",
+      "portuguese": "Boa tentativa, continua, você vai conseguir.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063895"
+    },
+    {
+      "english": "Let’s relax, it’s gonna be fun.",
+      "portuguese": "Vamos relaxar, vai ser divertido.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063897"
+    },
+    {
+      "english": "That’s perfect timing, thank you!",
+      "portuguese": "Que bom, na hora certa, obrigado!",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063898"
+    },
+    {
+      "english": "I’m smiling, this is going so well!",
+      "portuguese": "Tô sorrindo, tá tudo indo muito bem!",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063900"
+    },
+    {
+      "english": "That’s it, I’m in, let’s go now!",
+      "portuguese": "É isso aí, tô dentro, bora agora!",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063902"
+    },
+    {
+      "english": "Okay, that’s enough, we’re celebrating.",
+      "portuguese": "Pronto, chega, agora é comemorar!",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063904"
+    },
+    {
+      "english": "So good, I could do this all day.",
+      "portuguese": "Tá tão bom, eu podia ficar o dia todo.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063906"
+    },
+    {
+      "english": "You’re kidding, that’s awesome, really?",
+      "portuguese": "Você tá brincando, que massa, é sério?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063908"
+    },
+    {
+      "english": "I’m proud of you, keep shining!",
+      "portuguese": "Tô orgulhoso de você, continua brilhando!",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063910"
+    },
+    {
+      "english": "Let’s make it happen, we’ll do it.",
+      "portuguese": "Vamos fazer acontecer, a gente consegue.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063911"
+    },
+    {
+      "english": "Nice! That worked, I’m relieved.",
+      "portuguese": "Boa! Funcionou, ufa, que alívio.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063913"
+    },
+    {
+      "english": "Perfect, I’ll handle it, you’re safe.",
+      "portuguese": "Tranquilo, eu resolvo, fica tranquilo.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063915"
+    },
+    {
+      "english": "Good choice, that’s a smart move.",
+      "portuguese": "Boa escolha, isso foi uma decisão certa.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063917"
+    },
+    {
+      "english": "Today’s a win, let’s enjoy it!",
+      "portuguese": "Hoje é dia de vitória, vamos aproveitar!",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063919"
+    },
+    {
+      "english": "Quick question, what made you feel joyful?",
+      "portuguese": "Uma pergunta rápida, o que te deixou feliz?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063920"
+    },
+    {
+      "english": "Tell me, where do you find peace lately?",
+      "portuguese": "Me diz, onde você encontra paz ultimamente?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063922"
+    },
+    {
+      "english": "What’s your go-to plan when you’re down?",
+      "portuguese": "Qual é seu plano favorito quando você tá pra baixo?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063924"
+    },
+    {
+      "english": "Can you share what helped you most?",
+      "portuguese": "Você pode me contar o que mais te ajudou?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063926"
+    },
+    {
+      "english": "Be honest, what’s making you smile?",
+      "portuguese": "Sendo sincero, o que tá te fazendo sorrir?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063928"
+    },
+    {
+      "english": "Which song is on repeat for you today?",
+      "portuguese": "Qual música tá tocando sem parar pra você hoje?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063929"
+    },
+    {
+      "english": "Where should I start to feel better too?",
+      "portuguese": "Por onde eu começo pra me sentir melhor também?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063932"
+    },
+    {
+      "english": "What’s one small thing that works?",
+      "portuguese": "Qual é uma coisinha pequena que funciona?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063934"
+    },
+    {
+      "english": "Do you prefer calm days, or busy ones?",
+      "portuguese": "Você prefere dias tranquilos, ou dias corridos?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063935"
+    },
+    {
+      "english": "How do you stay motivated after setbacks?",
+      "portuguese": "Como você se mantém motivado depois de tropeços?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063937"
+    },
+    {
+      "english": "Quick check, are you feeling okay now?",
+      "portuguese": "Só pra confirmar, você tá bem agora?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063940"
+    },
+    {
+      "english": "What advice would you give your friend?",
+      "portuguese": "Que conselho você daria ao seu amigo?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063941"
+    },
+    {
+      "english": "Can I ask, what’s your biggest joy right now?",
+      "portuguese": "Posso te perguntar, qual é sua maior alegria agora?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063944"
+    },
+    {
+      "english": "When did you last feel really light?",
+      "portuguese": "Quando foi a última vez que você se sentiu leve?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063945"
+    },
+    {
+      "english": "Want a simple routine that boosts mood?",
+      "portuguese": "Quer uma rotina simples pra melhorar o humor?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063947"
+    },
+    {
+      "english": "Is it okay if I join you today?",
+      "portuguese": "Posso te acompanhar hoje, tá tudo bem?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063948"
+    },
+    {
+      "english": "What makes you feel seen, not just heard?",
+      "portuguese": "O que te faz se sentir visto, não só ouvido?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063950"
+    },
+    {
+      "english": "How’s your energy, better or still stuck?",
+      "portuguese": "Sua energia tá como, melhor ou ainda travada?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063952"
+    },
+    {
+      "english": "Tell me, what are you looking forward to?",
+      "portuguese": "Me conta, pro que você tá animado hoje?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063953"
+    },
+    {
+      "english": "Do you want comfort, or a fresh plan?",
+      "portuguese": "Você quer conforto, ou um plano novo?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063955"
+    },
+    {
+      "english": "What helped you breathe again after stress?",
+      "portuguese": "O que te ajudou a respirar de novo?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063956"
+    },
+    {
+      "english": "Can we talk, what’s been on your mind?",
+      "portuguese": "Podemos conversar, o que tá pesando aí?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063959"
+    },
+    {
+      "english": "Which moment deserves a little celebration?",
+      "portuguese": "Qual momento merece uma comemoraçãozinha?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063962"
+    },
+    {
+      "english": "How do you turn worries into action?",
+      "portuguese": "Como você transforma preocupação em ação?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063964"
+    },
+    {
+      "english": "What’s your favorite way to reset quickly?",
+      "portuguese": "Qual é seu jeito favorito de resetar rápido?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063966"
+    },
+    {
+      "english": "Would you recommend that, for my situation?",
+      "portuguese": "Você recomenda isso pra minha situação?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063967"
+    },
+    {
+      "english": "How can I support you without making it hard?",
+      "portuguese": "Como eu posso te apoiar, sem piorar tudo?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063969"
+    },
+    {
+      "english": "What’s the best small win you had today?",
+      "portuguese": "Qual foi a melhor vitóriazinha que você teve hoje?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063970"
+    },
+    {
+      "english": "Do you feel ready to try again, or wait?",
+      "portuguese": "Você tá pronto pra tentar de novo, ou prefere esperar?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063972"
+    },
+    {
+      "english": "If I ask you one thing, what is it?",
+      "portuguese": "Se eu te perguntar só uma coisa, qual seria?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063974"
+    },
+    {
+      "english": "Girl, you light up everything, sério.",
+      "portuguese": "Ô, você ilumina tudo, sério.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063976"
+    },
+    {
+      "english": "I love your vibe, deixa comigo.",
+      "portuguese": "Adoro a sua vibe, deixa comigo.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063978"
+    },
+    {
+      "english": "You’re in my corner, de verdade.",
+      "portuguese": "Você é meu time, de verdade.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063980"
+    },
+    {
+      "english": "Come here, a gente vai rir junto.",
+      "portuguese": "Vem cá, a gente vai rir junto.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063981"
+    },
+    {
+      "english": "Don’t worry, hoje vai dar certo.",
+      "portuguese": "Não se preocupa, hoje vai dar certo.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063983"
+    },
+    {
+      "english": "That smile, me ganha na hora.",
+      "portuguese": "Esse sorriso me ganha na hora.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063985"
+    },
+    {
+      "english": "You make it feel easy, sem pressão.",
+      "portuguese": "Você deixa tudo leve, sem pressão.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063987"
+    },
+    {
+      "english": "Let’s be spontaneous, sem desculpa.",
+      "portuguese": "Vamos na espontânea, sem desculpa.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063989"
+    },
+    {
+      "english": "I’m all in, vai dar bom.",
+      "portuguese": "Tô dentro, vai dar bom.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063992"
+    },
+    {
+      "english": "Your joy is contagious, vem cá.",
+      "portuguese": "Sua alegria contagia, vem cá.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063994"
+    },
+    {
+      "english": "Today feels lighter, deu certo mesmo.",
+      "portuguese": "Hoje tá leve, deu certo de verdade.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063995"
+    },
+    {
+      "english": "When you show up, o mundo muda.",
+      "portuguese": "Quando você chega, o mundo muda.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063997"
+    },
+    {
+      "english": "I’m smiling already, já era.",
+      "portuguese": "Tô sorrindo, já era.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.063999"
+    },
+    {
+      "english": "Good vibes only, sem drama, tá?",
+      "portuguese": "Só boas vibrações, sem drama, tá?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064001"
+    },
+    {
+      "english": "You’re my good luck, olha isso.",
+      "portuguese": "Você é meu azar não, minha sorte, olha isso.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064002"
+    },
+    {
+      "english": "No stress, a vida acontece agora.",
+      "portuguese": "Sem estresse, a vida acontece agora.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064004"
+    },
+    {
+      "english": "Your laugh fixes my day, pronto.",
+      "portuguese": "Sua risada conserta meu dia, pronto.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064006"
+    },
+    {
+      "english": "We’ll ride this wave, sem medo.",
+      "portuguese": "Vamos aproveitar a onda, sem medo.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064009"
+    },
+    {
+      "english": "That’s the spirit, continue assim.",
+      "portuguese": "Isso, é isso aí, continua assim.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064011"
+    },
+    {
+      "english": "I like your courage, firme e forte.",
+      "portuguese": "Gosto da sua coragem, firme e forte.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064012"
+    },
+    {
+      "english": "Let’s celebrate small wins, de leve.",
+      "portuguese": "Vamos comemorar as pequenas, de leve.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064014"
+    },
+    {
+      "english": "You’re doing great, nada de parar.",
+      "portuguese": "Você tá indo bem, não para não.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064016"
+    },
+    {
+      "english": "Lucky me, você apareceu na hora.",
+      "portuguese": "Que sorte, você apareceu na hora.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064018"
+    },
+    {
+      "english": "I’m feeling it, hoje vai fluir.",
+      "portuguese": "Tô sentindo, hoje vai fluir.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064019"
+    },
+    {
+      "english": "Keep that glow, não some, tá?",
+      "portuguese": "Mantém esse brilho, não some, tá?",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064021"
+    },
+    {
+      "english": "Your energy me abraça, de um jeito bom.",
+      "portuguese": "Sua energia me abraça, num jeito bom.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064023"
+    },
+    {
+      "english": "We’re gonna be okay, vai dar certo.",
+      "portuguese": "Vai ficar tudo bem, vai dar certo.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064025"
+    },
+    {
+      "english": "You make my heart go tranquilo.",
+      "portuguese": "Você deixa meu coração tranquilo.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064026"
+    },
+    {
+      "english": "Just one smile, já valeu tudo.",
+      "portuguese": "Um sorriso, já valeu tudo.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064028"
+    },
+    {
+      "english": "Let’s keep it real, alegria é leveza.",
+      "portuguese": "Bora manter na real, alegria é leveza.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064030"
+    },
+    {
+      "english": "I’m proud of you, even on tough days.",
+      "portuguese": "Eu tô orgulhoso de você, mesmo em dias difíceis.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064032"
+    },
+    {
+      "english": "Sometimes I just need silence, sem culpa.",
+      "portuguese": "Às vezes eu só preciso de silêncio, sem culpa.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064033"
+    },
+    {
+      "english": "I feel safer, when you stay honest.",
+      "portuguese": "Eu me sinto mais segura, quando você é sincero.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064035"
+    },
+    {
+      "english": "Please slow down, I’m processing everything.",
+      "portuguese": "Por favor, vai devagar, eu tô processando tudo.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064036"
+    },
+    {
+      "english": "I’m learning, take your time with me.",
+      "portuguese": "Eu tô aprendendo, vai no seu tempo comigo.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064038"
+    },
+    {
+      "english": "I’m not over it yet, ainda dói.",
+      "portuguese": "Eu ainda não tô por cima, ainda dói.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064040"
+    },
+    {
+      "english": "Joy comes back, when I choose patience.",
+      "portuguese": "A alegria volta, quando eu escolho paciência.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064041"
+    },
+    {
+      "english": "I don’t need perfect, I need real.",
+      "portuguese": "Eu não preciso de perfeito, eu preciso do real.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064043"
+    },
+    {
+      "english": "I’m trying again, devagar, mas tentando.",
+      "portuguese": "Eu tô tentando de novo, devagar, mas tentando.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064045"
+    },
+    {
+      "english": "Be kind to me, eu tô sensível.",
+      "portuguese": "Seja gentil comigo, eu tô sensível.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064047"
+    },
+    {
+      "english": "I think about it a lot, de verdade.",
+      "portuguese": "Eu fico pensando nisso, de verdade.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064049"
+    },
+    {
+      "english": "I can handle it, só preciso respirar.",
+      "portuguese": "Eu consigo lidar, só preciso respirar.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064051"
+    },
+    {
+      "english": "I’m proud of my progress, not my speed.",
+      "portuguese": "Eu gosto do meu progresso, não da pressa.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064053"
+    },
+    {
+      "english": "Sometimes I miss myself, isso é normal.",
+      "portuguese": "Às vezes eu sinto falta de mim, isso é normal.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064055"
+    },
+    {
+      "english": "Let’s be patient, meu coração pede calma.",
+      "portuguese": "Vamos ter calma, meu coração pede paciência.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064057"
+    },
+    {
+      "english": "I’m telling you the truth, sem filtro.",
+      "portuguese": "Eu tô te falando a verdade, sem filtro.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064058"
+    },
+    {
+      "english": "Even if it’s messy, I’m okay.",
+      "portuguese": "Mesmo bagunçado, eu fico bem.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064060"
+    },
+    {
+      "english": "I want to be brave, mas com cuidado.",
+      "portuguese": "Eu quero ser corajoso, mas com cuidado.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064061"
+    },
+    {
+      "english": "Today I choose softer words, não discutir.",
+      "portuguese": "Hoje eu escolho palavras mais leves, sem brigar.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064063"
+    },
+    {
+      "english": "I don’t want to rush feelings, tudo bem.",
+      "portuguese": "Eu não quero apressar sentimentos, tudo bem.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064065"
+    },
+    {
+      "english": "I’m healing slowly, mas eu não paro.",
+      "portuguese": "Eu tô me curando aos poucos, mas não paro.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064067"
+    },
+    {
+      "english": "I needed your presence, não só conselhos.",
+      "portuguese": "Eu precisei da sua presença, não só de conselhos.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064069"
+    },
+    {
+      "english": "I’m trying to forgive myself, devagar.",
+      "portuguese": "Eu tô tentando me perdoar, devagar.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064070"
+    },
+    {
+      "english": "Hold on, my feelings are catching up.",
+      "portuguese": "Espera, eu tô acompanhando meus sentimentos.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064072"
+    },
+    {
+      "english": "Joy isn’t loud, it’s honest inside.",
+      "portuguese": "Alegria não é barulho, é verdade por dentro.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064075"
+    },
+    {
+      "english": "I’m proud I didn’t give up, hoje.",
+      "portuguese": "Eu me orgulho de não desistir, hoje.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064077"
+    },
+    {
+      "english": "Tell me what you feel, sem medo.",
+      "portuguese": "Me fala o que você tá sentindo, sem medo.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064080"
+    },
+    {
+      "english": "I’m grateful, even when things are slow.",
+      "portuguese": "Eu sou grato, mesmo quando tá tudo devagar.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064082"
+    },
+    {
+      "english": "I can’t fix it fast, mas eu tento.",
+      "portuguese": "Eu não resolvo rápido, mas eu tento.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064084"
+    },
+    {
+      "english": "I’m choosing calm, mesmo com pensamentos.",
+      "portuguese": "Eu escolho a calma, mesmo com pensamentos.",
+      "category": "Joy",
+      "generated_at": "2026-11-06T10:07:53.064085"
     }
   ],
-  "last_updated": "2026-11-05T10:03:33.641190"
+  "last_updated": "2026-11-06T10:07:53.064087"
 }
