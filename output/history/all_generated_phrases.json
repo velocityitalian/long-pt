@@ -14399,7 +14399,727 @@
       "portuguese": "Eu escolho a calma, mesmo com pensamentos.",
       "category": "Joy",
       "generated_at": "2026-11-06T10:07:53.064085"
+    },
+    {
+      "english": "I’m on it, give me a minute, please.",
+      "portuguese": "Estou nisso, dá-me um minuto, por favor.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751544"
+    },
+    {
+      "english": "Can you send that to my email?",
+      "portuguese": "Você pode enviar isso para o meu e-mail?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751557"
+    },
+    {
+      "english": "Quick question, where’s the printer?",
+      "portuguese": "Pergunta rápida, onde fica a impressora?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751562"
+    },
+    {
+      "english": "Hold on, I’ll check the schedule.",
+      "portuguese": "Espera aí, vou ver a agenda.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751565"
+    },
+    {
+      "english": "I didn’t catch that, can you repeat?",
+      "portuguese": "Não apanhei, você pode repetir?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751569"
+    },
+    {
+      "english": "Let’s circle back after lunch.",
+      "portuguese": "Vamos retomar isso depois do almoço.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751572"
+    },
+    {
+      "english": "That works for me, what time?",
+      "portuguese": "Isso serve para mim, a que horas?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751575"
+    },
+    {
+      "english": "I’ll take care of it, no worries.",
+      "portuguese": "Eu trato disso, não te preocupes.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751581"
+    },
+    {
+      "english": "Who’s the contact for this issue?",
+      "portuguese": "Quem é a pessoa de contato sobre isso?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751585"
+    },
+    {
+      "english": "Just a heads-up, the meeting moved.",
+      "portuguese": "Só um aviso, a reunião mudou.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751588"
+    },
+    {
+      "english": "I’m swamped today, sorry.",
+      "portuguese": "Estou atolado hoje, desculpa.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751592"
+    },
+    {
+      "english": "We’re aligned, let’s move forward.",
+      "portuguese": "Estamos alinhados, vamos em frente.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751595"
+    },
+    {
+      "english": "I’ll update you in a bit.",
+      "portuguese": "Eu te atualizo daqui a pouco.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751598"
+    },
+    {
+      "english": "Could you speak a little slower?",
+      "portuguese": "Você pode falar um pouco mais devagar?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751600"
+    },
+    {
+      "english": "That’s a great idea, let’s do it.",
+      "portuguese": "Boa ideia, vamos fazer isso.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751605"
+    },
+    {
+      "english": "Wait, I think we missed something.",
+      "portuguese": "Espera, acho que faltou alguma coisa.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751608"
+    },
+    {
+      "english": "I’ll print it right now, okay?",
+      "portuguese": "Vou imprimir agora mesmo, tá?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751611"
+    },
+    {
+      "english": "Mind if I jump in, quickly?",
+      "portuguese": "Posso entrar na conversa, rapidinho?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751613"
+    },
+    {
+      "english": "We need this by tomorrow morning.",
+      "portuguese": "Precisamos disso até amanhã de manhã.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751616"
+    },
+    {
+      "english": "Good catch, you’re totally right.",
+      "portuguese": "Boa observação, você está certo.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751619"
+    },
+    {
+      "english": "I’m running late, traffic is bad.",
+      "portuguese": "Estou atrasado, o trânsito está ruim.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751622"
+    },
+    {
+      "english": "Let me confirm with the team.",
+      "portuguese": "Vou confirmar com o time.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751624"
+    },
+    {
+      "english": "No problem, we can adjust.",
+      "portuguese": "Sem problema, a gente ajusta.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751627"
+    },
+    {
+      "english": "Can you open the document for me?",
+      "portuguese": "Você pode abrir o documento pra mim?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751630"
+    },
+    {
+      "english": "I’ll send the link, check it.",
+      "portuguese": "Vou mandar o link, dá uma olhada.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751633"
+    },
+    {
+      "english": "Thanks, that saved me time.",
+      "portuguese": "Valeu, você me economizou tempo.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751636"
+    },
+    {
+      "english": "Let’s keep it short, please.",
+      "portuguese": "Vamos manter curto, por favor.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751639"
+    },
+    {
+      "english": "I don’t think that’s the right file.",
+      "portuguese": "Acho que esse não é o arquivo certo.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751642"
+    },
+    {
+      "english": "I’ll follow up after the call.",
+      "portuguese": "Eu retomo depois da ligação.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751646"
+    },
+    {
+      "english": "All set, thanks for your help.",
+      "portuguese": "Pronto, obrigado(a) pela ajuda.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751648"
+    },
+    {
+      "english": "Before we start, who owns this task?",
+      "portuguese": "Antes de começar, quem é dono desta tarefa?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751652"
+    },
+    {
+      "english": "Do you know where the meeting room is?",
+      "portuguese": "Você sabe onde fica a sala da reunião?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751654"
+    },
+    {
+      "english": "Can you clarify what 'urgent' means today?",
+      "portuguese": "Você pode esclarecer o que 'urgente' significa hoje?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751657"
+    },
+    {
+      "english": "What’s the best way to request approval?",
+      "portuguese": "Qual é o jeito melhor de pedir aprovação?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751661"
+    },
+    {
+      "english": "Which person should I ask for feedback?",
+      "portuguese": "Quem devo procurar para feedback?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751663"
+    },
+    {
+      "english": "Could you advise me on the next steps?",
+      "portuguese": "Você pode me orientar nos próximos passos?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751665"
+    },
+    {
+      "english": "Is it okay if I join the call late?",
+      "portuguese": "Posso entrar na chamada um pouco depois, tudo bem?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751668"
+    },
+    {
+      "english": "What do you recommend for that format?",
+      "portuguese": "O que você recomenda para esse formato?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751670"
+    },
+    {
+      "english": "How do I access the shared drive here?",
+      "portuguese": "Como eu acesso o drive compartilhado aqui?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751673"
+    },
+    {
+      "english": "Do we have a deadline for this deliverable?",
+      "portuguese": "Tem prazo para este entregável?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751675"
+    },
+    {
+      "english": "Can we confirm the agenda, please?",
+      "portuguese": "A gente confirma a pauta, por favor?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751678"
+    },
+    {
+      "english": "What’s your take on this proposal?",
+      "portuguese": "Qual é a sua opinião sobre essa proposta?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751681"
+    },
+    {
+      "english": "Who should I loop in about the change?",
+      "portuguese": "Quem eu devo incluir sobre essa mudança?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751684"
+    },
+    {
+      "english": "Any concerns I should know before sending?",
+      "portuguese": "Tem alguma preocupação antes de enviar?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751686"
+    },
+    {
+      "english": "Could you point me to the policy page?",
+      "portuguese": "Você pode me indicar a página da política?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751688"
+    },
+    {
+      "english": "What’s the status on the client request?",
+      "portuguese": "Qual é o status do pedido do cliente?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751691"
+    },
+    {
+      "english": "Should I file this under finance or HR?",
+      "portuguese": "Eu arquivo isso em finanças ou RH?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751694"
+    },
+    {
+      "english": "How soon can we get the final version?",
+      "portuguese": "Com que rapidez conseguimos a versão final?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751696"
+    },
+    {
+      "english": "Where can I find the template for forms?",
+      "portuguese": "Onde encontro o modelo das formulários?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751698"
+    },
+    {
+      "english": "What’s the priority for today’s sprint?",
+      "portuguese": "Qual é a prioridade do sprint de hoje?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751702"
+    },
+    {
+      "english": "Do we need approval before the meeting starts?",
+      "portuguese": "Precisamos de aprovação antes da reunião começar?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751704"
+    },
+    {
+      "english": "Can you help me draft a short message?",
+      "portuguese": "Você pode me ajudar a escrever uma mensagem curta?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751706"
+    },
+    {
+      "english": "Which tool are we using for task tracking?",
+      "portuguese": "Qual ferramenta estamos usando para rastrear tarefas?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751709"
+    },
+    {
+      "english": "What’s the best channel for urgent updates?",
+      "portuguese": "Qual canal usar para atualizações urgentes?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751712"
+    },
+    {
+      "english": "Do you want the summary, or the full doc?",
+      "portuguese": "Você prefere o resumo, ou o documento inteiro?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751715"
+    },
+    {
+      "english": "Can we align on goals before reporting?",
+      "portuguese": "Podemos alinhar objetivos antes de reportar?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751718"
+    },
+    {
+      "english": "Who handles reimbursements in this team?",
+      "portuguese": "Quem cuida dos reembolsos aqui na equipe?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751721"
+    },
+    {
+      "english": "What should I bring to the next check-in?",
+      "portuguese": "O que eu devo levar na próxima conversa?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751724"
+    },
+    {
+      "english": "Could you review this draft for me, please?",
+      "portuguese": "Você pode revisar este rascunho para mim?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751727"
+    },
+    {
+      "english": "How do we handle conflicts in deadlines?",
+      "portuguese": "Como lidamos com conflitos de prazos?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751729"
+    },
+    {
+      "english": "Let’s circle back later, then.",
+      "portuguese": "Vamos voltar a isso mais tarde, então.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751732"
+    },
+    {
+      "english": "Keep it moving, we’re on track.",
+      "portuguese": "Vamos em frente, estamos no caminho.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751735"
+    },
+    {
+      "english": "I’ll take the wheel for this part.",
+      "portuguese": "Eu assumo a responsabilidade nessa parte.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751738"
+    },
+    {
+      "english": "Don’t make it complicated, please.",
+      "portuguese": "Não complica, por favor.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751742"
+    },
+    {
+      "english": "We’ll go step by step from here.",
+      "portuguese": "A gente vai passo a passo daqui.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751745"
+    },
+    {
+      "english": "Let’s be straight about the risks.",
+      "portuguese": "Vamos falar sem enrolar sobre os riscos.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751748"
+    },
+    {
+      "english": "That’s the quick win, for now.",
+      "portuguese": "Isso é o atalho, por enquanto.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751751"
+    },
+    {
+      "english": "We need traction, not just ideas.",
+      "portuguese": "A gente precisa de tração, não só de ideias.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751754"
+    },
+    {
+      "english": "I’ll handle the follow-up tomorrow.",
+      "portuguese": "Eu trato disso amanhã.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751757"
+    },
+    {
+      "english": "Let’s keep the momentum going.",
+      "portuguese": "Vamos manter o ritmo.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751760"
+    },
+    {
+      "english": "Send it, no back-and-forth.",
+      "portuguese": "Pode enviar, sem fica e volta.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751764"
+    },
+    {
+      "english": "We’ll knock it out today, easy.",
+      "portuguese": "Hoje a gente resolve, rapidinho.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751767"
+    },
+    {
+      "english": "Let’s put the ball in their court.",
+      "portuguese": "Vamos deixar a bola com eles.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751770"
+    },
+    {
+      "english": "That’s not a problem, it’s a lesson.",
+      "portuguese": "Isso não é um problema, é um aprendizado.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751773"
+    },
+    {
+      "english": "Let’s align, then move forward.",
+      "portuguese": "Vamos alinhar, e depois seguimos.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751776"
+    },
+    {
+      "english": "I’m on it, I won’t drop it.",
+      "portuguese": "Estou cuidando disso, não vai cair.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751779"
+    },
+    {
+      "english": "Let’s not reinvent the wheel.",
+      "portuguese": "Vamos não reinventar a roda.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751782"
+    },
+    {
+      "english": "We’ll tighten the loop on this.",
+      "portuguese": "Vamos fechar esse ciclo bem certinho.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751785"
+    },
+    {
+      "english": "That’s on me, I’ll fix it.",
+      "portuguese": "A culpa é minha, eu corrijo.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751789"
+    },
+    {
+      "english": "Let’s keep expectations realistic.",
+      "portuguese": "Vamos manter as expectativas na medida.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751792"
+    },
+    {
+      "english": "I’ll bring options, you choose.",
+      "portuguese": "Eu trago alternativas, você escolhe.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751795"
+    },
+    {
+      "english": "We’re overloaded, we’ll need help.",
+      "portuguese": "Estamos com a agenda cheia, vai precisar ajuda.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751798"
+    },
+    {
+      "english": "Let’s do the hard part first.",
+      "portuguese": "Vamos começar pelo que é mais difícil.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751801"
+    },
+    {
+      "english": "Quick check, are we aligned?",
+      "portuguese": "Só pra confirmar, estamos alinhados?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751804"
+    },
+    {
+      "english": "I’ll summarize so everyone gets it.",
+      "portuguese": "Eu faço um resumo pra todo mundo entender.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751807"
+    },
+    {
+      "english": "Let’s stop guessing, let’s verify.",
+      "portuguese": "Bora parar de adivinhar, vamos checar.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751810"
+    },
+    {
+      "english": "We’ll meet halfway on this decision.",
+      "portuguese": "Vamos chegar num acordo no meio do caminho.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751814"
+    },
+    {
+      "english": "That’s the wrong approach, not the goal.",
+      "portuguese": "O problema é a abordagem, não o objetivo.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751817"
+    },
+    {
+      "english": "Let’s make it happen, step by step.",
+      "portuguese": "Vamos fazer acontecer, passo a passo.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751820"
+    },
+    {
+      "english": "We’ll keep tabs on progress, daily.",
+      "portuguese": "Vamos acompanhar o progresso, todo dia.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751823"
+    },
+    {
+      "english": "I’m worried this will drag, honestly.",
+      "portuguese": "Estou preocupado que isso vai demorar, na verdade.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751826"
+    },
+    {
+      "english": "I need a minute, I’m overwhelmed right now.",
+      "portuguese": "Preciso de um minuto, estou sobrecarregado agora.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751829"
+    },
+    {
+      "english": "Honestly, I don’t feel ready to present yet.",
+      "portuguese": "Sinceramente, ainda não me sinto pronto para apresentar.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751833"
+    },
+    {
+      "english": "I’m trying to stay calm, even under pressure.",
+      "portuguese": "Estou tentando manter a calma, mesmo sob pressão.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751836"
+    },
+    {
+      "english": "I think we’re rushing, and I feel it.",
+      "portuguese": "Acho que estamos correndo, e eu sinto isso.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751839"
+    },
+    {
+      "english": "Let me be honest, I missed that detail.",
+      "portuguese": "Pra ser sincero, eu perdi esse detalhe.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751842"
+    },
+    {
+      "english": "I want to be transparent, I don’t know yet.",
+      "portuguese": "Quero ser transparente, eu ainda não sei.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751845"
+    },
+    {
+      "english": "We can slow down, my brain needs clarity.",
+      "portuguese": "Podemos desacelerar, minha cabeça precisa de clareza.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751848"
+    },
+    {
+      "english": "I’m learning, but patience is still hard.",
+      "portuguese": "Estou aprendendo, mas a paciência ainda é difícil.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751851"
+    },
+    {
+      "english": "I’m not making excuses, I just need time.",
+      "portuguese": "Não estou dando desculpas, só preciso de tempo.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751854"
+    },
+    {
+      "english": "If I’m late, it’s on me, not anyone.",
+      "portuguese": "Se eu me atrasar, é culpa minha, não de ninguém.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751857"
+    },
+    {
+      "english": "I keep thinking about the risk, honestly.",
+      "portuguese": "Fico pensando no risco, de verdade.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751860"
+    },
+    {
+      "english": "I want feedback, even if it stings a bit.",
+      "portuguese": "Quero feedback, mesmo que doa um pouco.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751863"
+    },
+    {
+      "english": "I’m trying to manage expectations, day by day.",
+      "portuguese": "Estou tentando gerenciar expectativas, dia após dia.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751866"
+    },
+    {
+      "english": "I’m okay with waiting, but please be clear.",
+      "portuguese": "Tudo bem eu esperar, mas por favor, seja claro.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751869"
+    },
+    {
+      "english": "I don’t want to pretend, I’m unsure.",
+      "portuguese": "Não quero fingir, eu estou em dúvida.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751872"
+    },
+    {
+      "english": "I’d rather discuss now than regret later.",
+      "portuguese": "Prefiro conversar agora do que me arrepender depois.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751875"
+    },
+    {
+      "english": "I’m proud of the progress, even so.",
+      "portuguese": "Estou orgulhoso pelo progresso, mesmo assim.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751878"
+    },
+    {
+      "english": "I need clarity on priorities, not more tasks.",
+      "portuguese": "Preciso de clareza nas prioridades, não de mais tarefas.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751881"
+    },
+    {
+      "english": "I’ll take responsibility, I should’ve checked earlier.",
+      "portuguese": "Vou assumir a responsabilidade, eu deveria ter checado antes.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751886"
+    },
+    {
+      "english": "I’m at my limit, but I’ll push through.",
+      "portuguese": "Estou no meu limite, mas vou aguentar.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751890"
+    },
+    {
+      "english": "I can’t keep up unless we simplify.",
+      "portuguese": "Não consigo acompanhar se a gente não simplificar.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751892"
+    },
+    {
+      "english": "I feel stuck, so I’ll ask for help.",
+      "portuguese": "Estou travado, então vou pedir ajuda.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751895"
+    },
+    {
+      "english": "Give me one clear next step, please.",
+      "portuguese": "Me dê um próximo passo claro, por favor.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751898"
+    },
+    {
+      "english": "I want to improve, but I need realistic pace.",
+      "portuguese": "Quero melhorar, mas preciso de um ritmo realista.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751901"
+    },
+    {
+      "english": "I’m grateful for the patience, it helps a lot.",
+      "portuguese": "Sou grato pela paciência, ajuda muito.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751904"
+    },
+    {
+      "english": "I’m thinking out loud, tell me if I’m off.",
+      "portuguese": "Estou pensando alto, me diga se eu estiver errado.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751907"
+    },
+    {
+      "english": "I’d like to reset, start fresh tomorrow.",
+      "portuguese": "Queria dar um reset, começar do zero amanhã.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751910"
+    },
+    {
+      "english": "I don’t want drama, I just want solutions.",
+      "portuguese": "Não quero drama, só quero soluções.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751914"
+    },
+    {
+      "english": "I’m learning from this, but it’s frustrating.",
+      "portuguese": "Estou aprendendo com isso, mas é frustrante.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-07T09:26:22.751918"
     }
   ],
-  "last_updated": "2026-11-06T10:07:53.064087"
+  "last_updated": "2026-11-07T09:26:22.751919"
 }
