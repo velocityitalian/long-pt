@@ -15119,7 +15119,727 @@
       "portuguese": "Estou aprendendo com isso, mas é frustrante.",
       "category": "Work & Office",
       "generated_at": "2026-11-07T09:26:22.751918"
+    },
+    {
+      "english": "In our house, we greet first, then eat.",
+      "portuguese": "Na nossa casa, a gente cumpre primeiro, depois come.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060206"
+    },
+    {
+      "english": "When guests arrive, we offer something right away.",
+      "portuguese": "Quando os convidados chegam, a gente oferece logo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060221"
+    },
+    {
+      "english": "Oh, you’re early, that’s so nice!",
+      "portuguese": "Ai, você chegou cedo, que legal!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060225"
+    },
+    {
+      "english": "No worries, we’ll start in a minute.",
+      "portuguese": "Sem stress, a gente começa daqui a pouco.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060228"
+    },
+    {
+      "english": "Here, we say thanks before anything else.",
+      "portuguese": "Aqui, a gente agradece antes de tudo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060231"
+    },
+    {
+      "english": "Let me help, you can relax, okay?",
+      "portuguese": "Deixa eu ajudar, você pode relaxar, tá?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060233"
+    },
+    {
+      "english": "That’s how we do it, every day.",
+      "portuguese": "É assim que a gente faz, todo dia.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060236"
+    },
+    {
+      "english": "Wait, don’t forget the blessing, please.",
+      "portuguese": "Espera, não esquece a bênção, por favor.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060241"
+    },
+    {
+      "english": "Quick question, are you bringing something?",
+      "portuguese": "Pergunta rápida, você vai trazer algo?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060244"
+    },
+    {
+      "english": "Good taste, I love this, seriously.",
+      "portuguese": "Que bom gosto, eu adoro isso, de verdade.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060247"
+    },
+    {
+      "english": "Wow, that smells amazing, what is it?",
+      "portuguese": "Nossa, isso tá com um cheiro incrível, o que é?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060249"
+    },
+    {
+      "english": "We always toast, then we start eating.",
+      "portuguese": "A gente sempre faz brinde, depois come.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060251"
+    },
+    {
+      "english": "Sorry, I’m late, traffic was crazy today.",
+      "portuguese": "Desculpa, cheguei atrasado, o trânsito hoje foi louco.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060254"
+    },
+    {
+      "english": "No, thank you, I already ate.",
+      "portuguese": "Não, obrigado(a), eu já comi.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060257"
+    },
+    {
+      "english": "Yes, please, pass it to me.",
+      "portuguese": "Sim, por favor, me passa isso.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060259"
+    },
+    {
+      "english": "That’s perfect, I was worried, honestly.",
+      "portuguese": "Perfeito, eu tava preocupado, de verdade.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060262"
+    },
+    {
+      "english": "I brought something small, it’s nothing big.",
+      "portuguese": "Eu trouxe só um pouco, não é nada demais.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060265"
+    },
+    {
+      "english": "Hold on, let me wash my hands first.",
+      "portuguese": "Espera, vou lavar as mãos primeiro.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060267"
+    },
+    {
+      "english": "Before we eat, we ask, how are you?",
+      "portuguese": "Antes de comer, a gente pergunta como você tá.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060271"
+    },
+    {
+      "english": "We sit together, talk a lot, then relax.",
+      "portuguese": "A gente senta junto, conversa bastante, depois relaxa.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060274"
+    },
+    {
+      "english": "I’ll take care of it, you don’t need.",
+      "portuguese": "Eu resolvo isso, você não precisa.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060276"
+    },
+    {
+      "english": "Don’t worry, I’ll clean up later.",
+      "portuguese": "Fica tranquilo, eu limpo depois.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060279"
+    },
+    {
+      "english": "If you can, bring drinks for everyone.",
+      "portuguese": "Se der, traz bebidas pra todo mundo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060281"
+    },
+    {
+      "english": "That’s rude, we don’t interrupt here.",
+      "portuguese": "Isso é falta de educação, a gente não interrompe.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060283"
+    },
+    {
+      "english": "Really? Tell me more, I’m curious.",
+      "portuguese": "Sério? Me conta mais, eu tô curioso.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060286"
+    },
+    {
+      "english": "Good job, you nailed the tradition!",
+      "portuguese": "Mandou bem, você acertou a tradição!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060288"
+    },
+    {
+      "english": "Let’s keep it simple, we all understand.",
+      "portuguese": "Vamos manter simples, todo mundo entende.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060291"
+    },
+    {
+      "english": "Next time, I’ll join you earlier.",
+      "portuguese": "Da próxima, eu vou junto mais cedo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060293"
+    },
+    {
+      "english": "Cheers, thanks for hosting us tonight!",
+      "portuguese": "Saúde, obrigado(a) por nos receber hoje!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060295"
+    },
+    {
+      "english": "I’m full, but I’ll take a little more.",
+      "portuguese": "Tô cheio(a), mas eu pego só um pouco.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060298"
+    },
+    {
+      "english": "What’s the tradition when people visit?",
+      "portuguese": "Qual é a tradição quando a gente visita?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060302"
+    },
+    {
+      "english": "Do you bless the food before serving?",
+      "portuguese": "Vocês abençoam a comida antes de servir?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060304"
+    },
+    {
+      "english": "When do you say thank you, exactly?",
+      "portuguese": "Quando você diz obrigado, exatamente?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060307"
+    },
+    {
+      "english": "Is there a special greeting for holidays?",
+      "portuguese": "Tem uma saudação especial em feriados?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060309"
+    },
+    {
+      "english": "Can I ask, what’s your family custom?",
+      "portuguese": "Posso perguntar, qual é o costume da sua família?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060312"
+    },
+    {
+      "english": "Should I bring something, or not?",
+      "portuguese": "Eu devo levar alguma coisa, ou não?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060314"
+    },
+    {
+      "english": "How do you show respect during celebrations?",
+      "portuguese": "Como vocês mostram respeito nas festas?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060316"
+    },
+    {
+      "english": "Do people dress up for the main moment?",
+      "portuguese": "As pessoas se vestem bem no momento principal?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060318"
+    },
+    {
+      "english": "What do you do first at gatherings?",
+      "portuguese": "O que vocês fazem primeiro quando se juntam?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060320"
+    },
+    {
+      "english": "Is there a particular seat for elders?",
+      "portuguese": "Existe lugar especial para os mais velhos?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060322"
+    },
+    {
+      "english": "May I ask about the blessing ritual?",
+      "portuguese": "Posso perguntar sobre a reza antes da refeição?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060324"
+    },
+    {
+      "english": "Do you clap, sing, or just talk?",
+      "portuguese": "Vocês batem palmas, cantam, ou conversam mais?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060327"
+    },
+    {
+      "english": "What’s the best way to join in?",
+      "portuguese": "Qual é a melhor forma de participar?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060330"
+    },
+    {
+      "english": "Should I wait, or start helping right away?",
+      "portuguese": "Eu espero, ou começo a ajudar na hora?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060332"
+    },
+    {
+      "english": "How do you invite people politely?",
+      "portuguese": "Como vocês convidam as pessoas com educação?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060335"
+    },
+    {
+      "english": "Is it rude to arrive right on time?",
+      "portuguese": "É falta de educação chegar certinho?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060337"
+    },
+    {
+      "english": "What do you call this tradition, in Portuguese?",
+      "portuguese": "Como você chama essa tradição, em português?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060339"
+    },
+    {
+      "english": "Do you share stories during dinner?",
+      "portuguese": "Vocês contam histórias durante o jantar?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060341"
+    },
+    {
+      "english": "Can I compliment the host’s cooking?",
+      "portuguese": "Posso elogiar a comida da anfitriã?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060345"
+    },
+    {
+      "english": "What questions do locals ask at first?",
+      "portuguese": "Que perguntas os locais fazem logo no começo?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060349"
+    },
+    {
+      "english": "Should I try the local dessert, honestly?",
+      "portuguese": "Eu devo experimentar a sobremesa local, de verdade?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060356"
+    },
+    {
+      "english": "How long does the celebration usually last?",
+      "portuguese": "Quanto tempo dura a celebração?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060358"
+    },
+    {
+      "english": "What’s the meaning behind the songs?",
+      "portuguese": "Qual é o significado das músicas?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060360"
+    },
+    {
+      "english": "Do people thank the cook at the end?",
+      "portuguese": "A gente agradece ao cozinheiro no fim?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060362"
+    },
+    {
+      "english": "Can I join the group photo moment?",
+      "portuguese": "Posso participar da foto do grupo, por favor?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060364"
+    },
+    {
+      "english": "What should I avoid during the ritual?",
+      "portuguese": "O que eu devo evitar durante o ritual?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060366"
+    },
+    {
+      "english": "Is it okay to ask about gifts and cards?",
+      "portuguese": "Posso perguntar sobre presentes e cartões?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060369"
+    },
+    {
+      "english": "How can I say sorry, if I’m late?",
+      "portuguese": "Como peço desculpas se eu chegar atrasado?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060372"
+    },
+    {
+      "english": "What’s the safest tip for newcomers here?",
+      "portuguese": "Qual é a dica mais segura para quem chega agora?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060374"
+    },
+    {
+      "english": "Breathe, relax, you’ll feel the rhythm.",
+      "portuguese": "Respira, relaxa, você vai sentir o ritmo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060377"
+    },
+    {
+      "english": "Start with a smile, follow their lead.",
+      "portuguese": "Comece com um sorriso, siga a liderança deles.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060379"
+    },
+    {
+      "english": "It’s okay to be a little nervous.",
+      "portuguese": "Tudo bem ficar um pouco nervoso.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060382"
+    },
+    {
+      "english": "You’re learning, not doing it perfectly.",
+      "portuguese": "Você está aprendendo, não precisa ser perfeito.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060385"
+    },
+    {
+      "english": "Try again, small effort counts a lot.",
+      "portuguese": "Tenta de novo, o pequeno esforço ajuda muito.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060387"
+    },
+    {
+      "english": "Say “obrigado”, even if you’re unsure.",
+      "portuguese": "Diga “obrigado”, mesmo sem ter certeza.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060390"
+    },
+    {
+      "english": "Listen first, then join in naturally.",
+      "portuguese": "Escuta primeiro, depois entra junto com naturalidade.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060392"
+    },
+    {
+      "english": "You belong here, just be respectful.",
+      "portuguese": "Você pertence aqui, só seja respeitoso.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060395"
+    },
+    {
+      "english": "Keep your tone warm, people notice.",
+      "portuguese": "Mantenha um tom carinhoso, as pessoas notam.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060397"
+    },
+    {
+      "english": "Ask gently, locals love patience and kindness.",
+      "portuguese": "Pergunte com calma, os locais gostam de paciência.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060399"
+    },
+    {
+      "english": "Your effort matters, that’s what counts.",
+      "portuguese": "Seu esforço conta, é isso que vale.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060402"
+    },
+    {
+      "english": "Praise the moment, not only the result.",
+      "portuguese": "Elogie o momento, não só o resultado.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060404"
+    },
+    {
+      "english": "You’re doing great, even with mistakes.",
+      "portuguese": "Você está indo muito bem, mesmo errando.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060407"
+    },
+    {
+      "english": "Relax your shoulders, enjoy the tradition.",
+      "portuguese": "Solte os ombros, aproveite a tradição.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060409"
+    },
+    {
+      "english": "Thanks for asking, that shows respect.",
+      "portuguese": "Obrigado por perguntar, isso mostra respeito.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060411"
+    },
+    {
+      "english": "Make eye contact, you’ll seem more confident.",
+      "portuguese": "Faça contato visual, você vai parecer confiante.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060414"
+    },
+    {
+      "english": "Celebrate small wins, they build momentum.",
+      "portuguese": "Comemore as pequenas vitórias, elas criam impulso.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060416"
+    },
+    {
+      "english": "Be curious, “why” is welcome here.",
+      "portuguese": "Seja curioso, “por quê” é bem-vindo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060421"
+    },
+    {
+      "english": "Don’t rush, they’ll show you the steps.",
+      "portuguese": "Sem pressa, eles vão te mostrar os passos.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060424"
+    },
+    {
+      "english": "Your questions are gifts, ask them anytime.",
+      "portuguese": "Suas perguntas são presentes, faça a qualquer hora.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060426"
+    },
+    {
+      "english": "Stay positive, the mood will lift.",
+      "portuguese": "Fique positivo, a energia melhora.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060428"
+    },
+    {
+      "english": "Try a toast, say it from the heart.",
+      "portuguese": "Faça um brinde, diga com o coração.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060430"
+    },
+    {
+      "english": "Be flexible, customs can vary by family.",
+      "portuguese": "Seja flexível, as tradições mudam por família.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060432"
+    },
+    {
+      "english": "Even a small compliment brings warmth.",
+      "portuguese": "Um elogio pequeno já traz carinho.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060436"
+    },
+    {
+      "english": "If you forget, just smile and continue.",
+      "portuguese": "Se esquecer, sorria e segue em frente.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060439"
+    },
+    {
+      "english": "Keep showing respect, that’s the key.",
+      "portuguese": "Continue mostrando respeito, essa é a chave.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060441"
+    },
+    {
+      "english": "You’re part of the group, relax.",
+      "portuguese": "Você faz parte do grupo, relaxa.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060444"
+    },
+    {
+      "english": "Praise the elders, their guidance is gold.",
+      "portuguese": "Elogie os mais velhos, o conselho deles vale muito.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060446"
+    },
+    {
+      "english": "Keep a light heart, enjoy every greeting.",
+      "portuguese": "Mantenha o coração leve, aproveite cada cumprimento.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060448"
+    },
+    {
+      "english": "I feel honored, I’ll take my time.",
+      "portuguese": "Eu me sinto honrado, vou com calma.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060451"
+    },
+    {
+      "english": "Honestly, I’m moved by how they welcome us.",
+      "portuguese": "Sinceramente, eu fico emocionado com a recepção.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060453"
+    },
+    {
+      "english": "I’m still learning, but I respect the rhythm.",
+      "portuguese": "Ainda estou aprendendo, mas respeito o ritmo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060456"
+    },
+    {
+      "english": "This tradition feels like a warm family hug.",
+      "portuguese": "Essa tradição parece um abraço de família.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060458"
+    },
+    {
+      "english": "I just want to do things the right way.",
+      "portuguese": "Eu só quero fazer tudo do jeito certo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060461"
+    },
+    {
+      "english": "I’m grateful, even if I don’t understand everything.",
+      "portuguese": "Sou grato, mesmo sem entender tudo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060464"
+    },
+    {
+      "english": "Let me observe first, then I’ll join in.",
+      "portuguese": "Vou observar primeiro, depois eu participo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060466"
+    },
+    {
+      "english": "My heart gets lighter when we share food.",
+      "portuguese": "Meu coração fica leve quando a gente divide comida.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060468"
+    },
+    {
+      "english": "I don’t want to rush, I want to feel it.",
+      "portuguese": "Eu não quero apressar, quero sentir.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060471"
+    },
+    {
+      "english": "To be honest, I’m a bit nervous here.",
+      "portuguese": "Falando a verdade, estou um pouco nervoso aqui.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060473"
+    },
+    {
+      "english": "I’m trying to be respectful, that’s my goal.",
+      "portuguese": "Estou tentando ser respeitoso, esse é meu objetivo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060476"
+    },
+    {
+      "english": "I appreciate the patience, it helps me relax.",
+      "portuguese": "Eu agradeço a paciência, isso me ajuda a relaxar.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060480"
+    },
+    {
+      "english": "This moment reminds me to slow down.",
+      "portuguese": "Esse momento me lembra de desacelerar.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060482"
+    },
+    {
+      "english": "I’m proud of myself for showing up.",
+      "portuguese": "Estou orgulhoso por ter vindo.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060485"
+    },
+    {
+      "english": "I don’t have to be perfect to belong.",
+      "portuguese": "Eu não preciso ser perfeito para pertencer.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060487"
+    },
+    {
+      "english": "I feel calmer when I follow their examples.",
+      "portuguese": "Fico mais calmo quando sigo o exemplo deles.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060489"
+    },
+    {
+      "english": "I’m learning the meaning behind these gestures.",
+      "portuguese": "Estou aprendendo o sentido desses gestos.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060492"
+    },
+    {
+      "english": "I’ll speak less, and listen with care.",
+      "portuguese": "Vou falar menos, e ouvir com cuidado.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060494"
+    },
+    {
+      "english": "This is bigger than a party, it’s tradition.",
+      "portuguese": "Isso é maior que uma festa, é tradição.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060497"
+    },
+    {
+      "english": "Sometimes I get emotional, and that’s okay.",
+      "portuguese": "Às vezes eu fico emocionado, e tudo bem.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060500"
+    },
+    {
+      "english": "I’m thankful for the stories, they carry history.",
+      "portuguese": "Sou grato pelas histórias, elas carregam história.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060502"
+    },
+    {
+      "english": "I want to honor them, not just observe.",
+      "portuguese": "Quero respeitar, não só observar.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060505"
+    },
+    {
+      "english": "If I’m unsure, I’ll ask gently later.",
+      "portuguese": "Se eu não tiver certeza, pergunto com calma depois.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060509"
+    },
+    {
+      "english": "I can feel the respect in every detail.",
+      "portuguese": "Eu sinto o respeito em cada detalhe.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060511"
+    },
+    {
+      "english": "I’m trying to match the energy, calmly.",
+      "portuguese": "Estou tentando acompanhar a energia, com calma.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060514"
+    },
+    {
+      "english": "This tradition makes me feel connected.",
+      "portuguese": "Essa tradição me faz sentir pertencimento.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060518"
+    },
+    {
+      "english": "I’ll keep my mind open, cultures differ.",
+      "portuguese": "Vou manter a mente aberta, cada cultura é diferente.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060520"
+    },
+    {
+      "english": "I’m here for the heart, not the performance.",
+      "portuguese": "Estou aqui pelo coração, não pela performance.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060522"
+    },
+    {
+      "english": "I’ll show gratitude, even with simple words.",
+      "portuguese": "Vou demonstrar gratidão, com palavras simples.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060525"
+    },
+    {
+      "english": "Right now, I just want peace and respect.",
+      "portuguese": "Agora, eu só quero paz e respeito.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060527"
+    },
+    {
+      "english": "Bring something small, it smooths the visit.",
+      "portuguese": "Traga algo pequeno, isso facilita a visita.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060529"
+    },
+    {
+      "english": "When you arrive, greet everyone, even briefly.",
+      "portuguese": "Ao chegar, cumprimente todo mundo, nem que seja rápido.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-08T09:43:56.060532"
     }
   ],
-  "last_updated": "2026-11-07T09:26:22.751919"
+  "last_updated": "2026-11-08T09:43:56.060533"
 }
