@@ -16559,7 +16559,727 @@
       "portuguese": "Me manda um áudio rápido, eu escuto.",
       "category": "Love",
       "generated_at": "2026-11-09T10:38:23.080549"
+    },
+    {
+      "english": "Okay, slow down, we’ve got time.",
+      "portuguese": "Tá bem, devagar, a gente tem tempo.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382531"
+    },
+    {
+      "english": "Relax, breathe, it’ll work out.",
+      "portuguese": "Relaxa, respira, vai dar certo.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382545"
+    },
+    {
+      "english": "Wait, I’m coming, don’t rush.",
+      "portuguese": "Espera, já vou, não corre.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382550"
+    },
+    {
+      "english": "Hold on, let me check quickly.",
+      "portuguese": "Espera aí, vou conferir rapidinho.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382553"
+    },
+    {
+      "english": "Be patient, this isn’t a race.",
+      "portuguese": "Tenha paciência, não é corrida.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382556"
+    },
+    {
+      "english": "No stress, we’ll figure it out.",
+      "portuguese": "Sem stress, a gente resolve.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382559"
+    },
+    {
+      "english": "Give it a minute, please.",
+      "portuguese": "Dá um minuto, por favor.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382565"
+    },
+    {
+      "english": "Take your time, I’m not going anywhere.",
+      "portuguese": "Fica à vontade, eu não vou a lugar nenhum.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382571"
+    },
+    {
+      "english": "Let it go, seriously, it’s fine.",
+      "portuguese": "Deixa pra lá, sério, tá tudo bem.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382576"
+    },
+    {
+      "english": "Calm down, I’ll explain slowly.",
+      "portuguese": "Calma, eu explico devagarinho.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382579"
+    },
+    {
+      "english": "One second, the internet is acting up.",
+      "portuguese": "Um instante, a internet tá zoada.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382582"
+    },
+    {
+      "english": "Okay, okay, don’t panic, please.",
+      "portuguese": "Tá bom, tá bom, não entra em pânico.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382585"
+    },
+    {
+      "english": "Just wait, it’ll load soon.",
+      "portuguese": "Só espera, vai carregar já já.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382589"
+    },
+    {
+      "english": "Hold your horses, we’re almost there.",
+      "portuguese": "Segura a onda, estamos quase lá.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382592"
+    },
+    {
+      "english": "Take it easy, you’ll get used to it.",
+      "portuguese": "Vai com calma, você vai se acostumar.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382595"
+    },
+    {
+      "english": "I know, but wait, not yet.",
+      "portuguese": "Eu sei, mas espera, ainda não.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382598"
+    },
+    {
+      "english": "Let me handle it, okay?",
+      "portuguese": "Deixa comigo, tá?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382601"
+    },
+    {
+      "english": "Chill, it’s just a small delay.",
+      "portuguese": "Tranquilo, é só um atraso.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382604"
+    },
+    {
+      "english": "Patience, please, we’ll start soon.",
+      "portuguese": "Com paciência, a gente começa já.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382609"
+    },
+    {
+      "english": "Not yet, give me a second.",
+      "portuguese": "Ainda não, me dá um segundo.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382612"
+    },
+    {
+      "english": "Stay cool, we can fix it.",
+      "portuguese": "Fica na boa, dá pra consertar.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382615"
+    },
+    {
+      "english": "Wait, that’s not what you meant.",
+      "portuguese": "Espera, não era isso que você quis dizer.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382618"
+    },
+    {
+      "english": "Okay, breathe, listen to me, please.",
+      "portuguese": "Tá, respira, escuta eu, por favor.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382621"
+    },
+    {
+      "english": "No hurry, I’m right here.",
+      "portuguese": "Sem pressa, eu tô aqui.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382624"
+    },
+    {
+      "english": "Just a sec, I’m almost done.",
+      "portuguese": "Mais um minutinho, já vou terminar.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382627"
+    },
+    {
+      "english": "Take a breath, it’s under control.",
+      "portuguese": "Respira, tá tudo sob controle.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382630"
+    },
+    {
+      "english": "Hold on, I’ll repeat it slowly.",
+      "portuguese": "Espera, vou repetir devagar.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382633"
+    },
+    {
+      "english": "Okay, patience pays off, trust me.",
+      "portuguese": "Calma, paciência dá resultado, confia.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382636"
+    },
+    {
+      "english": "Don’t rush, ask me first, please.",
+      "portuguese": "Sem pressa, pergunta primeiro.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382639"
+    },
+    {
+      "english": "We’ll get there, one step at a time.",
+      "portuguese": "A gente chega, passo a passo.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382642"
+    },
+    {
+      "english": "Can you repeat that, I missed the key detail?",
+      "portuguese": "Você pode repetir isso, eu perdi o detalhe-chave?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382645"
+    },
+    {
+      "english": "How long does it usually take, roughly?",
+      "portuguese": "Quanto tempo costuma levar, mais ou menos?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382648"
+    },
+    {
+      "english": "Do you have a tip for staying calm?",
+      "portuguese": "Você tem alguma dica para ficar calmo?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382651"
+    },
+    {
+      "english": "What should I ask first, in Portuguese?",
+      "portuguese": "O que eu devo perguntar primeiro, em português?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382655"
+    },
+    {
+      "english": "Could you clarify, step by step, please?",
+      "portuguese": "Você pode esclarecer, passo a passo, por favor?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382658"
+    },
+    {
+      "english": "Is it okay to ask for slower speech?",
+      "portuguese": "Posso pedir para falar mais devagar?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382660"
+    },
+    {
+      "english": "Where do I start, if I’m unsure?",
+      "portuguese": "Por onde começo, se eu estiver em dúvida?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382663"
+    },
+    {
+      "english": "What does 'gentilmente' mean, in context?",
+      "portuguese": "O que significa 'gentilmente', no contexto?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382666"
+    },
+    {
+      "english": "Can you help me phrase this question?",
+      "portuguese": "Você pode me ajudar a formular essa pergunta?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382669"
+    },
+    {
+      "english": "Should I use 'você' or 'senhor', here?",
+      "portuguese": "Aqui é melhor usar 'você' ou 'senhor'?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382675"
+    },
+    {
+      "english": "How do locals stay patient during delays?",
+      "portuguese": "Como os locais ficam pacientes com atrasos?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382678"
+    },
+    {
+      "english": "Any advice for answering politely, faster?",
+      "portuguese": "Alguma dica para responder com educação, mais rápido?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382748"
+    },
+    {
+      "english": "Do I pronounce this differently, or same?",
+      "portuguese": "Eu pronuncio isso diferente, ou é igual?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382751"
+    },
+    {
+      "english": "What’s the safest polite sentence to ask?",
+      "portuguese": "Qual é a frase educada mais segura para pedir?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382754"
+    },
+    {
+      "english": "Can we slow it down, just a bit?",
+      "portuguese": "Dá para falar mais devagar, só um pouco?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382757"
+    },
+    {
+      "english": "When is it best to interrupt, politely?",
+      "portuguese": "Quando é melhor interromper, de forma educada?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382760"
+    },
+    {
+      "english": "What if I don’t understand, what now?",
+      "portuguese": "E se eu não entender, o que eu faço?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382763"
+    },
+    {
+      "english": "Could you give me an example sentence?",
+      "portuguese": "Você pode me dar uma frase de exemplo?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382766"
+    },
+    {
+      "english": "How do I ask for help without sounding rude?",
+      "portuguese": "Como pedir ajuda sem soar mal-educado?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382769"
+    },
+    {
+      "english": "Is there a quicker way to say that?",
+      "portuguese": "Existe uma forma mais rápida de dizer isso?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382774"
+    },
+    {
+      "english": "Should I wait for your answer first?",
+      "portuguese": "Eu devo esperar sua resposta primeiro?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382776"
+    },
+    {
+      "english": "May I ask, what’s the next step?",
+      "portuguese": "Posso perguntar qual é o próximo passo?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382781"
+    },
+    {
+      "english": "Do you mind repeating the question, please?",
+      "portuguese": "Você se importa em repetir a pergunta, por favor?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382785"
+    },
+    {
+      "english": "What’s a common mistake beginners make here?",
+      "portuguese": "Qual é o erro comum que os iniciantes cometem?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382788"
+    },
+    {
+      "english": "Can I respond in Portuguese, even if short?",
+      "portuguese": "Posso responder em português, mesmo curto?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382791"
+    },
+    {
+      "english": "How polite should I be, with strangers?",
+      "portuguese": "Com desconhecidos, eu devo ser quão educado?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382794"
+    },
+    {
+      "english": "If I’m stuck, what phrase saves me?",
+      "portuguese": "Se eu travar, qual frase me ajuda?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382797"
+    },
+    {
+      "english": "What do you recommend, daily practice or classes?",
+      "portuguese": "O que você recomenda, prática diária ou aulas?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382799"
+    },
+    {
+      "english": "Before I answer, can you check my wording?",
+      "portuguese": "Antes de responder, você pode revisar minha frase?",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382802"
+    },
+    {
+      "english": "Small progress counts, keep going, seriously.",
+      "portuguese": "Progresso pequeno conta, continua, sério.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382805"
+    },
+    {
+      "english": "You’re learning, today it clicks a bit.",
+      "portuguese": "Você está aprendendo, hoje encaixa um pouco.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382808"
+    },
+    {
+      "english": "Patience is power, your brain needs time.",
+      "portuguese": "Paciência é poder, sua mente precisa de tempo.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382811"
+    },
+    {
+      "english": "Trust the process, it rewards consistency.",
+      "portuguese": "Confie no processo, ele recompensa constância.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382814"
+    },
+    {
+      "english": "Tell yourself, I can handle slow days.",
+      "portuguese": "Diga a si mesmo, eu consigo dias lentos.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382817"
+    },
+    {
+      "english": "Relax your pace, you’ll still get there.",
+      "portuguese": "Relax e o ritmo, você chega do mesmo jeito.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382820"
+    },
+    {
+      "english": "Mistakes happen, patience turns them into lessons.",
+      "portuguese": "Erros acontecem, a paciência vira lições.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382823"
+    },
+    {
+      "english": "Stay present, one sentence at a time.",
+      "portuguese": "Fique no presente, uma frase por vez.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382831"
+    },
+    {
+      "english": "Good things take time, keep showing up.",
+      "portuguese": "Coisas boas levam tempo, continue aparecendo.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382834"
+    },
+    {
+      "english": "You’re not behind, you’re building skills.",
+      "portuguese": "Você não está atrasado, está construindo habilidades.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382837"
+    },
+    {
+      "english": "Repeat with calm, it becomes easier quickly.",
+      "portuguese": "Repita com calma, vai ficando mais fácil.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382840"
+    },
+    {
+      "english": "Breathe out, focus in, keep learning.",
+      "portuguese": "Solte o ar, foque no foco, continue aprendendo.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382843"
+    },
+    {
+      "english": "Every try counts, even when it’s messy.",
+      "portuguese": "Cada tentativa conta, mesmo quando sai bagunçado.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382846"
+    },
+    {
+      "english": "Don’t fight the pace, ride the rhythm.",
+      "portuguese": "Não brigue com a velocidade, siga o ritmo.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382850"
+    },
+    {
+      "english": "Patience today, confidence tomorrow, that’s the deal.",
+      "portuguese": "Paciência hoje, confiança amanhã, é combinado.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382854"
+    },
+    {
+      "english": "Say it again, slowly, your mind adapts.",
+      "portuguese": "Diz de novo, devagar, sua mente se adapta.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382857"
+    },
+    {
+      "english": "Stay kind to yourself, you’re doing it.",
+      "portuguese": "Seja gentil com você, você está conseguindo.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382860"
+    },
+    {
+      "english": "Small daily effort wins, over and over.",
+      "portuguese": "Esforço diário pequeno vence, sempre de novo.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382862"
+    },
+    {
+      "english": "You don’t have to rush, choose steady.",
+      "portuguese": "Você não precisa correr, escolha constância.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382866"
+    },
+    {
+      "english": "Make peace with repetition, it works.",
+      "portuguese": "Faça as pazes com a repetição, funciona.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382868"
+    },
+    {
+      "english": "When it’s hard, pause, then continue.",
+      "portuguese": "Quando for difícil, pare, depois continue.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382872"
+    },
+    {
+      "english": "Keep going, your future self says thanks.",
+      "portuguese": "Continua, seu eu do futuro vai agradecer.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382874"
+    },
+    {
+      "english": "Patience turns confusion into clear understanding.",
+      "portuguese": "Paciência transforma confusão em entendimento.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382879"
+    },
+    {
+      "english": "Be proud, you’re surviving the learning curve.",
+      "portuguese": "Orgulhe-se, você está vencendo a curva.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382883"
+    },
+    {
+      "english": "Give yourself credit, you’re building momentum.",
+      "portuguese": "Dê crédito a si mesmo, você ganha ritmo.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382886"
+    },
+    {
+      "english": "One more try, then rest, that’s smart.",
+      "portuguese": "Mais uma tentativa, depois descanse, faz sentido.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382890"
+    },
+    {
+      "english": "Stay positive, small steps beat big stress.",
+      "portuguese": "Mantenha o lado positivo, passos pequenos vencem estresse.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382893"
+    },
+    {
+      "english": "You’ve got this, patience makes it possible.",
+      "portuguese": "Você consegue, a paciência torna tudo possível.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382896"
+    },
+    {
+      "english": "Let it take time, your progress is real.",
+      "portuguese": "Deixe levar tempo, seu progresso é real.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382900"
+    },
+    {
+      "english": "Focus on effort, results follow patiently.",
+      "portuguese": "Foque no esforço, resultado vem com calma.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382903"
+    },
+    {
+      "english": "I’m letting my feelings be real, without rushing.",
+      "portuguese": "Eu estou deixando meus sentimentos serem reais, sem pressa.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382906"
+    },
+    {
+      "english": "Some days, I just need quiet and patience.",
+      "portuguese": "Tem dias em que eu só preciso de calma e paciência.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382909"
+    },
+    {
+      "english": "I notice my mind wants speed, but I slow down.",
+      "portuguese": "Eu noto que minha mente quer pressa, mas eu desacelero.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382912"
+    },
+    {
+      "english": "When I feel stuck, I breathe, then continue.",
+      "portuguese": "Quando eu sinto que travo, eu respiro, e sigo.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382915"
+    },
+    {
+      "english": "I’m learning to wait, and I don’t panic.",
+      "portuguese": "Estou aprendendo a esperar, e não entro em pânico.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382919"
+    },
+    {
+      "english": "I trust the slow moment, it’s teaching me.",
+      "portuguese": "Eu confio no momento lento, ele está me ensinando.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382922"
+    },
+    {
+      "english": "My progress feels messy, but it’s honest.",
+      "portuguese": "Meu progresso parece bagunçado, mas é sincero.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382925"
+    },
+    {
+      "english": "I admit I’m tired, then I try again.",
+      "portuguese": "Eu admito que estou cansado, e tento de novo.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382928"
+    },
+    {
+      "english": "I’m not behind, I’m just going carefully.",
+      "portuguese": "Eu não estou atrasado, eu só estou indo com cuidado.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382931"
+    },
+    {
+      "english": "Give me time, I’ll explain it better.",
+      "portuguese": "Me dá tempo, eu explico melhor depois.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382935"
+    },
+    {
+      "english": "I let emotions pass, like clouds moving by.",
+      "portuguese": "Eu deixo as emoções passarem, como nuvens indo embora.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382937"
+    },
+    {
+      "english": "I choose calm, even when I’m disappointed.",
+      "portuguese": "Eu escolho a calma, mesmo quando eu me decepciono.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382940"
+    },
+    {
+      "english": "Patience isn’t passive, it’s attentive and steady.",
+      "portuguese": "Paciência não é passiva, é atenta e constante.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382944"
+    },
+    {
+      "english": "I slow my voice, so my thoughts catch up.",
+      "portuguese": "Eu reduzo a velocidade da minha fala, pra pensar melhor.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382947"
+    },
+    {
+      "english": "I can be honest, and still be patient.",
+      "portuguese": "Eu posso ser honesto, e ainda ser paciente.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382949"
+    },
+    {
+      "english": "I don’t need quick answers, I need clarity.",
+      "portuguese": "Eu não preciso de respostas rápidas, preciso de clareza.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382953"
+    },
+    {
+      "english": "Even silence can help, I listen slowly.",
+      "portuguese": "Até o silêncio ajuda, eu escuto devagar.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382956"
+    },
+    {
+      "english": "I remember, I’m growing, not just performing.",
+      "portuguese": "Eu lembro que eu estou crescendo, não só performando.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382959"
+    },
+    {
+      "english": "If it hurts, I respect the feeling, then continue.",
+      "portuguese": "Se dói, eu respeito o sentimento, e sigo em frente.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382962"
+    },
+    {
+      "english": "I’m okay with delays, as long as I move.",
+      "portuguese": "Eu estou bem com atrasos, desde que eu avance.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382965"
+    },
+    {
+      "english": "My heart wants results, my mind asks for time.",
+      "portuguese": "Meu coração quer resultado, minha mente pede tempo.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382968"
+    },
+    {
+      "english": "I stop comparing, I keep practicing patiently.",
+      "portuguese": "Eu paro de comparar, e continuo praticando com calma.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382971"
+    },
+    {
+      "english": "I’m learning to tolerate the in-between.",
+      "portuguese": "Estou aprendendo a tolerar o meio-termo.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382974"
+    },
+    {
+      "english": "When doubt shows up, I answer with effort.",
+      "portuguese": "Quando a dúvida aparece, eu respondo com esforço.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382987"
+    },
+    {
+      "english": "I let my expectations cool down, gently.",
+      "portuguese": "Eu deixo minhas expectativas esfriarem, com carinho.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382992"
+    },
+    {
+      "english": "I’m not rushing love, I’m choosing trust.",
+      "portuguese": "Eu não corro a pressa no amor, eu escolho confiança.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382995"
+    },
+    {
+      "english": "I forgive myself, I take one small step.",
+      "portuguese": "Eu me perdoo, eu dou um passo pequeno.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.382998"
+    },
+    {
+      "english": "Patience means being kind, even to my doubts.",
+      "portuguese": "Paciência é ser gentil, até com minhas dúvidas.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.383000"
+    },
+    {
+      "english": "Tonight, I’ll be proud, and sleep in peace.",
+      "portuguese": "Hoje à noite, eu vou ficar orgulhoso, e dormir em paz.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.383006"
+    },
+    {
+      "english": "Before you reply, breathe, then answer slowly.",
+      "portuguese": "Antes de responder, respire, depois responda devagar.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.383009"
+    },
+    {
+      "english": "If the bus is late, relax, enjoy the wait.",
+      "portuguese": "Se o ônibus atrasar, relaxa, aproveita a espera.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T10:38:25.383012"
     }
   ],
-  "last_updated": "2026-11-09T10:38:23.080551"
+  "last_updated": "2026-11-10T10:38:25.383014"
 }
