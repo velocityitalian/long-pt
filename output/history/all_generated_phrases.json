@@ -17279,7 +17279,727 @@
       "portuguese": "Se o ônibus atrasar, relaxa, aproveita a espera.",
       "category": "Patience",
       "generated_at": "2026-11-10T10:38:25.383012"
+    },
+    {
+      "english": "Okay, breathe, you’ve got this, seriously.",
+      "portuguese": "Tá, respira, você consegue, sério.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010025"
+    },
+    {
+      "english": "Pause a second, let me think, okay?",
+      "portuguese": "Espera um segundo, deixa eu pensar, tá?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010038"
+    },
+    {
+      "english": "Good point, you’re right, let’s move.",
+      "portuguese": "Boa, você tem razão, vamos em frente.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010043"
+    },
+    {
+      "english": "Slow down, calm your mind, it’s fine.",
+      "portuguese": "Diminui a pressa, acalma a mente, tá tudo bem.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010047"
+    },
+    {
+      "english": "It’s okay, tomorrow will be better, trust me.",
+      "portuguese": "Tudo bem, amanhã vai ser melhor, confia.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010051"
+    },
+    {
+      "english": "Listen closely, then answer, no stress.",
+      "portuguese": "Escuta com atenção, depois responde, sem stress.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010054"
+    },
+    {
+      "english": "Try again, one more step, you’ll learn.",
+      "portuguese": "Tenta de novo, mais um passo, você aprende.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010058"
+    },
+    {
+      "english": "Be kind, it costs nothing, seriously.",
+      "portuguese": "Seja gentil, não custa nada, sério.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010063"
+    },
+    {
+      "english": "Say it clearly, then relax, you’ll be okay.",
+      "portuguese": "Fala claro, depois relaxa, vai dar tudo certo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010068"
+    },
+    {
+      "english": "Make it simple, start small, win today.",
+      "portuguese": "Simplifica, começa pequeno, vence hoje.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010073"
+    },
+    {
+      "english": "Don’t panic, look around, you’re safe.",
+      "portuguese": "Não entra em pânico, olha ao redor, você tá seguro.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010079"
+    },
+    {
+      "english": "Keep going, little by little, you’ll get there.",
+      "portuguese": "Vai seguindo, aos poucos, você chega lá.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010082"
+    },
+    {
+      "english": "Respect always, speak later, think first.",
+      "portuguese": "Respeito sempre, fala depois, pensa primeiro.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010085"
+    },
+    {
+      "english": "You can handle it, just focus, right now.",
+      "portuguese": "Você dá conta, só foca, agora.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010088"
+    },
+    {
+      "english": "Of course, that makes sense, good idea.",
+      "portuguese": "Claro, faz sentido, boa ideia.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010091"
+    },
+    {
+      "english": "Hold on, give me a moment, please.",
+      "portuguese": "Espera aí, me dá um minuto, por favor.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010094"
+    },
+    {
+      "english": "Let it go, don’t overthink, breathe out.",
+      "portuguese": "Solta isso, não pensa demais, respira.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010097"
+    },
+    {
+      "english": "Take your time, no rush, we’re okay.",
+      "portuguese": "Vai com calma, sem pressa, tá tudo bem.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010100"
+    },
+    {
+      "english": "That’s fair, I agree, let’s decide.",
+      "portuguese": "Justo, eu concordo, vamos decidir.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010104"
+    },
+    {
+      "english": "Be alert, small signs matter, for real.",
+      "portuguese": "Fica atento, pequenos sinais importam, de verdade.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010107"
+    },
+    {
+      "english": "Ask first, then act, don’t guess.",
+      "portuguese": "Pergunta antes, depois age, não chuta.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010110"
+    },
+    {
+      "english": "Make peace, keep it simple, move on.",
+      "portuguese": "Faz as pazes, mantém simples, segue em frente.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010113"
+    },
+    {
+      "english": "Stay humble, learn fast, grow quietly.",
+      "portuguese": "Seja humilde, aprende rápido, cresce quietinho.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010115"
+    },
+    {
+      "english": "You’re doing great, keep that energy.",
+      "portuguese": "Você tá indo muito bem, continua assim.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010119"
+    },
+    {
+      "english": "Watch your tone, be honest, stay respectful.",
+      "portuguese": "Cuide do tom, seja honesto, respeite sempre.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010123"
+    },
+    {
+      "english": "Good luck, you’ve prepared, just go.",
+      "portuguese": "Boa sorte, você se preparou, vai lá.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010126"
+    },
+    {
+      "english": "No problem, we’ll figure it out together.",
+      "portuguese": "Sem problema, a gente resolve junto.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010130"
+    },
+    {
+      "english": "If it’s not working, change the approach.",
+      "portuguese": "Se não funciona, muda a estratégia.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010133"
+    },
+    {
+      "english": "Choose wisely, small steps, big results.",
+      "portuguese": "Escolha bem, passos pequenos, resultados grandes.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010136"
+    },
+    {
+      "english": "Speak up, you matter, don’t be silent.",
+      "portuguese": "Fala a verdade, você importa, não fique calado.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010139"
+    },
+    {
+      "english": "Let’s be real, this takes time, okay?",
+      "portuguese": "Vamos ser realistas, isso leva tempo, tá?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010142"
+    },
+    {
+      "english": "Could you explain that, step by step?",
+      "portuguese": "Você pode explicar isso, passo a passo?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010145"
+    },
+    {
+      "english": "How do people usually say this?",
+      "portuguese": "Como as pessoas costumam dizer isso?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010148"
+    },
+    {
+      "english": "When should we start, do you think?",
+      "portuguese": "Quando a gente começa, você acha?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010151"
+    },
+    {
+      "english": "Is there a better way to ask?",
+      "portuguese": "Existe uma forma melhor de perguntar?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010154"
+    },
+    {
+      "english": "What’s the simplest option right now?",
+      "portuguese": "Qual é a opção mais simples agora?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010157"
+    },
+    {
+      "english": "What would you do in my place?",
+      "portuguese": "O que você faria no meu lugar?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010159"
+    },
+    {
+      "english": "Do you think I should call first?",
+      "portuguese": "Você acha que eu devo ligar primeiro?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010163"
+    },
+    {
+      "english": "Which question should I ask next?",
+      "portuguese": "Que pergunta eu faço agora?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010166"
+    },
+    {
+      "english": "How can I say it more politely?",
+      "portuguese": "Como posso dizer isso com mais educação?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010168"
+    },
+    {
+      "english": "Can you help me choose one?",
+      "portuguese": "Você pode me ajudar a escolher um?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010171"
+    },
+    {
+      "english": "What’s the real problem here, though?",
+      "portuguese": "Qual é o problema de verdade aqui?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010174"
+    },
+    {
+      "english": "Do you know the best timing for this?",
+      "portuguese": "Você sabe o melhor horário para isso?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010178"
+    },
+    {
+      "english": "Should I ask the teacher, or search?",
+      "portuguese": "Eu pergunto ao professor, ou eu procuro?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010181"
+    },
+    {
+      "english": "Where do I start, if I’m stuck?",
+      "portuguese": "Por onde eu começo, se eu travar?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010185"
+    },
+    {
+      "english": "What does this phrase mean in real life?",
+      "portuguese": "O que essa frase quer dizer na prática?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010187"
+    },
+    {
+      "english": "Is it better to be direct, or gentle?",
+      "portuguese": "É melhor ser direto, ou ser gentil?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010190"
+    },
+    {
+      "english": "What are we aiming for, exactly?",
+      "portuguese": "A gente está buscando o quê, exatamente?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010193"
+    },
+    {
+      "english": "Would you mind repeating that, please?",
+      "portuguese": "Você se importa em repetir, por favor?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010195"
+    },
+    {
+      "english": "How do you handle stress, day to day?",
+      "portuguese": "Como você lida com o estresse, no dia a dia?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010198"
+    },
+    {
+      "english": "What’s your rule for making decisions?",
+      "portuguese": "Qual é a sua regra para decidir?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010203"
+    },
+    {
+      "english": "Can we talk about your plan now?",
+      "portuguese": "Podemos conversar sobre seu plano agora?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010206"
+    },
+    {
+      "english": "What’s one small thing I can do?",
+      "portuguese": "O que eu posso fazer, uma coisinha pequena?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010208"
+    },
+    {
+      "english": "Do you want advice, or just company?",
+      "portuguese": "Você quer conselhos, ou só companhia?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010211"
+    },
+    {
+      "english": "How sure are you about that?",
+      "portuguese": "Você tem certeza disso, ou só acha?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010213"
+    },
+    {
+      "english": "What question should we ask first?",
+      "portuguese": "Que pergunta a gente faz primeiro?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010216"
+    },
+    {
+      "english": "Can you tell me your honest take?",
+      "portuguese": "Você pode me dizer sua visão sincera?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010218"
+    },
+    {
+      "english": "Would you explain the difference between them?",
+      "portuguese": "Você pode explicar a diferença entre eles?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010221"
+    },
+    {
+      "english": "What if we change the order?",
+      "portuguese": "E se a gente mudar a ordem?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010224"
+    },
+    {
+      "english": "You’ve got this, one day at a time.",
+      "portuguese": "Você consegue, um dia de cada vez.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010227"
+    },
+    {
+      "english": "Small wins count, even when nobody claps.",
+      "portuguese": "Vitórias pequenas contam, mesmo sem aplausos.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010230"
+    },
+    {
+      "english": "Breathe first, then choose your words.",
+      "portuguese": "Respira primeiro, depois escolha as palavras.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010233"
+    },
+    {
+      "english": "Celebrate effort, not just perfect results.",
+      "portuguese": "Celebre o esforço, não só o resultado perfeito.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010236"
+    },
+    {
+      "english": "Mistakes are lessons, not your enemy.",
+      "portuguese": "Erros são lições, não seu inimigo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010239"
+    },
+    {
+      "english": "Be kind to yourself, you’re learning.",
+      "portuguese": "Seja gentil com você, você está aprendendo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010242"
+    },
+    {
+      "english": "Try again, the next attempt is smarter.",
+      "portuguese": "Tenta de novo, a próxima tentativa é melhor.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010245"
+    },
+    {
+      "english": "Mindset first, the language follows.",
+      "portuguese": "Mentalidade primeiro, o idioma vem junto.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010247"
+    },
+    {
+      "english": "Give yourself credit, you worked for it.",
+      "portuguese": "Dê crédito a você, você trabalhou nisso.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010250"
+    },
+    {
+      "english": "Don’t overthink, just start talking.",
+      "portuguese": "Não pense demais, começa a falar.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010253"
+    },
+    {
+      "english": "Confidence grows when you practice daily.",
+      "portuguese": "Confiança cresce com prática diária.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010256"
+    },
+    {
+      "english": "Even quiet progress is still progress.",
+      "portuguese": "Progresso silencioso ainda é progresso.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010258"
+    },
+    {
+      "english": "Say it anyway, imperfect is fine.",
+      "portuguese": "Diz mesmo assim, imperfeito tá valendo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010261"
+    },
+    {
+      "english": "Your effort shines, even in small talk.",
+      "portuguese": "Seu esforço brilha, até no papo rápido.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010264"
+    },
+    {
+      "english": "Keep your goals close, act on them.",
+      "portuguese": "Mantenha seus objetivos perto, aja nisso.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010266"
+    },
+    {
+      "english": "Progress beats perfection, every single time.",
+      "portuguese": "Progresso vence perfeição, sempre, sem pausa.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010270"
+    },
+    {
+      "english": "Be brave, ask, try, and laugh.",
+      "portuguese": "Seja corajoso, pergunte, tente, e ria.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010273"
+    },
+    {
+      "english": "You don’t need magic, just consistency.",
+      "portuguese": "Você não precisa de magia, precisa de constância.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010277"
+    },
+    {
+      "english": "Trust your pace, it’s still moving.",
+      "portuguese": "Confie no seu ritmo, ele ainda anda.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010280"
+    },
+    {
+      "english": "When in doubt, keep it positive.",
+      "portuguese": "Quando tiver dúvida, mantenha o positivo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010282"
+    },
+    {
+      "english": "You’re learning to sound like you.",
+      "portuguese": "Você está aprendendo a soar como você.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010286"
+    },
+    {
+      "english": "Don’t quit, even the small practice matters.",
+      "portuguese": "Não desista, até o treino pequeno conta.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010289"
+    },
+    {
+      "english": "Give praise out loud, motivation hits harder.",
+      "portuguese": "Elogie em voz alta, a motivação cresce.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010292"
+    },
+    {
+      "english": "You’re stronger than your last awkward try.",
+      "portuguese": "Você é mais forte que sua tentativa anterior.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010295"
+    },
+    {
+      "english": "Focus on meaning, not every single word.",
+      "portuguese": "Foque no sentido, não em cada palavra.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010298"
+    },
+    {
+      "english": "Your brain likes repetition, use it kindly.",
+      "portuguese": "Seu cérebro gosta de repetição, use com carinho.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010300"
+    },
+    {
+      "english": "Stay curious, language surprises you daily.",
+      "portuguese": "Continue curioso, o idioma surpreende todo dia.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010303"
+    },
+    {
+      "english": "One more try, and you’ll unlock it.",
+      "portuguese": "Mais uma tentativa, e você destrava tudo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010306"
+    },
+    {
+      "english": "Honestly, I’m still finding my rhythm.",
+      "portuguese": "Sinceramente, ainda estou encontrando meu ritmo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010309"
+    },
+    {
+      "english": "I want you to feel safe with me.",
+      "portuguese": "Eu quero que você se sinta seguro(a) comigo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010312"
+    },
+    {
+      "english": "Slow down, your feelings will speak clearly.",
+      "portuguese": "Vai devagar, seus sentimentos vão falar claro.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010314"
+    },
+    {
+      "english": "I’m learning patience, not just the words.",
+      "portuguese": "Eu estou aprendendo paciência, não só palavras.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010319"
+    },
+    {
+      "english": "Sometimes I hesitate, but I keep showing up.",
+      "portuguese": "Às vezes eu hesito, mas eu continuo aparecendo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010322"
+    },
+    {
+      "english": "I say less, I feel more, I grow.",
+      "portuguese": "Eu falo menos, sinto mais, eu cresço.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010327"
+    },
+    {
+      "english": "Be real with me, even if it’s messy.",
+      "portuguese": "Seja verdadeiro(a) comigo, mesmo que seja bagunça.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010330"
+    },
+    {
+      "english": "I’m not perfect, I’m honest and trying.",
+      "portuguese": "Não sou perfeito(a), eu sou honesto(a) e tentando.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010334"
+    },
+    {
+      "english": "Let your heart answer, then talk gently.",
+      "portuguese": "Deixe o coração responder, depois converse leve.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010338"
+    },
+    {
+      "english": "I trust time, it always softens things.",
+      "portuguese": "Eu confio no tempo, ele sempre suaviza tudo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010341"
+    },
+    {
+      "english": "I’m brave, even when my voice shakes.",
+      "portuguese": "Eu sou corajoso(a), mesmo quando minha voz treme.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010344"
+    },
+    {
+      "english": "I need space, but I don’t disappear.",
+      "portuguese": "Eu preciso de espaço, mas eu não sumo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010347"
+    },
+    {
+      "english": "Stay with me, even in the awkward moments.",
+      "portuguese": "Fica comigo, mesmo nos momentos estranhos.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010350"
+    },
+    {
+      "english": "I’m chasing calm, not chasing applause.",
+      "portuguese": "Eu busco a calma, não aplaudição.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010353"
+    },
+    {
+      "english": "Your feelings are valid, trust that, ok?",
+      "portuguese": "Seus sentimentos são válidos, confie nisso, tá?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010356"
+    },
+    {
+      "english": "I’m proud of us, for trying again.",
+      "portuguese": "Eu tô orgulhoso(a) da gente, por tentar de novo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010359"
+    },
+    {
+      "english": "Let’s be soft, but not fake.",
+      "portuguese": "Vamos ser gentis, mas não falsos.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010362"
+    },
+    {
+      "english": "I’m learning to say what I mean.",
+      "portuguese": "Estou aprendendo a dizer o que eu quero dizer.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010365"
+    },
+    {
+      "english": "When I’m unsure, I ask with kindness.",
+      "portuguese": "Quando eu fico em dúvida, eu pergunto com carinho.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010370"
+    },
+    {
+      "english": "I don’t need answers fast, I need truth.",
+      "portuguese": "Eu não preciso de respostas rápidas, preciso de verdade.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010373"
+    },
+    {
+      "english": "Some days, I just breathe and continue.",
+      "portuguese": "Tem dias que eu só respiro e continuo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010376"
+    },
+    {
+      "english": "Be patient with yourself, love grows slowly.",
+      "portuguese": "Tenha paciência consigo, o amor cresce devagar.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010378"
+    },
+    {
+      "english": "I feel you, even when words fail.",
+      "portuguese": "Eu sinto você, mesmo quando as palavras falham.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010381"
+    },
+    {
+      "english": "I’m choosing clarity, over nervous guessing.",
+      "portuguese": "Eu escolho clareza, em vez de chute nervoso.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010384"
+    },
+    {
+      "english": "Keep it real, I’ll meet you halfway.",
+      "portuguese": "Mantém isso real, eu encontro você no meio.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010387"
+    },
+    {
+      "english": "I’m listening, really listening, not just replying.",
+      "portuguese": "Eu tô ouvindo, de verdade, não só respondendo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010391"
+    },
+    {
+      "english": "Let’s heal, one honest conversation at a time.",
+      "portuguese": "Vamos curar, uma conversa honesta por vez.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010394"
+    },
+    {
+      "english": "I don’t hide my doubts, I work them through.",
+      "portuguese": "Eu não escondo minhas dúvidas, eu vou resolvendo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010397"
+    },
+    {
+      "english": "Stay close, I’ll be softer with time.",
+      "portuguese": "Fica por perto, eu vou ficando mais suave.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010400"
+    },
+    {
+      "english": "Before you text, breathe, then send.",
+      "portuguese": "Antes de mandar mensagem, respira, depois envia.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010403"
+    },
+    {
+      "english": "Ask clearly, not loudly, get better answers.",
+      "portuguese": "Pergunte com clareza, sem gritar, e vem resposta boa.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010406"
+    },
+    {
+      "english": "If plans change, say it early.",
+      "portuguese": "Se os planos mudam, avise cedo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010408"
+    },
+    {
+      "english": "Walk in, greet first, the mood shifts.",
+      "portuguese": "Chegue, cumprimente primeiro, o clima muda.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-11T10:01:48.010411"
     }
   ],
-  "last_updated": "2026-11-10T10:38:25.383014"
+  "last_updated": "2026-11-11T10:01:48.010413"
 }
