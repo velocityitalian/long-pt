@@ -18391,7 +18391,399 @@
       "transliteration": "A-ma-Ci-a a tu-a e-XPRES-são, e re-co-ME-ça.",
       "category": "Mindfulness",
       "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I want to help people, genuinely.",
+      "portuguese": "Quero ajudar as pessoas de verdade.",
+      "transliteration": "QUE-ro a-JU-dar as PE-so-as de VER-da-de",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "My purpose is making things better.",
+      "portuguese": "O meu propósito é fazer tudo melhorar.",
+      "transliteration": "o MEU pro-PÓ-si-to é fa-ZER tu-do me-LHO-rar",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Right now, I need clarity.",
+      "portuguese": "Agora, eu preciso de clareza.",
+      "transliteration": "A-go-ra, eU pre-ci-so de cla-RE-za",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "I live for meaningful conversations.",
+      "portuguese": "Eu vivo por conversas com sentido.",
+      "transliteration": "eU VI-vo por con-ver-SAS com SEN-ti-do",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "I’m here to learn and grow.",
+      "portuguese": "Estou aqui para aprender e crescer.",
+      "transliteration": "ES-toU a-QUI pa-ra a-PREN-der e CRE-scer",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "My purpose is consistency, not perfection.",
+      "portuguese": "O meu propósito é constância, não perfeição.",
+      "transliteration": "o MEU pro-PÓ-si-to é CONS-tân-cia, NÃO per-fei-ÇÃO",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Today, I choose patience.",
+      "portuguese": "Hoje, eu escolho paciência.",
+      "transliteration": "HO-ji, eU eSCO-lho pa-ci-Ên-cia",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Hi, can I get a latte to go?",
+      "portuguese": "Oi, posso ter um latte para levar?",
+      "transliteration": "Oi, POSso TER um LATte para LEvar?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Do you have oat milk today?",
+      "portuguese": "Vocês têm leite de aveia hoje?",
+      "transliteration": "VoCÊS TÊm leite de avEIa HOje?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "What pastries are fresh right now?",
+      "portuguese": "Quais são as sobremesas e pães mais frescos agora?",
+      "transliteration": "Quais SAo as SOBREmeSAs e PÕes mais fresCOS aGORA?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "I’ll take a ham and cheese croissant.",
+      "portuguese": "Vou querer um croissant de presunto e queijo.",
+      "transliteration": "Vou queRER um croASsant de presUMto e QUEiJo.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Is there a gluten free option?",
+      "portuguese": "Tem alguma opção sem glúten?",
+      "transliteration": "Tem alGUMA opÇÃO sem GLÚten?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "This smell is amazing, seriously.",
+      "portuguese": "O cheiro daqui é incrível, de verdade.",
+      "transliteration": "O cheIro DAqui é inCRÍvel, de VERdaDE.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Could I see the cake display?",
+      "portuguese": "Você pode me mostrar os bolos no balcão?",
+      "transliteration": "VoCÊ pode me mosTRAR os BOlos no BALcão?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "I breathe, then I choose calm.",
+      "portuguese": "Eu respiro, e escolho a calma.",
+      "transliteration": "eU reSpiro, e escoLho a cal-ma.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Right now, I let the noise pass.",
+      "portuguese": "Agora, eu deixo o barulho passar.",
+      "transliteration": "a-go-ra, eu dei-xo o ba-ru-lho pas-sar.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "My mind can rest between messages.",
+      "portuguese": "A minha mente descansa entre mensagens.",
+      "transliteration": "a mi-nha men-te des-can-sa en-tre men-sa-gens.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Soft shoulders, steady breathing, peace.",
+      "portuguese": "Ombros soltos, respiração constante, paz.",
+      "transliteration": "om-bros sol-tos, res-pi-ra-ção cons-tan-te, paz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "I’m not in a hurry with feelings.",
+      "portuguese": "Eu não tenho pressa com os sentimentos.",
+      "transliteration": "eu não te-nho pres-sa com os sen-ti-men-tos.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "I answer slowly, and my heart listens.",
+      "portuguese": "Eu respondo devagar, e o meu coração escuta.",
+      "transliteration": "eu res-pon-do de-va-gar, e o meu co-ra-ção es-cu-ta.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "I notice thoughts, then I step back.",
+      "portuguese": "Eu noto os pensamentos, e dou um passo atrás.",
+      "transliteration": "eu no-to os pen-sa-men-tos, e dou um pas-so a-trás.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Where is the check-in desk?",
+      "portuguese": "Onde fica o balcão de check-in?",
+      "transliteration": "ONde fica o BALcão de chek-IN?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "I need to change my seat.",
+      "portuguese": "Preciso mudar o meu lugar no avião.",
+      "transliteration": "pre-ciSO MU-dar o meu LU-gar no a-VI-ão.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "My flight was delayed, right?",
+      "portuguese": "O meu voo atrasou, foi isso?",
+      "transliteration": "o MEU voo aTRA-zou, foi is-SO?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Is there a faster security line?",
+      "portuguese": "Tem uma fila de segurança mais rápida?",
+      "transliteration": "tem uma FI-la de se-guRAN-ça mais RÁ-pi-da?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "I have a carry-on only.",
+      "portuguese": "Tenho só bagagem de mão.",
+      "transliteration": "te-NHO só ba-ga-GEM de MÃO.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Can I refill my water bottle?",
+      "portuguese": "Posso encher a minha garrafa de água?",
+      "transliteration": "POS-so en-CHER a mi-nha ga-RA-fa de ÁGUA?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Where can I pick up my bag?",
+      "portuguese": "Onde pego a minha bagagem?",
+      "transliteration": "ONde PE-go a mi-nha ba-ga-GEM?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "I go hiking after work sometimes.",
+      "portuguese": "Eu vou caminhar na montanha depois do trabalho, às vezes.",
+      "transliteration": "Eu vou CAM-inhar na MON-ta-nha de-poIS do TRAB-alho, às VE-zes.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "I practice guitar for half an hour.",
+      "portuguese": "Eu pratico guitarra por meia hora, todo dia.",
+      "transliteration": "Eu PRA-ti-co GUIT-ar-ra por MEI-a ho-ra, TO-do di-a.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Sunday mornings, I read in silence.",
+      "portuguese": "De manhã de domingo, eu leio em silêncio.",
+      "transliteration": "De ma-NÃ̃ã de DO-min-go, eu LEI-o em SIÊn-sio.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "I cook something new on weekends.",
+      "portuguese": "No fim de semana, eu cozinho algo novo.",
+      "transliteration": "No FIM de SE-ma-na, eu CO-zi-nho AL-go NO-vo.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "I join a local dance class.",
+      "portuguese": "Entro numa aula de dança aqui perto.",
+      "transliteration": "En-tro nu-ma AU-la de DAN-ça a-QUI per-to.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "I love taking photos of street life.",
+      "portuguese": "Adoro tirar fotos da vida na rua.",
+      "transliteration": "A-do-ro ti-rAR fo-tos da VI-da na RU-a.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "I play chess online to unwind.",
+      "portuguese": "Jogo xadrez online para relaxar.",
+      "transliteration": "JO-go XA-drez on-LАЙ-ne pa-ra re-LAX-ar.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Do you have this in stock?",
+      "portuguese": "Você tem isto em estoque?",
+      "transliteration": "VoCÊ TEM isSO EM ESToQUe?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "How much is the total, please?",
+      "portuguese": "Quanto fica o total, por favor?",
+      "transliteration": "QUANto fiCA o TOtaL, por faVOR?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Is there a student discount?",
+      "portuguese": "Tem desconto para estudante?",
+      "transliteration": "TEM DESconTO paRA EStuDANte?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Do you have a smaller size?",
+      "portuguese": "Você tem tamanho menor?",
+      "transliteration": "VoCÊ TEM taMANho MENOR?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Can I try it on, please?",
+      "portuguese": "Posso provar, por favor?",
+      "transliteration": "POSso proVAR, por faVOR?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Where is the price label?",
+      "portuguese": "Onde fica a etiqueta de preço?",
+      "transliteration": "ONde fiCA a ETIqueTA de PREÇO?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Is this price negotiable?",
+      "portuguese": "Dá para negociar este preço?",
+      "transliteration": "DÁ paRA NEgoCIar esTE PREÇO?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Where do you keep the keys?",
+      "portuguese": "Onde é que você guarda as chaves?",
+      "transliteration": "ON-de e ke vo-se GUAR-da as CHA-ves",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "I’m bringing dinner tonight, okay?",
+      "portuguese": "Eu vou trazer o jantar hoje à noite, tudo bem?",
+      "transliteration": "eu VOu TRAR-zer o jan-TAR ho-je a NOI-te, TU-do bem",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Can we talk after dinner?",
+      "portuguese": "Podemos conversar depois do jantar?",
+      "transliteration": "po-DE-mos con-ser-SAR de-pois do jan-TAR",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "My parents live nearby.",
+      "portuguese": "Meus pais moram perto.",
+      "transliteration": "MEUs pais mo-RAM PER-tu",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "We share chores on weekdays.",
+      "portuguese": "A gente divide as tarefas nos dias de semana.",
+      "transliteration": "a GEN-ti di-VI-de as ta-RE-fas nos DI-as de SE-ma-na",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Grandma calls every Sunday morning.",
+      "portuguese": "A minha avó liga todo domingo de manhã.",
+      "transliteration": "a mi-Nha a-VÓ li-ga TU-du DO-min-go de ma-NÃ",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "The house feels calm and safe.",
+      "portuguese": "A casa está tranquila e segura.",
+      "transliteration": "a KA-za es-TÁ tran-QUI-la e se-GU-ra",
+      "category": "Family & Home",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Thanks for always having my back.",
+      "portuguese": "Obrigado por estares sempre do meu lado.",
+      "transliteration": "obrigado por estares SEMPRE do meu LAdO",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "You get me, even without words.",
+      "portuguese": "Tu entendes-me, mesmo sem palavras.",
+      "transliteration": "tu enTENdes-me, mesmO sem PALavras",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Let’s catch up this weekend.",
+      "portuguese": "Vamos pôr a conversa em dia este fim de semana.",
+      "transliteration": "VAMOS pôr a conVERSA em diA esTe FIM de SEmaNA",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Call me when you land safe.",
+      "portuguese": "Liga-me quando chegares em segurança.",
+      "transliteration": "LIga-me quanDO cheGArES em SEgurANça",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "I’m lucky to have you.",
+      "portuguese": "Sou mesmo sortudo por teres a tua amizade.",
+      "transliteration": "sou mesmO sorTUDo por teRes a tua aMIZade",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "Coffee after work, yes please.",
+      "portuguese": "Um café depois do trabalho, por favor.",
+      "transliteration": "um CAFÉ dePOIS do traBALho, por FAvor",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T20:57:00.656358"
+    },
+    {
+      "english": "We laugh, and it heals.",
+      "portuguese": "Nós rimos, e isso cura.",
+      "transliteration": "NÓS riMOS, e isSO CUra",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T20:57:00.656358"
     }
   ],
-  "last_updated": "2026-11-12T21:30:57.148325"
+  "last_updated": "2026-11-13T20:57:00.656358"
 }
