@@ -17999,7 +17999,399 @@
       "portuguese": "Chegue, cumprimente primeiro, o clima muda.",
       "category": "Wisdom",
       "generated_at": "2026-11-11T10:01:48.010411"
+    },
+    {
+      "english": "Keep going, even when it’s messy.",
+      "portuguese": "Continua, mesmo quando está confuso.",
+      "transliteration": "Kon-TI-nua, mes-mo quan-do es-TÁ kon-fu-so",
+      "category": "Perseverance",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Small steps beat quitting today.",
+      "portuguese": "Passos pequenos vencem desistir hoje.",
+      "transliteration": "PAS-sus PE-kenus VEn-cem des-IS-tir O-je",
+      "category": "Perseverance",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I’ll call again tomorrow, no matter what.",
+      "portuguese": "Vou ligar de novo amanhã, mesmo assim.",
+      "transliteration": "vou LI-gar de NO-vo a-ma-NÃ, MES-mo aSSIM",
+      "category": "Perseverance",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "One more try, then we decide.",
+      "portuguese": "Mais uma tentativa, depois a gente decide.",
+      "transliteration": "mais uMA ten-ta-ti-va, de-POIS a gen-te de-CI-de",
+      "category": "Perseverance",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Your effort counts, keep showing up.",
+      "portuguese": "O seu esforço conta, continue aparecendo.",
+      "transliteration": "o seu ES-for-su kon-ta, kon-ti-nu-e a-pa-re-CEN-do",
+      "category": "Perseverance",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Not perfect yet, but I’m still moving.",
+      "portuguese": "Ainda não está perfeito, mas eu sigo em frente.",
+      "transliteration": "AIN-da não es-TÁ peR-FEI-tu, mas eu SI-gu em FREN-te",
+      "category": "Perseverance",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Breathe, reset, and start again.",
+      "portuguese": "Respira, recomeça e começa de novo.",
+      "transliteration": "reSPI-ra, re-ko-ME-ça e co-me-SA de NO-vo",
+      "category": "Perseverance",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Hi, can I see the menu?",
+      "portuguese": "Olá, posso ver o cardápio, por favor?",
+      "transliteration": "Ó-la, POS-so ver o kar-DÁ-pio, por FA-vor?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "What do you recommend today?",
+      "portuguese": "O que o senhor recomenda hoje?",
+      "transliteration": "O que o se-nhor re-ko-Men-da HO-je?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I’d like a table for two.",
+      "portuguese": "Eu queria uma mesa para duas pessoas.",
+      "transliteration": "Eu que-ri-a u-ma ME-sa pa-ra DU-as pe-so-AS.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Could we get a reservation now?",
+      "portuguese": "Dá para fazer uma reserva agora?",
+      "transliteration": "Dá pa-ra FA-zer u-ma re-SER-va a-go-ra?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Can I get water, please?",
+      "portuguese": "Pode me trazer água, por favor?",
+      "transliteration": "PO-de me TRÁ-zer Á-gu-a, por FA-vor?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Is there a vegetarian option?",
+      "portuguese": "Tem alguma opção vegetariana?",
+      "transliteration": "Tem al-gu-ma Ó-pção ve-ge-ta-RI-a-na?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "No onions for me, please.",
+      "portuguese": "Sem cebola, por favor.",
+      "transliteration": "Sem se-BÓ-la, por fa-VOR.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I journal for five focused minutes.",
+      "portuguese": "Eu faço diário por cinco minutos focados.",
+      "transliteration": "Eu faÇO diÁrio por cinco MINutos FOCados.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Today I choose one habit to build.",
+      "portuguese": "Hoje eu escolho um hábito para construir.",
+      "transliteration": "HoJE eu escoLHO um HÁbiTo paRa consTRUir.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I practice saying no, calmly.",
+      "portuguese": "Eu pratico dizer não, com calma.",
+      "transliteration": "Eu praTIco diZer nÃo, com CALma.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I exercise, even when motivation is low.",
+      "portuguese": "Eu me exercito, mesmo quando a motivação está baixa.",
+      "transliteration": "Eu me eXERciTo, mesMO quanDO a moTIvaÇÃo esTÁ baiXA.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I put my phone away for focus.",
+      "portuguese": "Eu guardo o celular para focar.",
+      "transliteration": "Eu GARdo o ceLURlar paRa FOCar.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I read one page before I scroll.",
+      "portuguese": "Eu leio uma página antes de rolar a tela.",
+      "transliteration": "Eu LEio uMA PÁgiNa anTES de ROlar a teLA.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I reply slower, but I think first.",
+      "portuguese": "Eu respondo mais devagar, mas penso primeiro.",
+      "transliteration": "Eu resPONdo maIS deVAgar, mas PENso priMEiro.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Hi, I’m calling about your appointment.",
+      "portuguese": "Olá, estou ligando sobre o seu compromisso.",
+      "transliteration": "OH-la, estou LIH-gan-do so-bre o seu COM-promi-so.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Can you call me back when free?",
+      "portuguese": "Você pode me ligar de volta quando estiver livre?",
+      "transliteration": "VO-sê PO-de me LEE-gar de VOL-ta quan-do es-ti-ver LIV-re?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Sorry, wrong number, my mistake.",
+      "portuguese": "Desculpe, número errado, foi meu erro.",
+      "transliteration": "de- KUL-pe, NÚ-me-ro ER-ra-do, foi meu ER-ro.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Could you speak a little slower, please?",
+      "portuguese": "Você pode falar um pouco mais devagar, por favor?",
+      "transliteration": "VO-sê PO-de FA-lar um POU-co mais de-VA-gar, por fa-VOR?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I’ll text you the address in a minute.",
+      "portuguese": "Vou te mandar uma mensagem com o endereço em um minuto.",
+      "transliteration": "vou te man-DAR uma MEN-sa-gem com o en-de-RE-ço em um MI-nu-to.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I missed your call, are you okay?",
+      "portuguese": "Eu perdi sua ligação, está tudo bem?",
+      "transliteration": "eu PER-di su-a LI-ga-ção, es-tá TÚ-do bem?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Are you on your way now?",
+      "portuguese": "Você já está a caminho agora?",
+      "transliteration": "VO-cê JÁ es-tá a ca-MIN-ho a-GO-ra?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Can I pay by card here?",
+      "portuguese": "Posso pagar com cartão aqui?",
+      "transliteration": "Pos-so PA-GAR com CAR-tão A-qui?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I need cash, do you have ATM?",
+      "portuguese": "Preciso de dinheiro vivo, tem multibanco?",
+      "transliteration": "Pre-CI-so de di-nhei-ro VI-vo, tem mul-ti-BAN-co?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "My card was declined, can you check?",
+      "portuguese": "O meu cartão foi recusado, pode ver?",
+      "transliteration": "O MEU car-tão foi re-cu-SA-do, PO-de ver?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "How much is the fee for transfer?",
+      "portuguese": "Quanto é a comissão da transferência?",
+      "transliteration": "Quan-to é a co-MIssão da trans-feRÊN-cia?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I want to open an account today",
+      "portuguese": "Quero abrir uma conta hoje, pode ser?",
+      "transliteration": "QUE-ro aBRIR u-ma CON-ta HO-je, PO-de ser?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "What documents do I need for this?",
+      "portuguese": "Que documentos preciso para isso?",
+      "transliteration": "Que do-cu-MEN-tos pre-CI-so pa-ra IS-so?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Can you lower my monthly fees?",
+      "portuguese": "Podem baixar as minhas taxas mensais?",
+      "transliteration": "Po-dem baI-xar as MI-nhas ta-xas men-sais?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Excuse me, where is the metro?",
+      "portuguese": "Com licença, onde fica o metro?",
+      "transliteration": "Com LÍCENÇa, ONde FICA o MÊtro?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "How do I get to the airport?",
+      "portuguese": "Como é que eu chego ao aeroporto?",
+      "transliteration": "COmo É que eu CHEgo ao aeRÓpor to?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Is there a bus to downtown?",
+      "portuguese": "Tem autocarro para o centro?",
+      "transliteration": "TÈm auTOcaro para o CENtro?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "What street is this?",
+      "portuguese": "Que rua é esta?",
+      "transliteration": "QUE RUa É es ta?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Can you point me to the station?",
+      "portuguese": "Pode-me indicar onde fica a estação?",
+      "transliteration": "POde-me inDiCAR ONde FICA a EStaçãO?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I’m looking for a pharmacy, please.",
+      "portuguese": "Estou à procura de uma farmácia, por favor.",
+      "transliteration": "esTOU à PROcu ra de uMA farMÁcia, por FAvor.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Where can I find a taxi stand?",
+      "portuguese": "Onde encontro uma praça de táxis?",
+      "transliteration": "ONde enCONtro uMA PRAça de TÁxis?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I can do this, even scared.",
+      "portuguese": "Consigo fazer isto, mesmo com medo.",
+      "transliteration": "CONsigo FAzer ISso, MESmo com MEDo.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Tell me the worst, I’m ready.",
+      "portuguese": "Diz-me o pior, eu estou pronto.",
+      "transliteration": "diz-me o PiOR, eu esTOU PRONto.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I’ll ask now, no more waiting.",
+      "portuguese": "Vou perguntar agora, sem mais esperar.",
+      "transliteration": "vou perGUNtar aGOra, sem mais esPERar.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I’ll open the door, not hide.",
+      "portuguese": "Vou abrir a porta, não me esconder.",
+      "transliteration": "vou aBRIR a PORta, não me esCONder.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I’ll speak up, even if awkward.",
+      "portuguese": "Vou falar, mesmo que seja constrangedor.",
+      "transliteration": "vou faLAR, MESmo que seJA conSTRANgeDOR.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "One small step counts today.",
+      "portuguese": "Um passo pequeno já conta hoje.",
+      "transliteration": "um PASso peQUEno já CONta HOje.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I’m nervous, so I breathe first.",
+      "portuguese": "Estou nervoso, então respiro primeiro.",
+      "transliteration": "esTOU nerVOso, enTÃO resPIro PRImeiRo.",
+      "category": "Courage",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Stop, breathe, feel your feet.",
+      "portuguese": "Para, respira, sente os teus pés.",
+      "transliteration": "Pa-ra, res-pi-ra, SEN-te os teus PES.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Right now, notice five things.",
+      "portuguese": "Agora, repara em cinco coisas ao teu redor.",
+      "transliteration": "A-go-ra, re-pa-ra em CIN-co COi-sas a-o TEU re-dor.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Let your shoulders drop, gently.",
+      "portuguese": "Deixa os ombros descer, devagar.",
+      "transliteration": "Dei-xa os OM-bros de-SER, de-va-GAR.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "I pause before I answer.",
+      "portuguese": "Eu faço uma pausa antes de responder.",
+      "transliteration": "Eu FA-ço u-ma PAu-sa an-tes de re-SO-nder.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Feel the air entering your nose.",
+      "portuguese": "Sente o ar a entrar no teu nariz.",
+      "transliteration": "SEN-te o ar a en-TRAN-do no TEU na-RIZ.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Hear the room, not just thoughts.",
+      "portuguese": "Escuta a sala, não só os teus pensamentos.",
+      "transliteration": "EsCU-ta a sa-la, não SÓ os teUS pen-sa-MEN-tos.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T21:30:57.148325"
+    },
+    {
+      "english": "Soften your face, start again.",
+      "portuguese": "Amacia a tua expressão, e recomeça.",
+      "transliteration": "A-ma-Ci-a a tu-a e-XPRES-são, e re-co-ME-ça.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-12T21:30:57.148325"
     }
   ],
-  "last_updated": "2026-11-11T10:01:48.010413"
+  "last_updated": "2026-11-12T21:30:57.148325"
 }
