@@ -19175,7 +19175,399 @@
       "transliteration": "Vo-CÊ con-SE-gue deI-xar ES-sa DA-ta LI-vre pra MIM?",
       "category": "Making Plans",
       "generated_at": "2026-11-14T19:13:35.389792"
+    },
+    {
+      "english": "I feel nervous before meetings.",
+      "portuguese": "Estou nervoso antes das reuniões.",
+      "transliteration": "EsTOU nerVOso anTES das reUNiões.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I’m relieved it’s over.",
+      "portuguese": "Fiquei aliviado por ter acabado.",
+      "transliteration": "FIquei aLIViaDO por ter aCABado.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I’m excited about tonight.",
+      "portuguese": "Estou empolgado com a noite de hoje.",
+      "transliteration": "esTOU emPOLgaDO com a NOIte de HOje.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "That made me feel guilty.",
+      "portuguese": "Isso me fez sentir culpado.",
+      "transliteration": "ISso me fez senTIR culPAdo.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I feel calm after yoga.",
+      "portuguese": "Fico tranquilo depois do yoga.",
+      "transliteration": "FIco tranQUiLO dePOIS do YOga.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I’m frustrated with this app.",
+      "portuguese": "Estou frustrado com este aplicativo.",
+      "transliteration": "esTOU frusTRAdo com esTE aPLIcaTIvo.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I’m worried about my health.",
+      "portuguese": "Estou preocupado com a minha saúde.",
+      "transliteration": "esTOU preoCUpaDO com a miNHA SAÚde.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I release the resentment, bit by bit.",
+      "portuguese": "Eu solto o ressentimento, aos poucos, sim.",
+      "transliteration": "Eu SOLto o RESsenTIMenTO, aos POUcos, sim.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "No blaming today, just honesty.",
+      "portuguese": "Hoje sem culpar, só com honestidade.",
+      "transliteration": "HOje sem culPAR, só com oNES tI da de.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I forgive you, and I set boundaries.",
+      "portuguese": "Eu te perdoo, e ainda assim coloco limites.",
+      "transliteration": "Eu te perDOO, e ainDA asSIM COloCO limiTES.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I hear you, and I choose peace.",
+      "portuguese": "Eu te entendo, e escolho paz.",
+      "transliteration": "Eu te enTENdo, e esCOLho PAZ.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Let’s clear the air, calmly.",
+      "portuguese": "Vamos esclarecer tudo, com calma.",
+      "transliteration": "vaMOS esCLARecer tuDO, com CALma.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I’m ready to move past that.",
+      "portuguese": "Estou pronto para seguir em frente com isso.",
+      "transliteration": "EStou PRONto paRA seGUIR em FRENte com isSO.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Thanks for owning it, truly.",
+      "portuguese": "Obrigado por assumir a responsabilidade, de verdade.",
+      "transliteration": "OBriGADo por asSUmir a resPONsaBIliDAde, de VERdaDE.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Can you recommend a pharmacist right now?",
+      "portuguese": "Você pode me indicar uma farmácia agora?",
+      "transliteration": "voce pode mi inDIcar uma FARmácia aGORa",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I have a prescription, is it accepted?",
+      "portuguese": "Eu tenho receita, vocês aceitam?",
+      "transliteration": "eu teNho reCEita, VOceS aceiTAM",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Do I need to take this with food?",
+      "portuguese": "Eu preciso tomar isso com comida?",
+      "transliteration": "eu PRIciSO toMAR isso com COMida",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Is this refill possible for me?",
+      "portuguese": "Dá para renovar esta receita?",
+      "transliteration": "DA para reNOVar esTA reCEita",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "How long will it take to work?",
+      "portuguese": "Em quanto tempo começa a fazer efeito?",
+      "transliteration": "em QUANto TEMpo coMEça a FAzer EFEito",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "What are the side effects to watch?",
+      "portuguese": "Quais são os efeitos colaterais mais comuns?",
+      "transliteration": "quais SÃO os EIfeitos coLaTeRais mais coMUNs",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Can we talk about my symptoms now?",
+      "portuguese": "Podemos conversar sobre meus sintomas agora?",
+      "transliteration": "poDEmos conVERsar soBRE meus siNTOmas aGOra",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I can rebuild, one step.",
+      "portuguese": "Eu posso recomeçar, um passo de cada vez.",
+      "transliteration": "Eu POSso reCOMeçar, um PASso de caDA VEZ.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Even small progress counts today.",
+      "portuguese": "Até o progresso pequeno já conta hoje.",
+      "transliteration": "Ate o proGReSso peQUeNO ja conTA HOje.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Hope grows in ordinary moments.",
+      "portuguese": "A esperança cresce nos momentos simples.",
+      "transliteration": "A esPERANça cresCE nos moMENtos SIMples.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I choose to hope again.",
+      "portuguese": "Eu escolho ter esperança de novo.",
+      "transliteration": "Eu esCOlho ter esPERANça de NOvo.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I’m allowed to hope gently.",
+      "portuguese": "Eu tenho permissão para ter esperança, com calma.",
+      "transliteration": "Eu teNho perMISsao paRA ter esPERANça, com CALma.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Let hope guide my next choice.",
+      "portuguese": "Que a esperança guie a minha próxima escolha.",
+      "transliteration": "Que a esPERANça GUIe a miNha PROxiMA esCOlha.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I’ll keep a door open.",
+      "portuguese": "Vou manter uma porta aberta para o melhor.",
+      "transliteration": "Vou maNter uma PORta aBERta paRA o meLHOR.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Cheers, tonight we celebrate together!",
+      "portuguese": "Saúde, hoje celebramos juntos!",
+      "transliteration": "Saú-de, hoje ce-le-bra-mos jun-tos!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Pass the plates, dinner is ready!",
+      "portuguese": "Passa os pratos, o jantar já está pronto!",
+      "transliteration": "Pas-sa os pra-tos, o jan-tar já es-tá pron-to!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I brought cupcakes, try one now!",
+      "portuguese": "Eu trouxe cupcakes, prova um agora!",
+      "transliteration": "Eu trou-xe cu-ca-s, pro-va um a-gor-a!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Make a wish, I’m filming!",
+      "portuguese": "Faz um pedido, estou filmando!",
+      "transliteration": "Faz um pe- di-do, es-tou fi-man-do!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "The music is perfect for dancing!",
+      "portuguese": "A música está perfeita pra dançar!",
+      "transliteration": "A mú-si-ca es-tá per-fei-ta pra dan-çar!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Who’s ready for the big toast?",
+      "portuguese": "Quem está pronto pro grande brinde?",
+      "transliteration": "Quem es-tá pron-to pro gran-de brin-de?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Let’s open gifts slowly, together.",
+      "portuguese": "Vamos abrir os presentes com calma, juntos.",
+      "transliteration": "Va-mos a-brir os pre-sen-tes com cal-ma, jun-tos.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Pause before I react, stay steady",
+      "portuguese": "Pausa antes de reagir, fica firme.",
+      "transliteration": "Pausa antes de REA gir, fica FIR me.",
+      "category": "Balance",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I choose calm over chaos, today",
+      "portuguese": "Eu escolho a calma em vez do caos, hoje.",
+      "transliteration": "Eu es co LHO a CAL ma em vez do CAOS, HO je.",
+      "category": "Balance",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Let my body lead, gently",
+      "portuguese": "Deixa o meu corpo liderar, com gentileza.",
+      "transliteration": "Dei xa o meu COR po li de RAR, com GEN ti le za.",
+      "category": "Balance",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I balance work, rest, and real life",
+      "portuguese": "Eu equilibro trabalho, descanso e vida real.",
+      "transliteration": "Eu e qui LI bro TRA ba lho, des CAN so e VI da re al.",
+      "category": "Balance",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I soften my grip, let things move",
+      "portuguese": "Eu afrouxo a minha pressão, deixo fluir.",
+      "transliteration": "Eu af rou xo a mi nha PRES sao, DEI xo FLUIR.",
+      "category": "Balance",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Grounding check, feet on the floor",
+      "portuguese": "Checagem de grounding, pés no chão.",
+      "transliteration": "Che ca gem de GROUND ing, PES no CHAO.",
+      "category": "Balance",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Even in stress, I stay kind",
+      "portuguese": "Mesmo com estresse, eu permaneço gentil.",
+      "transliteration": "MES mo com es TRES se, eu per ma NE ço GEN til.",
+      "category": "Balance",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I set small goals and win",
+      "portuguese": "Eu defino metas pequenas e ganho",
+      "transliteration": "i DII-no me-tas PE-que-nas e GAN-ho",
+      "category": "Success",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Consistency beats motivation every week",
+      "portuguese": "A constância vence a motivação toda semana",
+      "transliteration": "a CONSTAN-sia VEN-ce a mo-ti-va-SÃO TO-da se-MA-na",
+      "category": "Success",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I protect my energy, quietly",
+      "portuguese": "Eu protejo minha energia, em silêncio",
+      "transliteration": "eu pro-te-jo mi-nha e-NER-jia, em SI-len-cio",
+      "category": "Success",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I ask, then I act right away",
+      "portuguese": "Eu pergunto e depois ajo na hora",
+      "transliteration": "eu per-GUN-to e de-poIS a-jo na HO-ra",
+      "category": "Success",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "My network opens doors for me",
+      "portuguese": "Minha rede abre portas pra mim",
+      "transliteration": "mi-nha RE-de a-bre POR-tas pra mim",
+      "category": "Success",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I keep my promises to myself",
+      "portuguese": "Eu cumpro o que eu prometo pra mim",
+      "transliteration": "eu cum-PRO o que eu pro-ME-to pra mim",
+      "category": "Success",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "I turn feedback into action",
+      "portuguese": "Eu transformo feedback em ação",
+      "transliteration": "eu trans-for-mo FEED-bak em A-ção",
+      "category": "Success",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Make today your comeback day",
+      "portuguese": "Faça hoje o seu dia de recomeço",
+      "transliteration": "fAça HOje o seu dia de recomeÇO",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "One tiny step, and you move",
+      "portuguese": "Um passo pequeno, e você já avança",
+      "transliteration": "um PASso peQUeNO, e voCÊ já aVANça",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Text the teacher, ask one question",
+      "portuguese": "Mande uma mensagem ao professor, faça uma pergunta",
+      "transliteration": "manDE uma menSAgem ao proFESsor, faça uma perGUNta",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Speak even when it feels messy",
+      "portuguese": "Fale mesmo quando estiver tudo meio bagunçado",
+      "transliteration": "FAle mesMO quanDO esTIver tuDO meI o baGUNçado",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Reward yourself after every practice",
+      "portuguese": "Se recompense depois de cada prática",
+      "transliteration": "se reCOMpense dePOIS de caDA PRÁti-ca",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Change the routine, keep momentum",
+      "portuguese": "Mude a rotina, mas mantenha o ritmo",
+      "transliteration": "MUde a roTIna, mas manTE-nha o RÍtmo",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T19:49:50.045114"
+    },
+    {
+      "english": "Write one sentence, then improve",
+      "portuguese": "Escreva uma frase, depois melhore",
+      "transliteration": "esCreVA uMA FRAse, dePOIS meLHORe",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T19:49:50.045114"
     }
   ],
-  "last_updated": "2026-11-14T19:13:35.389792"
+  "last_updated": "2026-11-15T19:49:50.045114"
 }
