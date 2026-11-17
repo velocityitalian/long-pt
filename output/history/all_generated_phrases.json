@@ -19959,7 +19959,399 @@
       "transliteration": "ME- xa o COR-po, e MU-de o HUM-or.",
       "category": "Positive Life",
       "generated_at": "2026-11-16T23:27:12.339324"
+    },
+    {
+      "english": "I start slow, then I move.",
+      "portuguese": "Eu começo devagar, depois eu me movo.",
+      "transliteration": "eu COMEÇO devagar, depois eu me MOVO",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I drink water before coffee.",
+      "portuguese": "Eu bebo água antes do café.",
+      "transliteration": "eu BEBO aGUA antes do CAFÉ",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I take a real breakfast, not rushed.",
+      "portuguese": "Eu faço um café da manhã de verdade, sem pressa.",
+      "transliteration": "eu FAÇO um CAFÉ da maNHA de VERDADE, sem PRESSA",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I shower, and I let it reset.",
+      "portuguese": "Eu tomo banho e deixo tudo recomeçar.",
+      "transliteration": "eu TOmo baNHO e deiXO tuDO reCOMEÇAR",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I choose my outfit with calm.",
+      "portuguese": "Eu escolho minha roupa com calma.",
+      "transliteration": "eu EScolho miNHA rouPA com CALMA",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I leave with a few minutes.",
+      "portuguese": "Eu saio com alguns minutos de folga.",
+      "transliteration": "eu SAIO com alGUNS miNUTOS de FOLga",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I walk a short route, fresh air.",
+      "portuguese": "Eu caminho um pouco, para pegar ar fresco.",
+      "transliteration": "eu caMINHO um pouCO, paRA peGAR ar FRESco",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Where is the nearest stop?",
+      "portuguese": "Onde fica a próxima paragem?",
+      "transliteration": "ON-de FIK-a a PROX-i-ma pa-RA-gem",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Does this bus go downtown?",
+      "portuguese": "Este ônibus passa pelo centro?",
+      "transliteration": "es-te ON-i-bus pa-ssa pe-lo SEN-tro",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "How often does it come?",
+      "portuguese": "Com que frequência ele passa?",
+      "transliteration": "COM que fre-QUEN-sia e-le pa-ssa",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Is there a ticket inspector today?",
+      "portuguese": "Tem fiscal de bilhetes hoje?",
+      "transliteration": "TEM fis-cal de bi-LHE-tes HO-je",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I need a day pass, please.",
+      "portuguese": "Eu preciso de um passe diário, por favor.",
+      "transliteration": "eu PRE-ci-so de um PAS-se di-A-ri-o por FA-vor",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Can I pay with card?",
+      "portuguese": "Posso pagar com cartão?",
+      "transliteration": "POS-so pa-GAR com KAR-tao",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Which platform is it leaving from?",
+      "portuguese": "De qual plataforma ele sai?",
+      "transliteration": "de QUAL plae-ta-FOR-ma e-le sai",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Call emergency now, don’t wait.",
+      "portuguese": "Ligue para a emergência agora, não espere.",
+      "transliteration": "Ligue para a emergÊncia AGORA, não ESPEre.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Tell me your symptoms in order.",
+      "portuguese": "Me diga seus sintomas, na ordem em que começaram.",
+      "transliteration": "Me DIga seus sinTOMas, na ORdem em que coMEçaram.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Are you alone or is someone with you?",
+      "portuguese": "Você está sozinho, ou tem alguém com você?",
+      "transliteration": "VoCÊ está SOZinho, ou TEM alGUÉm com VOcÊ?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Do you have any allergies? Please tell me.",
+      "portuguese": "Você tem alergias, por favor me diga?",
+      "transliteration": "VoCÊ tem aLERgias, por faVOR me diGA?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Do you have fever, or chills?",
+      "portuguese": "Você está com febre, ou com calafrios?",
+      "transliteration": "VoCÊ está com FEbre, ou com caLÁfrios?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Is there chest pain or pressure?",
+      "portuguese": "Você sente dor no peito ou pressão no peito?",
+      "transliteration": "VoCÊ SENte dor no PEito ou PRESsão no PEito?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Can you speak full sentences right now?",
+      "portuguese": "Você consegue falar frases completas agora?",
+      "transliteration": "VoCÊ conSEGUE faLAR FRAses comPLEtas aGORA?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I trust my instincts, slowly",
+      "portuguese": "Eu confio nas minhas intuições, devagar",
+      "transliteration": "Eu CONFIo nas minhas INtuicoes, deVAgar",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "My pace is enough today",
+      "portuguese": "Meu ritmo já é suficiente hoje",
+      "transliteration": "Meu RITmo ja e suFIcienTE HOje",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I can say no without guilt",
+      "portuguese": "Eu posso dizer não sem culpa",
+      "transliteration": "Eu POso diZer Nao sem CULpa",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I breathe, and I choose clarity",
+      "portuguese": "Eu respiro, e escolho clareza",
+      "transliteration": "Eu reSPIro, e esCOlho claReZA",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I speak up when it matters",
+      "portuguese": "Eu me posiciono quando importa",
+      "transliteration": "Eu me poSIciNO quando imPORta",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I can be unsure and still lead",
+      "portuguese": "Eu posso estar inseguro e ainda assim liderar",
+      "transliteration": "Eu POso esTAR inSEguRO e aiNda asSIM liDErar",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Small effort, big steadiness",
+      "portuguese": "Esforço pequeno, constância grande",
+      "transliteration": "EsFORco peQUeNo, consTAAncia GRANde",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Your laugh lights up my day.",
+      "portuguese": "A tua risada ilumina meu dia.",
+      "transliteration": "A TUA RISADA ilumina meu DIA.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I choose joy, even in small moments.",
+      "portuguese": "Eu escolho alegria, mesmo nos pequenos momentos.",
+      "transliteration": "Eu escolho ALEGRIA, MESMO nos PEQUENOS momentos.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Let the good feeling stay longer.",
+      "portuguese": "Deixa a boa sensação ficar mais tempo.",
+      "transliteration": "Deixa a BOA sensaçao FICAR mais TEMPO.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I found peace in your kindness.",
+      "portuguese": "Eu encontrei paz na tua gentileza.",
+      "transliteration": "Eu ENCONTREI paz na TUA GENTILEZA.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Today, my heart feels lighter.",
+      "portuguese": "Hoje, meu coração está mais leve.",
+      "transliteration": "HOJE, meu coraçao ESTÁ mais LEVE.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Thank you for showing up gently.",
+      "portuguese": "Obrigada por aparecer com tanta delicadeza.",
+      "transliteration": "OBRIGADA por APARECER com TANTA delicadeza.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I let myself smile without explaining.",
+      "portuguese": "Eu me permito sorrir sem explicar.",
+      "transliteration": "Eu me PERMITO SORRIR sem EXPLICAR.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Can we align on the schedule?",
+      "portuguese": "Podemos alinhar o cronograma, por favor?",
+      "transliteration": "PO-demos a-LI-nhar o CRO-no-GRA-ma, por fa-VOR",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I need this by end of day.",
+      "portuguese": "Preciso disso até o fim do dia.",
+      "transliteration": "PRE-ci-so dis-so a-te o FIM do DI-a",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Let me check the latest numbers.",
+      "portuguese": "Deixa eu ver os números mais recentes.",
+      "transliteration": "DEI-xa eU ver os NU-me-ros mais re-CEN-tes",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Please send the file to my email.",
+      "portuguese": "Por favor, envie o arquivo para o meu e-mail.",
+      "transliteration": "por fa-VOR, en-VI-e o AR-qui-vo pa-ra o MEU e-MAIL",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Can you clarify what you mean?",
+      "portuguese": "Você pode esclarecer o que quer dizer?",
+      "transliteration": "VO-ce PO-de es-CLE-ci-ar o que quer DI-zer",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I’ll draft it and share soon.",
+      "portuguese": "Eu vou rascunhar e compartilhar em breve.",
+      "transliteration": "eU vou ra-SKunhar e com-pa-TI-lhar em BRE-ve",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I think we should document this.",
+      "portuguese": "Acho que devemos documentar isso.",
+      "transliteration": "a-CHO que de-ve-MOS do-cu-MEN-tar IS-so",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Tell me how this started.",
+      "portuguese": "Me conta como isso começou.",
+      "transliteration": "Me CON-ta co-MO is-so co-me-çou.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I love your welcome tradition.",
+      "portuguese": "Adoro a tradição do seu acolhimento.",
+      "transliteration": "a-do-ro a TRADi-ção do seu a-co-lHI-men-to.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "What does this gesture mean?",
+      "portuguese": "O que significa esse gesto?",
+      "transliteration": "O QUE sig-ni-fi-ca ES-se ges-to?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I’ll follow, step by step.",
+      "portuguese": "Vou seguir, passo a passo.",
+      "transliteration": "VOU se-guir, PAS-so a PAS-so.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Let’s share stories after the meal.",
+      "portuguese": "Vamos trocar histórias depois da refeição.",
+      "transliteration": "va-MOS TRO-car HIS-tó- ri-as de-poIS da re-fei-ção.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "This song feels like home to me.",
+      "portuguese": "Essa canção me dá uma sensação de casa.",
+      "transliteration": "ES-sa can-SÃO me dá u-ma sen-sa-ção de CA-sa.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I brought flowers, just because.",
+      "portuguese": "Trouxe flores, só por carinho.",
+      "transliteration": "TRU-xe FLO-res, só por ca-RIN-ho.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Love is making time for you",
+      "portuguese": "Amor é fazer tempo para você, de verdade.",
+      "transliteration": "Amor é FAZER tem-po pa-ra VO-cê, de VER-da-de.",
+      "category": "Love",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I feel loved when you check in",
+      "portuguese": "Eu me sinto amado quando você pergunta de mim.",
+      "transliteration": "Eu me SIN-to aMA-do quan-do VO-cê PER-gun-ta de MIM.",
+      "category": "Love",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Your hugs make the world quieter",
+      "portuguese": "Os seus abraços deixam o mundo mais quieto.",
+      "transliteration": "Os SEUS aBRA-ços dei-xam o MUN-do mais QUI-e-to.",
+      "category": "Love",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I want to build, not compete",
+      "portuguese": "Quero construir, não competir com você.",
+      "transliteration": "QUE-ro cons-TRUIR, não com-PET-ir com VO-cê.",
+      "category": "Love",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "We celebrate small wins together",
+      "portuguese": "A gente comemora as pequenas vitórias junto.",
+      "transliteration": "A GEN-te co-me-mo-ra as PE-que-nas vi-TÓ-r ias JUN-to.",
+      "category": "Love",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "I choose you in everyday moments",
+      "portuguese": "Eu escolho você nos momentos mais simples.",
+      "transliteration": "Eu es-CO-lho VO-cê nos MO-men-tos mais SIM-ples.",
+      "category": "Love",
+      "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Tell me what you need, honestly",
+      "portuguese": "Me diz o que você precisa, com sinceridade.",
+      "transliteration": "Me diz O que VO-cê PRE-ci-sa, com sin-ce-RI-da-de.",
+      "category": "Love",
+      "generated_at": "2026-11-17T22:27:38.434526"
     }
   ],
-  "last_updated": "2026-11-16T23:27:12.339324"
+  "last_updated": "2026-11-17T22:27:38.434526"
 }
