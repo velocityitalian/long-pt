@@ -20351,7 +20351,399 @@
       "transliteration": "Me diz O que VO-cê PRE-ci-sa, com sin-ce-RI-da-de.",
       "category": "Love",
       "generated_at": "2026-11-17T22:27:38.434526"
+    },
+    {
+      "english": "Let me think, I won’t rush.",
+      "portuguese": "Deixa eu pensar, não vou com pressa.",
+      "transliteration": "DEIxa eu PENsar, não VOU com PREssa.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "We can try again, slowly.",
+      "portuguese": "Podemos tentar de novo, devagar.",
+      "transliteration": "PoDEmos tenTAR de NOvo, deVAgar.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "I can handle waiting, really.",
+      "portuguese": "Eu aguento esperar, de verdade.",
+      "transliteration": "Eu aGUENto esPERAR, de VERdade.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Answer later, I choose calm now.",
+      "portuguese": "Respondo depois, eu escolho calma agora.",
+      "transliteration": "responDO dePOIS, eu esCOlho calMA aGOra.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "My timeline is not the problem.",
+      "portuguese": "O meu tempo não é o problema.",
+      "transliteration": "O meu TEMpo não é o PROblema.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Stay gentle, even with yourself.",
+      "portuguese": "Seja gentil, até comigo mesma.",
+      "transliteration": "SEja GENtil, até coMIGO MESma.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "I breathe, then keep it simple.",
+      "portuguese": "Eu respiro, e depois simplifico.",
+      "transliteration": "Eu resPIro, e dePOIS SIMplifico.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Wisdom is slowing down to notice.",
+      "portuguese": "Sabedoria é desacelerar para notar.",
+      "transliteration": "sABedoria E desACelerar pAra nOtAR",
+      "category": "Wisdom",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Choose lessons, not just comfort.",
+      "portuguese": "Escolha lições, não só conforto.",
+      "transliteration": "esCOLha LICOes, nao so CONforTo",
+      "category": "Wisdom",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Let actions teach what words can't.",
+      "portuguese": "Deixe as ações ensinarem o que as palavras não dizem.",
+      "transliteration": "deiXe as aCOES enSInarem o que as paLavRas nao diZem",
+      "category": "Wisdom",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Sometimes the right answer is rest.",
+      "portuguese": "Às vezes, a resposta certa é descansar.",
+      "transliteration": "as VEzes, a resPOSTa CERTa E descanSAR",
+      "category": "Wisdom",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "I trust patterns, not panic.",
+      "portuguese": "Eu confio nos padrões, não no pânico.",
+      "transliteration": "eu conFIO nos PAdrões, nao no PÂNico",
+      "category": "Wisdom",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Truth grows when you stay honest.",
+      "portuguese": "A verdade cresce quando você permanece honesto.",
+      "transliteration": "a verDAde cresCE quanDO vose PERmanEce oNesTo",
+      "category": "Wisdom",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Ask why kindly, then listen deeply.",
+      "portuguese": "Pergunte por quê com gentileza, e escute de verdade.",
+      "transliteration": "perGUNte por QUE com jeNtilEza, e EScu te de VERdade",
+      "category": "Wisdom",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Do you have gluten-free options?",
+      "portuguese": "Vocês têm opções sem glúten?",
+      "transliteration": "Voçes TEM opÇÕES SEM glúTEN?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Can I order at the counter?",
+      "portuguese": "Posso pedir no balcão?",
+      "transliteration": "POSSO peDIR no BALcão?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "I’ll have the chicken, please.",
+      "portuguese": "Quero frango, por favor.",
+      "transliteration": "QUE-ro FRAN-go, por FA-vor.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "What comes with the meal?",
+      "portuguese": "O que vem com a refeição?",
+      "transliteration": "O que vem com a reFEiÇÃO?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Could we get separate checks, please?",
+      "portuguese": "Podem trazer a conta separada, por favor?",
+      "transliteration": "PO-dem TRAR a CON-ta sepaRA-da, por faVOR?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Is there a lunch special today?",
+      "portuguese": "Tem alguma promoção de almoço hoje?",
+      "transliteration": "TEM alGUMA proMOção de aLMOço HOje?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "I’m allergic to peanuts.",
+      "portuguese": "Sou alérgico a amendoim.",
+      "transliteration": "Sou aLÉR-gi-co a aMEN-doim.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Hi, I’m calling about your order",
+      "portuguese": "Olá, estou a ligar sobre o seu pedido",
+      "transliteration": "Ola, estou a LIGAR sobre o seu PEDIDO",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Could you confirm the time, please?",
+      "portuguese": "Pode confirmar a hora, por favor?",
+      "transliteration": "Pode confirmar a HORA, por favor?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "I need to reach you urgently",
+      "portuguese": "Preciso falar consigo com urgência",
+      "transliteration": "Preciso FALAR consigo com URGÊNCIA",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Sorry, I lost signal, can you hear me?",
+      "portuguese": "Desculpe, perdi o sinal, consegue ouvir-me?",
+      "transliteration": "Desculpe, PERDI o SINAL, consegue ouvir-ME?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "I’ll send a quick voice note",
+      "portuguese": "Vou enviar uma mensagem de voz rápida",
+      "transliteration": "Vou enVIAR uma MENSAgem de VOZ raPIDA",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Are you the person I spoke with?",
+      "portuguese": "É você a pessoa com quem falei?",
+      "transliteration": "E voce a PESsoa com QUEM falei?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Please reply when you get this",
+      "portuguese": "Por favor, responda quando receber isto",
+      "transliteration": "Por favor, resPONDA quando reCEBER isto",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "How far is the old town?",
+      "portuguese": "Com que distância fica a cidade antiga?",
+      "transliteration": "Com que DISTÂNcia fica a CIdaDe ANtiga?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Is there a shortcut to there?",
+      "portuguese": "Existe um caminho mais rápido para lá?",
+      "transliteration": "ExisTe um CAmiNho mais RÁpiDo pra LÁ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Can you tell me the best route?",
+      "portuguese": "Você pode me dizer a melhor rota?",
+      "transliteration": "VoCê pode me diZEr a meLhor roTA?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Where exactly is the central library?",
+      "portuguese": "Onde fica exatamente a biblioteca central?",
+      "transliteration": "OnDE fiCA exaTAmen te a biBLio teCA cenTral?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Do I go straight or turn?",
+      "portuguese": "Eu sigo em frente ou viro?",
+      "transliteration": "Eu siGO em FRENte ou VIro?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "What landmark should I look for?",
+      "portuguese": "Que referência devo procurar?",
+      "transliteration": "Que reFErên cia devo proCURAR?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Is it within walking distance?",
+      "portuguese": "Dá para ir a pé, é perto?",
+      "transliteration": "DA para ir a PÉ, é PERto?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "I water my mind with silence",
+      "portuguese": "Eu rego minha mente com silêncio",
+      "transliteration": "Eu REGo minha MEnte com SIÊncio",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "One small task, then I breathe",
+      "portuguese": "Uma tarefa pequena, depois eu respiro",
+      "transliteration": "U Mna taREFA peQUENa, dePOIS eu resPIro",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "I write the tough truth down",
+      "portuguese": "Eu escrevo a verdade difícil",
+      "transliteration": "Eu esCREvo a verDADe diFÍcil",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "I ask, then I listen deeply",
+      "portuguese": "Eu pergunto, e depois escuto com atenção",
+      "transliteration": "Eu perGUNto, e dePOIS esCUto com aTENção",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "I end one chore before dinner",
+      "portuguese": "Eu termino uma tarefa antes do jantar",
+      "transliteration": "Eu TERmino uMA taREFA anTES do JANtar",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "I apologize fast, and move on",
+      "portuguese": "Eu peço desculpas rápido, e sigo em frente",
+      "transliteration": "Eu peÇO desCULpas RÁpiDO, e siGO em FRENte",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "I take the long way for health",
+      "portuguese": "Eu faço o caminho mais longo para a saúde",
+      "transliteration": "Eu FAço o caMINho mais lonGO paRA a SAÚde",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Can I get this loan approved?",
+      "portuguese": "Posso pedir e aprovar um empréstimo?",
+      "transliteration": "PO-sso pe-DIR e a-PRO-var um EM-pre-sti-mo",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "I need a bank statement, please.",
+      "portuguese": "Preciso de um extrato bancário, por favor.",
+      "transliteration": "pre-SI-so de um ex-TRA-to ban-KÁ-ri-o, por fa-VOR",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Is there a minimum account balance?",
+      "portuguese": "Existe um saldo mínimo na conta?",
+      "transliteration": "EKS-is-te um SAL-do MI-ni-mo na CON-ta?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "What are your exchange rates today?",
+      "portuguese": "Quais são as taxas de câmbio hoje?",
+      "transliteration": "quais SÃO as TA-xas de CÂm-bio HO-je?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Can I deposit cash into my account?",
+      "portuguese": "Posso fazer um depósito em dinheiro na minha conta?",
+      "transliteration": "PO-so fa-ZER um de-PÓ-si-to em DI-ni-ru na mi-nha CON-ta?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "How long does a transfer take?",
+      "portuguese": "Quanto tempo demora uma transferência?",
+      "transliteration": "quan-to TEM-po de-MO-ra u-ma trans-fe-RÊN-sia?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Can I set up a standing order?",
+      "portuguese": "Posso configurar uma ordem permanente?",
+      "transliteration": "PO-so kon-fi-gu-RAR u-ma Ór-dem per-ma-NEN-te?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "I fail, then I learn, and again.",
+      "portuguese": "Eu falho, aprendo, e tento de novo.",
+      "transliteration": "Eu FA-lho, apREN-do, e TEN-to de NO-vo.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Stay late, finish the hard part.",
+      "portuguese": "Fica mais um pouco, termina a parte difícil.",
+      "transliteration": "FI-ca MAIS um pou-co, TER-mi-na a PAR-te DI-fí-cil.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "When it drags, I keep my rhythm.",
+      "portuguese": "Quando pesa, eu mantenho meu ritmo.",
+      "transliteration": "QUAN-do pe-SA, eu maNTE-nho MEU RIT-mo.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "No excuses, just another focused session.",
+      "portuguese": "Sem desculpas, só mais uma sessão focada.",
+      "transliteration": "Sem des-CUL-pas, só MAIS uMA SESSão FO-ca-da.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "I ask for help, then continue.",
+      "portuguese": "Eu peço ajuda, depois continuo firme.",
+      "transliteration": "Eu PE-ço aju-DA, de-Pois con-TI-nuo FIR-me.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Even slow progress still moves me forward.",
+      "portuguese": "Progresso lento ainda me leva adiante.",
+      "transliteration": "PRO-gres-so len-to Ain-da me LE-va a-DI-an-te.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "I missed a day, now I return.",
+      "portuguese": "Perdi um dia, mas agora eu volto.",
+      "transliteration": "PER-di um DI-a, mas A-go-ra eu VOL-to.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-18T21:59:45.998579"
     }
   ],
-  "last_updated": "2026-11-17T22:27:38.434526"
+  "last_updated": "2026-11-18T21:59:45.998579"
 }
