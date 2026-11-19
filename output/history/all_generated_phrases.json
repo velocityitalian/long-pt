@@ -20743,7 +20743,399 @@
       "transliteration": "PER-di um DI-a, mas A-go-ra eu VOL-to.",
       "category": "Perseverance",
       "generated_at": "2026-11-18T21:59:45.998579"
+    },
+    {
+      "english": "Unclench your jaw, soften your gaze",
+      "portuguese": "Solte a mandíbula, suavize o olhar",
+      "transliteration": "solte a manDiBula, SUaVize o oLhar",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Notice one sound, let it fade",
+      "portuguese": "Perceba um som, e deixe-o ir embora",
+      "transliteration": "perceBa um som, e deixe-o ir emboRa",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Feel your weight on the seat",
+      "portuguese": "Sinta o seu peso na cadeira",
+      "transliteration": "SINta o seu PEso na CAdeiRa",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Look around slowly, no need to judge",
+      "portuguese": "Olhe ao redor devagar, sem julgar",
+      "transliteration": "oLhe ao reDor deVaGar, sem juLgar",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Breathe in, exhale longer than that",
+      "portuguese": "Inspire, e solte o ar mais tempo",
+      "transliteration": "inSPIre, e SOLte o ar mais TEMpo",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Relax your tongue inside your mouth",
+      "portuguese": "Relaxe a língua na boca",
+      "transliteration": "reLAxe a LÍngua na BOca",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Feel your hands, warm and present",
+      "portuguese": "Sinta suas mãos, quentes e aqui",
+      "transliteration": "SINta suas MÃOs, QUenTes e AQUI",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I’m going to try anyway.",
+      "portuguese": "Vou tentar mesmo assim.",
+      "transliteration": "Vou TAEN-tar mes-mo AS-sim.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "No more hiding, I choose action.",
+      "portuguese": "Chega de me esconder, eu escolho agir.",
+      "transliteration": "CHE-ga de me es-CON-der, eu es-col-ho a-GIR.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I can face it, step by step.",
+      "portuguese": "Eu posso encarar isso, passo a passo.",
+      "transliteration": "Eu POS-so en-CAR-ar is-so, PAS-so a PAS-so.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I’ll call even if my voice shakes.",
+      "portuguese": "Eu vou ligar mesmo que a voz tremo.",
+      "transliteration": "Eu vou LIG-ar mes-mo que a VOZ TRE-mo.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I’ll be honest, no rehearsing forever.",
+      "portuguese": "Vou ser honesto, sem ensaiar para sempre.",
+      "transliteration": "Vou ser o-NES-to, sem en-sai-ar pa-ra SEM-pre.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I won’t back out of this moment.",
+      "portuguese": "Não vou recuar neste momento.",
+      "transliteration": "Não vou re-CU-ar nes-te MO-men-to.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I’ll ask for help, today.",
+      "portuguese": "Eu vou pedir ajuda, hoje.",
+      "transliteration": "Eu vou pe-DIR a-JU-da, HO-je.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Today, I choose to take action.",
+      "portuguese": "Hoje, eu escolho agir.",
+      "transliteration": "HO-je, eu E-scho-LHO a-GIR.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I’m building my life on values.",
+      "portuguese": "Estou construindo minha vida com valores.",
+      "transliteration": "es-TOU cons-Tuin-do mi-nha VI-da com VA-lo-res.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "My purpose is learning by doing.",
+      "portuguese": "Meu propósito é aprender fazendo.",
+      "transliteration": "MEU pro-pó-si-to é a-PREN-der FA-zen-do.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I want to make room for joy.",
+      "portuguese": "Quero abrir espaço para a alegria.",
+      "transliteration": "KEI-ro a-BRIR es-pa-ço pa-ra a a-LE-gri-a.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I’m here to tell the truth kindly.",
+      "portuguese": "Estou aqui para dizer a verdade com carinho.",
+      "transliteration": "es-TOU a-QUI pa-ra di-ZER a VE-da-de com CARi-nho.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I keep showing up, even imperfectly.",
+      "portuguese": "Eu continuo aparecendo, mesmo imperfeito.",
+      "transliteration": "eu con-TI-nu-o a-pa-RE-cen-do, MES-mo im-per-FEI-to.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I trust the process, one step.",
+      "portuguese": "Eu confio no processo, um passo de cada vez.",
+      "transliteration": "eu con-FI-o no pro-CES-so, um PAS-so de ca-da vez.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I bake bread, just for fun.",
+      "portuguese": "Eu faço pão caseiro, só para me divertir.",
+      "transliteration": "eu FAÇO pão CASEIRO, SÓ para me di-VER-tir",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I sketch in my notebook on weekends.",
+      "portuguese": "Eu rabisco no meu caderno nos fins de semana.",
+      "transliteration": "eu ra-BIS-co no meu CA-der-no nos FINS de SE-ma-na",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I try new recipes from cooking videos.",
+      "portuguese": "Eu testo receitas novas que vejo em vídeos de culinária.",
+      "transliteration": "eu TES-to re-CEI-tas no-VAS que VE-jo em VÍ-de-os de cu-li-NÁ-ria",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I go kayaking when the weather is kind.",
+      "portuguese": "Eu vou de caiaque quando o tempo ajuda.",
+      "transliteration": "eu vou de CAI-que quan-do o TEM-po aJU-da",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I do yoga at home, after work.",
+      "portuguese": "Eu faço yoga em casa, depois do trabalho.",
+      "transliteration": "eu FA-ço YO-ga em CA-sa, de-POIS do TRA-ba-lho",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I volunteer at a shelter on Saturdays.",
+      "portuguese": "Eu trabalho voluntariamente num abrigo aos sábados.",
+      "transliteration": "eu TRA-ba-lho vo-LUN-tar-i-a-MEN-te num a-BRI-go aos SA-bá-dos",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I swim laps to clear my head.",
+      "portuguese": "Eu nado em braçadas para esvaziar a cabeça.",
+      "transliteration": "eu NA-do em bra-ÇA-das pa-ra eSVA-zi-ar a ca-BE-ça",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Where’s the laundry basket, please?",
+      "portuguese": "Onde está o cesto de roupa, por favor?",
+      "transliteration": "ON-de es-tá o CES-to de ROU-pa, por fa-VOR?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I can water the plants today.",
+      "portuguese": "Eu posso regar as plantas hoje.",
+      "transliteration": "eu pos-so re-GAR as plan-TAS HO-je.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Can we eat together at 7?",
+      "portuguese": "Podemos jantar juntos às sete?",
+      "transliteration": "po-DE-mos JAN-tar JUN-tos às se-TE?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "My sister is coming over this evening.",
+      "portuguese": "A minha irmã vai vir aqui esta noite.",
+      "transliteration": "a mi-Nha I-RMÃ vai VInd aqui es-ta NOI-te.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Who’s helping with homework tonight?",
+      "portuguese": "Quem está ajudando com o dever de casa esta noite?",
+      "transliteration": "quem es-TÁ a-JU-dan-do com o de-ver de KA-sa es-ta NOI-te?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Let’s set the table now.",
+      "portuguese": "Vamos pôr a mesa agora.",
+      "transliteration": "va-mos pôr a ME-sa A-go-ra.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "We need to buy more cleaning spray.",
+      "portuguese": "Precisamos comprar mais spray de limpeza.",
+      "transliteration": "pre-ci-SA-mos com-pRAr mais sprai de lim-P-e-za.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I unclench my jaw, I soften.",
+      "portuguese": "Destravo a mandíbula, eu suavizo.",
+      "transliteration": "DesTRAVO a manDI-bu-la, eu SU-a-vi-zo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I feel my feet, and I’m here.",
+      "portuguese": "Sinto os meus pés, e eu estou aqui.",
+      "transliteration": "SIN-to os MEUS pés, e eu ES-tou A-qui.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Let it be enough for today.",
+      "portuguese": "Que seja suficiente para hoje.",
+      "transliteration": "Que se-ja su-FI-cien-te pa-ra HO-je.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I drop the fight, one breath at a time.",
+      "portuguese": "Eu largo a luta, um fôlego de cada vez.",
+      "transliteration": "Eu lar-go a LU-ta, um FO-le-go de ca-da VEZ.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "My inner light stays steady.",
+      "portuguese": "A minha luz interior fica firme.",
+      "transliteration": "A mi-nha luz in-te-RIOR fi-ca FIR-me.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I slow my speech, and listen inward.",
+      "portuguese": "Eu desacelero a fala, e escuto por dentro.",
+      "transliteration": "Eu de-sa-ce-LE-ro a FA-la, e es-CU-to por DEN-tro.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "I choose kind words, even internally.",
+      "portuguese": "Eu escolho palavras gentis, até comigo.",
+      "transliteration": "Eu es-colho PA-la-vras gen-TIS, a-TE co-MI-go.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Friends like you make life lighter",
+      "portuguese": "Amigos como você deixam a vida mais leve",
+      "transliteration": "AmiGOS KOmo voSE u DEiXam a VI da mais LEve",
+      "category": "Friendship",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Thanks for showing up for me",
+      "portuguese": "Obrigado por aparecer por mim",
+      "transliteration": "OBriGHA do POR a paRE seR por miM",
+      "category": "Friendship",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "We tell the truth, gently",
+      "portuguese": "A gente fala a verdade, com carinho",
+      "transliteration": "a GENti faLA a veRDAde, com kaRInHO",
+      "category": "Friendship",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Your friendship calms my storms",
+      "portuguese": "A sua amizade acalma minhas tempestades",
+      "transliteration": "a SUA a mizaDE a CALma miNhas tem pes TA des",
+      "category": "Friendship",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Let’s go walk and talk",
+      "portuguese": "Vamos dar uma volta e conversar",
+      "transliteration": "VAmoS dar uMA vol ta e kon ver SAR",
+      "category": "Friendship",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "You make ordinary days feel special",
+      "portuguese": "Você transforma dias comuns em especiais",
+      "transliteration": "voSE trans FORma DI as KUMS em es pe CIais",
+      "category": "Friendship",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "You never judge, you just listen",
+      "portuguese": "Você não julga, você só escuta",
+      "transliteration": "voSE nãU juLGA, voSE so es KUta",
+      "category": "Friendship",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Can I get a medium cappuccino, please?",
+      "portuguese": "Posso pegar um cappuccino médio, por favor?",
+      "transliteration": "POSso PEgar um capPUccino MÉdio, por FAvor?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "What soups do you have today?",
+      "portuguese": "Que sopas vocês têm hoje?",
+      "transliteration": "Que SOpas voCES têm HOje?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Do you have a vegan breakfast bowl?",
+      "portuguese": "Vocês têm uma tigela de café da manhã vegana?",
+      "transliteration": "VOcês têm uma TIgela de caFÉ da maNHÃ veGAnA?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Is the cinnamon roll still warm?",
+      "portuguese": "O rolinho de canela ainda está quentinho?",
+      "transliteration": "O ROlinho de caNEla ainDA esTÁ QUENtiNHO?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Do you have cheese and tomato toast?",
+      "portuguese": "Vocês têm um pão tostado com queijo e tomate?",
+      "transliteration": "VOcês têm um PÃO tosTAdo com QUEijo e TOmaTE?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "What sizes of croissants do you offer?",
+      "portuguese": "Que tamanhos de croissant vocês oferecem?",
+      "transliteration": "Que TAmanhos de croisSANT voCES ofeREcem?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Can I get my coffee without sugar?",
+      "portuguese": "Pode ser meu café sem açúcar?",
+      "transliteration": "POde ser MEU caFÉ sem AÇÚcar?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-19T22:13:16.481247"
     }
   ],
-  "last_updated": "2026-11-18T21:59:45.998579"
+  "last_updated": "2026-11-19T22:13:16.481247"
 }
