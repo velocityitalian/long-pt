@@ -21135,7 +21135,399 @@
       "transliteration": "POde ser MEU caFÉ sem AÇÚcar?",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-11-19T22:13:16.481247"
+    },
+    {
+      "english": "Do you accept contactless payments?",
+      "portuguese": "Vocês aceitam pagamentos por aproximação?",
+      "transliteration": "VoCÊs aceitam PAGAMENTOS por aproxiMAÇÃo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Is there a sale on today?",
+      "portuguese": "Tem alguma promoção hoje?",
+      "transliteration": "Tem alGUMA proMOÇÃo HOje?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Can I pay in installments?",
+      "portuguese": "Dá para parcelar no cartão?",
+      "transliteration": "DÁ para parCElAR no CARtão?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "What’s the cheapest option here?",
+      "portuguese": "Qual é a opção mais barata aqui?",
+      "transliteration": "Qual é a OPIÇÃo mais BAraTA AQUI?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Does the price include tax?",
+      "portuguese": "O preço inclui IVA?",
+      "transliteration": "O PREÇO inCLUI iVA?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Is there an exchange policy?",
+      "portuguese": "Qual é a política de troca, por favor?",
+      "transliteration": "Qual é a POLÍtiCA de TROca, por faVOR?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Can I see the same model?",
+      "portuguese": "Posso ver o mesmo modelo, por favor?",
+      "transliteration": "POSso ver o MESmo MOdeLO, por faVOR?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Where’s the airline baggage drop?",
+      "portuguese": "Onde fica o balcão de despacho de bagagens?",
+      "transliteration": "ONde fica o BALcão de DESpa-cho de ba-gA-gens?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "I need to print my boarding pass.",
+      "portuguese": "Preciso imprimir meu cartão de embarque.",
+      "transliteration": "PRE-ci-so im-pri-MIR meu CAR-tão de em-bar-QUE",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Is there a lounge for passengers?",
+      "portuguese": "Tem sala VIP para passageiros?",
+      "transliteration": "TEM sa-la VIP pa-ra pas-sa-gei-ROS?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "What gate is my flight leaving from?",
+      "portuguese": "De qual portão sai meu voo?",
+      "transliteration": "de QUAL por-TÃO sai meu VOO?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Can I get a window seat?",
+      "portuguese": "Dá para eu conseguir uma poltrona na janela?",
+      "transliteration": "dá pa-ra eu con-se-GUIR uMA pol-trO-na na JA-nela?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "How early should I arrive?",
+      "portuguese": "Com que antecedência devo chegar?",
+      "transliteration": "com que an-te-CE-dên-cia de-VO CHE-gar?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "My passport is missing, what now?",
+      "portuguese": "Meu passaporte sumiu, o que eu faço agora?",
+      "transliteration": "meu pas-sa-PO-porte SU-miU, o que eu FA-ço a-go-ra?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "I journal three lines, then move",
+      "portuguese": "Eu escrevo três linhas, e depois vou",
+      "transliteration": "eu EScrevo tres LINhas, e dePOIS vou",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "I call a friend, and reset",
+      "portuguese": "Eu ligo para um amigo, e me reorganizo",
+      "transliteration": "eu LIgo paRA um aMIGO, e me reORganizo",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Clean desk, fresh mind, steady start",
+      "portuguese": "Mesa limpa, mente leve, começo firme",
+      "transliteration": "MEsa LIMpa, MENte LEve, coMEço FIRme",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "I take one small step, right now",
+      "portuguese": "Eu dou um passo pequeno, agora mesmo",
+      "transliteration": "eu dOU um PASso peQUEno, aGORA MESmo",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "A new playlist for focus, please",
+      "portuguese": "Uma música nova para focar, por favor",
+      "transliteration": "uMA MUsi ca NOva paRA FOcar, por faVOR",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "I turn fear into a plan",
+      "portuguese": "Eu transformo o medo num plano",
+      "transliteration": "eu transFORmo o MEdo NUM plaNO",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "I read one page, motivation returns",
+      "portuguese": "Eu leio uma página, e a motivação volta",
+      "transliteration": "eu LEio uMA PAgi na, e a moTIVa cao VOLta",
+      "category": "Inspiration",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Would you like to meet for drinks?",
+      "portuguese": "Você quer encontrar para tomar uma bebida?",
+      "transliteration": "VOCE quer ENCONTRAR para TOMAR uma BEBIDA",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Text me when you’re free tonight.",
+      "portuguese": "Me manda mensagem quando você estiver livre hoje à noite.",
+      "transliteration": "me MANDA menSAGEM quanDO VOCE esTIVER LIVRE HOJE a NOIte",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "I’m into slow, sweet conversations.",
+      "portuguese": "Gosto de conversas lentas e doces.",
+      "transliteration": "GOS tu de conVERSAS LENtas e DOCE",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Let’s go for a spontaneous walk.",
+      "portuguese": "Vamos dar uma caminhada espontânea.",
+      "transliteration": "vaMOS dar uma caMINhaDA esponTAnea",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Your laugh is dangerously contagious.",
+      "portuguese": "A sua risada é perigosa de tão contagiosa.",
+      "transliteration": "a SUA rISAda e PERIgoSA de TAO conTAgiOSA",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Are you planning anything this weekend?",
+      "portuguese": "Você já tem planos para este fim de semana?",
+      "transliteration": "VOCE ja TEM plaNOS para esTE FIM de seMAna",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "I’d love to hear all about you.",
+      "portuguese": "Eu adoraria saber mais sobre você.",
+      "transliteration": "eu aDOraRIA SAber mais soBRE VOCE",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Hi, how do you say that?",
+      "portuguese": "Oi, como se diz isso?",
+      "transliteration": "Oi, KOME se diz ISSO?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Where can I find the bathroom?",
+      "portuguese": "Com licença, onde fica o banheiro?",
+      "transliteration": "Com LIcENsa, ONde FICA o baNHEIro?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Sorry, are you with this tour?",
+      "portuguese": "Desculpa, você faz esse passeio?",
+      "transliteration": "desCULpa, voCÊ faz ESSE paSSEio?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "I love your jacket, where from?",
+      "portuguese": "Que casaco bonito, onde você comprou?",
+      "transliteration": "Que caSOko boNito, onDE voCÊ COMprou?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Nice meeting you, have a great day.",
+      "portuguese": "Prazer em conhecê-lo, tenha um ótimo dia.",
+      "transliteration": "PraZER em coNHEcê-lo, teNHA um Ótimo dia.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Can we talk for a minute?",
+      "portuguese": "Você tem um minuto para conversar?",
+      "transliteration": "voCÊ TEM um MINutO paRa conVERSAR?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Do you mind if I sit here?",
+      "portuguese": "Posso me sentar aqui, tudo bem?",
+      "transliteration": "POSso me SENtar AQUI, tuDO bem?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Let’s compare options and decide",
+      "portuguese": "Vamos comparar as opções e decidir",
+      "transliteration": "va-MOS com-pa-RAR aS o-PÇÕES e de-CI-dir",
+      "category": "Making Plans",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "What’s our best meeting point?",
+      "portuguese": "Qual é o melhor ponto de encontro?",
+      "transliteration": "qual é o me-LHOR pon-TU de en-CON-tro",
+      "category": "Making Plans",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "I’ll drive, you text me directions",
+      "portuguese": "Eu vou dirigir, você me manda as indicações por mensagem",
+      "transliteration": "eu vou di-RI-GIR, vo-cê me MAN-da aS in-di-Ca-ÇÕES por men-SA-gem",
+      "category": "Making Plans",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Let’s choose a place near you",
+      "portuguese": "Vamos escolher um lugar perto de você",
+      "transliteration": "va-MOS es-col-HER um lu-GAR per-TU de vo-cê",
+      "category": "Making Plans",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "We should confirm the plan tonight",
+      "portuguese": "A gente confirma o plano esta noite",
+      "transliteration": "a gen-TI con-FIR-ma o PLA-no es-ta NOI-te",
+      "category": "Making Plans",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Can you revise the route on Google?",
+      "portuguese": "Você pode revisar a rota no Google, por favor?",
+      "transliteration": "vo-cê PO-de re-vi-SAR a RO-ta no GOU-guI, por FA-vor",
+      "category": "Making Plans",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "I’m flexible, what works for you?",
+      "portuguese": "Eu estou flexível, o que funciona para você?",
+      "transliteration": "eu es-TÔu fle-KSI-vel, o que FUN-ci-o-na pa-ra vo-cê",
+      "category": "Making Plans",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "You always make things easier for me.",
+      "portuguese": "Você sempre torna tudo mais fácil pra mim.",
+      "transliteration": "Voce SEMPRE TORna tu-do mais FÁC-il pra mim.",
+      "category": "Kindness",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "That was thoughtful, thank you sincerely.",
+      "portuguese": "Isso foi atencioso, obrigado de coração.",
+      "transliteration": "IS-so foi a-ten-CIO-so, obri-GA-do de co-RA-çao.",
+      "category": "Kindness",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "I needed that, you helped a lot.",
+      "portuguese": "Eu precisava disso, você me ajudou muito.",
+      "transliteration": "Eu pre-CI-sa-va dis-so, vo-CÊ me a-JU-dou MU-i-to.",
+      "category": "Kindness",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Come sit with me, no rush.",
+      "portuguese": "Senta aqui comigo, sem pressa.",
+      "transliteration": "SEN-ta a-QUI co-mi-go, sem PRE-sa.",
+      "category": "Kindness",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "You listened, and it meant a lot.",
+      "portuguese": "Você me ouviu, e isso significou muito.",
+      "transliteration": "Voce me O-U-iu, e IS-so sig-ni-FI-cou MU-i-to.",
+      "category": "Kindness",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "I’ll pay attention, your way helped.",
+      "portuguese": "Vou prestar mais atenção, do jeito que você falou.",
+      "transliteration": "Vou pres-TAR mais aTEN-ção, do JEi-to que vo-CÊ fa-LOU.",
+      "category": "Kindness",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Thanks for checking on me today.",
+      "portuguese": "Obrigada por me perguntar como eu estou hoje.",
+      "transliteration": "Obri-GA-da por me per-GUN-tar co-mo eu ES-tou HO-je.",
+      "category": "Kindness",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "I find my balance again, calmly",
+      "portuguese": "Eu encontro meu equilíbrio de novo, com calma.",
+      "transliteration": "Eu ENCONTRO meu eQUIlíBRIO de NOvo, com CALma.",
+      "category": "Strength",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Shoulders down, I choose strength",
+      "portuguese": "Ombros para baixo, eu escolho força.",
+      "transliteration": "OMBros pa RAixo, eu escoLHO FORça.",
+      "category": "Strength",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "I can handle one more thing",
+      "portuguese": "Eu consigo lidar com mais uma coisa.",
+      "transliteration": "Eu conSIGo liDAR com mais UMa COisa.",
+      "category": "Strength",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "My body is telling me, move",
+      "portuguese": "Meu corpo está me dizendo, mexa.",
+      "transliteration": "Meu corPO esTA me diZENdo, MExa.",
+      "category": "Strength",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "I rest, then I return stronger",
+      "portuguese": "Eu descanso, e volto mais forte.",
+      "transliteration": "Eu desCANso, e VOLto mais FORte.",
+      "category": "Strength",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "Keep going, even if it’s small",
+      "portuguese": "Continue, mesmo que seja pequeno.",
+      "transliteration": "ConTI-nue, mes-mo que seJA PEqueno.",
+      "category": "Strength",
+      "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "I speak up, with steady courage",
+      "portuguese": "Eu falo, com coragem firme.",
+      "transliteration": "Eu FAlo, com COuragem FIRme.",
+      "category": "Strength",
+      "generated_at": "2026-11-20T21:53:04.434733"
     }
   ],
-  "last_updated": "2026-11-19T22:13:16.481247"
+  "last_updated": "2026-11-20T21:53:04.434733"
 }

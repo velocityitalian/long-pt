@@ -355,7 +355,39 @@
     {
       "category": "Coffee Shop & Bakery",
       "date": "2026-11-19"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "Travel & Airport",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "Inspiration",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "Dating & Romance",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "Meeting People & Greetings",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "Making Plans",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "Kindness",
+      "date": "2026-11-20"
+    },
+    {
+      "category": "Strength",
+      "date": "2026-11-20"
     }
   ],
-  "last_updated": "2026-11-19T22:13:16.493420"
+  "last_updated": "2026-11-20T21:53:04.449310"
 }
