@@ -21527,7 +21527,399 @@
       "transliteration": "Eu FAlo, com COuragem FIRme.",
       "category": "Strength",
       "generated_at": "2026-11-20T21:53:04.434733"
+    },
+    {
+      "english": "I start before I feel ready",
+      "portuguese": "Eu começo antes de me sentir pronto.",
+      "transliteration": "Eu coMEço anTES de me senTIR pronTO.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "One skill a week, no drama",
+      "portuguese": "Uma habilidade por semana, sem drama.",
+      "transliteration": "U ma haBILI da de por SEma na, sem DRÀma.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I ask better questions every day",
+      "portuguese": "Eu faço perguntas melhores todos os dias.",
+      "transliteration": "Eu FAço PERgunTAS meLHOrEs TOdos os DIas.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I turn mistakes into quick lessons",
+      "portuguese": "Eu transformo erros em lições rápidas.",
+      "transliteration": "Eu transFORmo Eros em lIÇÕes RÁpi das.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "My comfort zone is not my boss",
+      "portuguese": "Minha zona de conforto não manda em mim.",
+      "transliteration": "MiNha ZOna de conFORto não manDA em mim.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I say no to protect my focus",
+      "portuguese": "Eu digo não para proteger meu foco.",
+      "transliteration": "Eu diGO não paRA proTEger meu FÓco.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I learn from people, not just books",
+      "portuguese": "Eu aprendo com pessoas, não só com livros.",
+      "transliteration": "Eu aPREnDO com PESsoAS, não só com LIvros.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "That place is awesome, for real",
+      "portuguese": "Aquele lugar é da hora, de verdade.",
+      "transliteration": "AqUele luGAR é da HOra, de VERdaDe.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I m starving, but I ll grab food",
+      "portuguese": "Tô morrendo de fome, vou ali comer alguma coisa.",
+      "transliteration": "To morRENdo de FOME, vou aLI coMER alGUma COisa.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I m running late, sorry, I swear",
+      "portuguese": "Tô chegando atrasado, desculpa, juro.",
+      "transliteration": "To cheGANdo aTRAsaDO, desQULpa, JUro.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "No worries, we ll handle it",
+      "portuguese": "Tranquilo, a gente resolve isso já já.",
+      "transliteration": "tranQUIlo, a GENte reSOLve isSO já já.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "That s hilarious, I can t stop laughing",
+      "portuguese": "Tá muito engraçado, não paro de rir.",
+      "transliteration": "TA muiTO enGRaçaDO, não PAro de riR.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "She ghosted me, I m done",
+      "portuguese": "Ela me deu um gelo, tô fora.",
+      "transliteration": "E la me deu um GElo, to FOra.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Come on, tell me the truth",
+      "portuguese": "Vai, fala a verdade pra mim.",
+      "transliteration": "vai, FAla a verDAde pra mim.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I feel hopeful about tomorrow.",
+      "portuguese": "Sinto esperança para amanhã.",
+      "transliteration": "SIN-to es-perAN-sa pa-ra a-MAN-hã",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I’m proud of how I handled it.",
+      "portuguese": "Estou orgulhoso de como lidei com isso.",
+      "transliteration": "es-TOU or-gu-LHO-so de co-MO LI-dei com iS-sO",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Right now, I feel lonely.",
+      "portuguese": "Agora, estou me sentindo sozinho.",
+      "transliteration": "a-GO-ra, es-TOU me sen-TIN-do so-zin-ho",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I’m feeling grateful for your help.",
+      "portuguese": "Estou grato pela sua ajuda.",
+      "transliteration": "es-TOU GRA-to pe-la su-a AJU-da",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "That news made me speechless.",
+      "portuguese": "Essa notícia me deixou sem palavras.",
+      "transliteration": "ES-sa no-TÍ-cia me dei-XOU sem PA-la-vras",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I feel a little homesick.",
+      "portuguese": "Estou com saudade de casa.",
+      "transliteration": "es-TOU com sa-DA-de de KA-sa",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I’m tense waiting for the results.",
+      "portuguese": "Estou tenso esperando pelos resultados.",
+      "transliteration": "es-TOU TEN-so es-perAN-do pe-los re-sul-tA-dos",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I slow down, and I steady.",
+      "portuguese": "Eu desacelero, e me estabilizo.",
+      "transliteration": "Eu DESace-lo-ro, e me es-ti-bi-li-zo.",
+      "category": "Balance",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Between effort and ease, I find home.",
+      "portuguese": "Entre esforço e leveza, eu encontro meu lar.",
+      "transliteration": "ENtre ESForço e le-ve-za, eu en-CONtro meu lar.",
+      "category": "Balance",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I check in, without judging myself.",
+      "portuguese": "Eu me verifico, sem me julgar.",
+      "transliteration": "Eu me ve-ri-FI-co, sem me juLGAR.",
+      "category": "Balance",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "My schedule can flex, I can too.",
+      "portuguese": "Minha agenda pode flexionar, e eu também.",
+      "transliteration": "Mi-nha a-GEN-da po-de fle-xio-nar, e eu TAM-bém.",
+      "category": "Balance",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I let rest count as progress.",
+      "portuguese": "Eu deixo o descanso contar como progresso.",
+      "transliteration": "Eu dei-XO o desCAN-so con-TAR co-mo pro-GRES-so.",
+      "category": "Balance",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I choose one thing, then breathe.",
+      "portuguese": "Eu escolho uma coisa, e respiro.",
+      "transliteration": "Eu es-co-LHO u-ma coi-sa, e reSPI-ro.",
+      "category": "Balance",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "My pace feels fair for my body.",
+      "portuguese": "Meu ritmo é justo para o meu corpo.",
+      "transliteration": "Meu RI-tmo é JUS-to pa-ra o meu COR-po.",
+      "category": "Balance",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Can the pharmacist check my prescription?",
+      "portuguese": "Você pode conferir minha receita, por favor?",
+      "transliteration": "Vo-cê PO-de con-FE-rir mi-nha REI-tA, por fa-VOR?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "My appointment is in two hours.",
+      "portuguese": "Minha consulta é daqui a duas horas.",
+      "transliteration": "Mi-nha con-SUL-ta É da-QUI a DU-as HO-ras.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I need something for pain relief.",
+      "portuguese": "Preciso de algo para aliviar a dor.",
+      "transliteration": "PRE-ci-so de AL-go pa-ra a-LI-vi-ar a DOR.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Is this medication for adults?",
+      "portuguese": "Esse remédio é para adultos?",
+      "transliteration": "ES-se re-MÉ-di-o É pa-ra a-DUL-tos?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "How many times a day should I take it?",
+      "portuguese": "Quantas vezes por dia eu devo tomar isso?",
+      "transliteration": "Quan-tas VE-zes por DI-a eu de-VÔ to-mar is-so?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "What should I avoid while taking it?",
+      "portuguese": "O que eu devo evitar enquanto estiver usando?",
+      "transliteration": "O QUE eu de-VÔ eVI-tar en-QUAN-to es-ti-ver U-zan-do?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Can you explain the dosage in plain terms?",
+      "portuguese": "Você pode me explicar a dose com calma?",
+      "transliteration": "Vo-CÊ PO-de me ex-PLI-car a DO-se com CAL-ma?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I m listening, not judging you.",
+      "portuguese": "Eu estou te ouvindo, sem te julgar.",
+      "transliteration": "eu esTOU te OvinDO, sem te juLGAR",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I forgive you, and I move on.",
+      "portuguese": "Eu te perdôo, e sigo em frente.",
+      "transliteration": "eu te PERdoO, e siGO em FRENTE",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Please, let s stop this cycle.",
+      "portuguese": "Por favor, vamos parar esse ciclo.",
+      "transliteration": "por faVOIR, vaMOS paRAR esSE SIclo",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I accept your apology today.",
+      "portuguese": "Eu aceito teu pedido de desculpas hoje.",
+      "transliteration": "eu akEIto teU peDiDO de DESculpas HOje",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I m choosing kindness over silence.",
+      "portuguese": "Eu escolho gentileza em vez de silêncio.",
+      "transliteration": "eu escoLHO genTIleza em vez de SIlenCIO",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "No revenge, just a fresh start.",
+      "portuguese": "Sem vingança, só um recomeço.",
+      "transliteration": "sem vinGANça, soU um reCOmeço",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Can we start with a clean slate?",
+      "portuguese": "A gente pode começar do zero?",
+      "transliteration": "a genTe poDE coMEçar do ZEro",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Hope is practicing one good moment",
+      "portuguese": "Esperança é praticar um bom momento",
+      "transliteration": "esh-pe-RAN-sa eh PRA-ti-car um bom MOM-en-to",
+      "category": "Hope",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I can start again, even today",
+      "portuguese": "Eu posso recomeçar, mesmo hoje",
+      "transliteration": "eu POS-so re-co-me-CAR, mes-mo HO-je",
+      "category": "Hope",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Small steps, big hope ahead",
+      "portuguese": "Passos pequenos, esperança lá na frente",
+      "transliteration": "PAS-sos pe-QUE-nos, esh-pe-RAN-sa la na FREN-te",
+      "category": "Hope",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Hope whispers, and I listen",
+      "portuguese": "A esperança sussurra, e eu escuto",
+      "transliteration": "a esh-pe-RAN-sa sus-su-RA, e eu es-KU-to",
+      "category": "Hope",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "I hold hope without forcing outcomes",
+      "portuguese": "Eu sustento a esperança sem forçar resultados",
+      "transliteration": "eu SUS-ten-to a esh-pe-RAN-sa sem for-çar re-ZUL-ta-dos",
+      "category": "Hope",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Let hope be my quiet anchor",
+      "portuguese": "Que a esperança seja meu ancoradouro calmo",
+      "transliteration": "que a esh-pe-RAN-sa se-ja meu an-cor-a-DOR-ou-ro CAL-mo",
+      "category": "Hope",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Hope helps me text one brave yes",
+      "portuguese": "A esperança me dá coragem para dizer sim",
+      "transliteration": "a esh-pe-RAN-sa me da CO-ra-gem pa-ra di-ZER SIM",
+      "category": "Hope",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Show up, even when busy.",
+      "portuguese": "Apareça, mesmo com a agenda cheia.",
+      "transliteration": "APAREÇA, MESMO COM a AGENDA CHEIA.",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Small practice beats big intention.",
+      "portuguese": "Uma prática pequena vence uma grande intenção.",
+      "transliteration": "U M A PRÁ ti ca PEQUENA VENCE u ma GRANDE inTENÇÃO.",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Make it fun, not forced.",
+      "portuguese": "Transforme em diversão, sem forçar.",
+      "transliteration": "TRANSFOR mE em di VERSÃO, SEM forçar.",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "If you miss a day, restart.",
+      "portuguese": "Se você falhar um dia, recomece.",
+      "transliteration": "SE voCÊ falHAR uM diA, reCOMEce.",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Turn doubts into fuel today.",
+      "portuguese": "Transforme a dúvida em combustível hoje.",
+      "transliteration": "TRANSFOR mE a DÚ vi da em com BUS tí vel HOJE.",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Pick one goal and stick.",
+      "portuguese": "Escolha um objetivo e mantenha.",
+      "transliteration": "ES co lha uM oBJE ti vo e MAN te nha.",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T20:37:09.295288"
+    },
+    {
+      "english": "Use real life, not perfect lessons.",
+      "portuguese": "Use situações reais, não aulas perfeitas.",
+      "transliteration": "U se SI tuaÇÕES REAIS, NÃO au LAS per FEI tas.",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T20:37:09.295288"
     }
   ],
-  "last_updated": "2026-11-20T21:53:04.434733"
+  "last_updated": "2026-11-21T20:37:09.295288"
 }

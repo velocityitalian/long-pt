@@ -387,7 +387,39 @@
     {
       "category": "Strength",
       "date": "2026-11-20"
+    },
+    {
+      "category": "Growth",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Balance",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Forgiveness",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Hope",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Motivation",
+      "date": "2026-11-21"
     }
   ],
-  "last_updated": "2026-11-20T21:53:04.449310"
+  "last_updated": "2026-11-21T20:37:09.314206"
 }
