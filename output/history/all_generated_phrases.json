@@ -22703,7 +22703,399 @@
       "transliteration": "se VOCE voMI tar, me diGA.",
       "category": "Emergency & Health",
       "generated_at": "2026-11-24T01:44:00.610706"
+    },
+    {
+      "english": "Morning light, I feel awake",
+      "portuguese": "Luz da manhã, eu me sinto acordado",
+      "transliteration": "LUZ da maNHÃ, eu me SINto aCORdaDO",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I plan my day, just enough",
+      "portuguese": "Eu planejo o meu dia, só o suficiente",
+      "transliteration": "eu plaNEJO o meu DIA, SÓ o suFIciENte",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I take a quick tidy break",
+      "portuguese": "Eu faço uma pequena pausa para arrumar",
+      "transliteration": "eu FAÇO uma peQUENA pauSA paRA aRruMAR",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Shoes on, I head out",
+      "portuguese": "Calcei os sapatos, e já vou",
+      "transliteration": "calCEI os saPATOS, e já VOU",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I breathe at red lights, quietly",
+      "portuguese": "Eu respiro nos semáforos vermelhos, quietinho",
+      "transliteration": "eu resPIro nos seMÁfoROS verMElhos, QUIeTINho",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I keep a water bottle nearby",
+      "portuguese": "Eu deixo a garrafa de água por perto",
+      "transliteration": "eu deiXO a GARraFA de ÁGUA por PERto",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Snack now, not later, I decide",
+      "portuguese": "Eu decido agora, vou lanchar agora",
+      "transliteration": "eu deCIdo AGOra, vou laNCHar AGOra",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I love learning the meaning behind it.",
+      "portuguese": "Eu adoro entender o significado por trás disso.",
+      "transliteration": "u ADORO ENtender o SIGNIficado por TRAS DISso",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Tell me about your festival traditions.",
+      "portuguese": "Me conta sobre as tradições do seu festival.",
+      "transliteration": "me KONta SObre as TRADIções do seu fesTIVAL",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I want to join, respectfully, at the right time.",
+      "portuguese": "Eu quero participar, com respeito, na hora certa.",
+      "transliteration": "eu QUEro parTICipar, com RESpeito, na HOra CERTA",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "What do people usually bring here?",
+      "portuguese": "O que as pessoas costumam trazer aqui?",
+      "transliteration": "o QUE as PESsoas COStumam TRaZER AQUI",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "This blessing moment feels so meaningful.",
+      "portuguese": "Esse momento de bênção é muito significativo.",
+      "transliteration": "esSE MOmento de benSAO e mui to SIGnificATIVO",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I’m listening, please keep going.",
+      "portuguese": "Estou ouvindo, pode continuar.",
+      "transliteration": "esTOU OUVINdo, POde conTI.NUAR",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Let’s honor elders with quiet gratitude.",
+      "portuguese": "Vamos respeitar os mais velhos, com gratidão em silêncio.",
+      "transliteration": "vaMOS resPEItar os mais VElhos, com graTIdao em SI n si o",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Wisdom starts with asking yourself, honestly.",
+      "portuguese": "A sabedoria começa perguntando a si mesmo, com honestidade.",
+      "transliteration": "a SADoRia coMEÇa pergunTANdo a si MESmo, com oNesTiDAde",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Pause before you decide, always.",
+      "portuguese": "Pára antes de decidir, sempre.",
+      "transliteration": "paRA anTES de deCI dir, SEMpre",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Choose peace over winning every time.",
+      "portuguese": "Escolha a paz em vez de vencer sempre.",
+      "transliteration": "esCOLha a paz em vez de VENcer SEMpre",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Let gratitude guide you through tough days.",
+      "portuguese": "Deixe a gratidão guiar você nos dias difíceis.",
+      "transliteration": "deIxe a graTI dao guiar voSe nos diAS diFI seis",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Small lessons matter, even when life is loud.",
+      "portuguese": "As lições pequenas contam, mesmo com a vida barulhenta.",
+      "transliteration": "as LIÇÕES peQUe nas CON tam, mes mo com a VI da ba ruLHEN ta",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Don’t chase certainty, chase understanding.",
+      "portuguese": "Não corra atrás de certeza, corra atrás de entendimento.",
+      "transliteration": "nao koRRA aTRAS de CERteza, koRRA aTRAS de en tenDI men to",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Speak less, listen more, learn faster.",
+      "portuguese": "Fale menos, ouça mais, aprenda mais rápido.",
+      "transliteration": "faLE MENos, oça mais, aPRENda mais RApi do",
+      "category": "Wisdom",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I start messy, then I improve.",
+      "portuguese": "Eu começo bagunçado, depois eu melhoro.",
+      "transliteration": "Eu COMEÇO bagunÇADo, dePOIS eu meLHoro.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I set a small goal for lunch.",
+      "portuguese": "Eu defino uma meta pequena antes do almoço.",
+      "transliteration": "Eu deFIno uma MEta peQUeNA anTES do aLmoço.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I speak up with respect today.",
+      "portuguese": "Eu me posiciono com respeito hoje.",
+      "transliteration": "Eu me poSICiono com reSPEIto HOje.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I replace worry with one next action.",
+      "portuguese": "Eu troco a preocupação por uma próxima ação.",
+      "transliteration": "Eu TROco a preoCUPAção por uma próXIMA aÇÃO.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I thank someone, even briefly.",
+      "portuguese": "Eu agradeço a alguém, mesmo que seja rápido.",
+      "transliteration": "Eu aGRAço a alGUÉM, mesMO que seJA ráPIdo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I choose one priority and protect it.",
+      "portuguese": "Eu escolho uma prioridade e protejo ela.",
+      "transliteration": "Eu esCOLho uma PRIoriDAde e proTEjo eLA.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I drink water, then I decide.",
+      "portuguese": "Eu bebo água, depois eu decido.",
+      "transliteration": "Eu beBO ÁGua, dePOIS eu deCIdo.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Is there a fee for cash withdrawal?",
+      "portuguese": "Há taxas para levantar dinheiro em numerário?",
+      "transliteration": "a HA TAX-as pa ra le-van-TAR di-NHEI-roM em nu-me-RÁ-ri-oM?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Can I pay contactless here?",
+      "portuguese": "Dá para pagar por aproximação aqui?",
+      "transliteration": "dÁ pa ra pa-GAR por a-PRÓ-xi-ma-ÇÃO a-qui?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "What’s the overdraft limit?",
+      "portuguese": "Qual é o limite do descoberto?",
+      "transliteration": "qual é o LI-mi-te do des-co-BER-to?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I think my transfer is missing.",
+      "portuguese": "Acho que a transferência não chegou.",
+      "transliteration": "a-CHO que a trans-fe-RÊN-sia não che-GOU.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "How do I block my card?",
+      "portuguese": "Como posso bloquear o meu cartão?",
+      "transliteration": "co-MO pos-so blo-QUE-ar o MEU KAR-tão?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Can you replace a lost card?",
+      "portuguese": "Podem substituir um cartão perdido?",
+      "transliteration": "po-dem suB STI-tuir um KAR-tão PER-di-do?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I need my IBAN for payroll.",
+      "portuguese": "Preciso do meu IBAN para o meu salário.",
+      "transliteration": "pre-CI-so do MEU i-BAN pa ra o MEU sa-LÁ-ri-o.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "How do I get to the university?",
+      "portuguese": "Como chego à universidade?",
+      "transliteration": "KOMo cheh-goo ah oo-nee-VEr-si-DAHDJ?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Is this the right way to downtown?",
+      "portuguese": "É este caminho certo para o centro?",
+      "transliteration": "EH es-teh kah-MEE-nyo SER-too pah-rah oo SEN-tro?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "What bus should I take for the museum?",
+      "portuguese": "Qual ônibus devo pegar para o museu?",
+      "transliteration": "KUAL ON-ih-bus deh-VOH peh-GAR pah-rah oo moo-SEH-o?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Where can I buy a ticket for transit?",
+      "portuguese": "Onde compro bilhete de transporte público?",
+      "transliteration": "ON-geh KOM-proo BIL-yeh-teh jeh trans-por-chi POO-bloo-ko?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Can you tell me the quickest way?",
+      "portuguese": "Qual é o caminho mais rápido daqui?",
+      "transliteration": "KUAL eh oo kah-MEE-nyo mySH pah-PEED-oo dah-KEE?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Which way is the river from here?",
+      "portuguese": "Por onde fica o rio daqui?",
+      "transliteration": "por ON-deh fee-KAH oo JEE-oh dah-KEE?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "How far is the bus stop from here?",
+      "portuguese": "A que distância fica o ponto de ônibus daqui?",
+      "transliteration": "ah keh dis-TAN-sya fee-KAH oo POHn-too deh ON-ih-bus dah-KEE?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I can’t talk, can we text?",
+      "portuguese": "Eu não consigo falar, posso te mandar mensagem?",
+      "transliteration": "eu nÃ£o CONSigo faLAR, POSso te manDAR MENsaGEM",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "What’s the best time to call?",
+      "portuguese": "Qual é o melhor horário para eu te ligar?",
+      "transliteration": "QUAL Ã© o meLhor HOraRIO paRA eu te LIGar",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Are you free for a quick call?",
+      "portuguese": "Você está livre para uma chamada rápida?",
+      "transliteration": "voCÊ esTÁ LIvre paRA uMA chaMAda RÁpiDA",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Please hold on, I’ll check.",
+      "portuguese": "Espera um instante, vou conferir.",
+      "transliteration": "esPEra um insTANte, vou conFERir",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I’m outside, I’ll call again.",
+      "portuguese": "Estou do lado de fora, ligo de novo.",
+      "transliteration": "esTOU DO laDO de FORa, LIgo de NOvo",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Send me your current address.",
+      "portuguese": "Me manda seu endereço atual.",
+      "transliteration": "me manDA seU enDEreÇo aTUAL",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Can you confirm you got my text?",
+      "portuguese": "Você recebeu minha mensagem?",
+      "transliteration": "voCÊ reCEbeu miNha MENsaGEM",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I adjust, not I quit.",
+      "portuguese": "Eu ajusto, não desisto.",
+      "transliteration": "Eu AJUSTO, não DESISTO.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Show up again, even if tired.",
+      "portuguese": "Apareça de novo, mesmo cansado.",
+      "transliteration": "Apareça de NOVO, mesmo CANsado.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I keep going, one task at a time.",
+      "portuguese": "Sigo em frente, uma tarefa de cada vez.",
+      "transliteration": "Sigo em FRENte, uma TArefa de CAda vez.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "When it hurts, I go anyway.",
+      "portuguese": "Quando dói, eu vou do mesmo jeito.",
+      "transliteration": "QuanDO DOi, eu VOU do MESmo JEiTO.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "Progress comes after the stubborn moment.",
+      "portuguese": "O progresso vem depois da teimosia.",
+      "transliteration": "O PROgresso VEM depois da teiMOSIA.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I do the next right thing.",
+      "portuguese": "Eu faço a próxima coisa certa.",
+      "transliteration": "Eu FAÇO a PRÓxima COisa CERTa.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-24T23:31:58.608340"
+    },
+    {
+      "english": "I reload my plan, then restart.",
+      "portuguese": "Eu recarrego o plano e recomeço.",
+      "transliteration": "Eu reCARRego o PLAno e reCOMEço.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-24T23:31:58.608340"
     }
   ],
-  "last_updated": "2026-11-24T01:44:00.610706"
+  "last_updated": "2026-11-24T23:31:58.608340"
 }
